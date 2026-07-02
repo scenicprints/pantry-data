@@ -4,20 +4,20 @@
       "id": "1783014072245689",
       "name": "Classic Almond Biscotti (La Dolce Vita)",
       "barcode": "601408305010",
+      "price": 1.0,
+      "expiring_soon": false,
+      "date_added": "2026-07-02",
+      "last_price": 1.0,
+      "updated_at_ms": 1783014154659,
       "total_weight_g": 1140.0,
       "remaining_weight_g": 840.0,
-      "price": 1.0,
       "price_per_gram": 0.0009,
       "macros_per_100g": {
         "protein_g": 10.5,
         "calories": 447.4,
         "carbs_g": 65.8,
         "fat_g": 18.4
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-02",
-      "last_price": 1.0,
-      "updated_at_ms": 1783014154659
+      }
     }
   ],
   "quick_add_items": []
