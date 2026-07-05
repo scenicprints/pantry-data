@@ -9,7 +9,12 @@ Raw URL for the chef:
 
 ## Schema
 
-Every item is tracked either **by weight (grams)** or **by count** (e.g. eggs).
+Each item has two independent parts:
+
+- **Stock tracking** — either **by weight (grams)** or **by count** (e.g. eggs).
+- **Nutrition** — entered **per serving** (`serving_size` + `serving_unit` +
+  `macros_per_serving`). When the serving unit is grams, a derived
+  `macros_per_100g` is also written for convenience.
 
 ### Weight item
 ```json
@@ -18,10 +23,13 @@ Every item is tracked either **by weight (grams)** or **by count** (e.g. eggs).
   "name": "ground turkey",
   "barcode": "0123456789012",
   "total_weight_g": 454,
-  "remaining_weight_g": 454,
+  "remaining_weight_g": 340,
   "price": 5.99,
   "price_per_gram": 0.0132,
-  "macros_per_100g": { "protein_g": 27, "calories": 170, "carbs_g": 0, "fat_g": 9 },
+  "serving_size": 112,
+  "serving_unit": "g",
+  "macros_per_serving": { "protein_g": 30, "calories": 190, "carbs_g": 0, "fat_g": 10 },
+  "macros_per_100g":    { "protein_g": 27, "calories": 170, "carbs_g": 0, "fat_g": 9 },
   "expiration_date": "2026-07-10",
   "expiring_soon": false,
   "date_added": "2026-07-02",
@@ -31,8 +39,8 @@ Every item is tracked either **by weight (grams)** or **by count** (e.g. eggs).
 ```
 
 ### Count item  (`unit: "count"`)
-Used for things that aren't weighed (eggs, cans). **Amounts are whole units,
-not grams.** `macros_per_unit` is optional and often absent.
+Stock is whole units (eggs, cans). Nutrition is still per serving — a serving
+may be one piece or several.
 ```json
 {
   "id": "unique_id",
@@ -42,7 +50,9 @@ not grams.** `macros_per_unit` is optional and often absent.
   "remaining_count": 9,
   "price": 3.49,
   "price_per_unit": 0.29,
-  "macros_per_unit": { "protein_g": 6, "calories": 72, "carbs_g": 0, "fat_g": 5 },
+  "serving_size": 1,
+  "serving_unit": "piece",
+  "macros_per_serving": { "protein_g": 6, "calories": 72, "carbs_g": 0, "fat_g": 5 },
   "expiration_date": "2026-07-20",
   "expiring_soon": false,
   "date_added": "2026-07-02",
@@ -54,13 +64,18 @@ not grams.** `macros_per_unit` is optional and often absent.
 ### Quick-add staples
 ```json
 { "name": "ground turkey", "barcode": "0123456789012", "last_price": 5.99,
-  "macros_per_100g": { "protein_g": 27, "calories": 170, "carbs_g": 0, "fat_g": 9 } }
+  "serving_size": 112, "serving_unit": "g",
+  "macros_per_serving": { "protein_g": 30, "calories": 190, "carbs_g": 0, "fat_g": 10 } }
 ```
 
 ## Notes for the chef
-- **Check `unit`.** If it is `"count"`, the item is measured in whole units —
-  use `remaining_count` (e.g. "9 eggs"), NOT grams. Otherwise it's grams.
-- `price_per_gram` / `price_per_unit` and `expiring_soon` are derived by the
-  app and written out so you don't recompute them.
+- **Macros are PER SERVING.** Use `serving_size` + `serving_unit` to scale to
+  whatever amount is being cooked. For gram servings, `macros_per_100g` is also
+  provided.
+- **Check `unit`.** `"count"` means whole units — use `remaining_count`
+  (e.g. "9 eggs"), not grams. Otherwise stock is grams.
+- `serving_unit` may be a non-metric label (`cup`, `tbsp`, `cookie`, `scoop`).
+- `price_per_gram` / `price_per_unit`, `expiring_soon`, and `macros_per_100g`
+  are derived by the app so you don't recompute them.
 - `updated_at_ms` is sync bookkeeping — ignore it.
 - Prioritize items with `expiring_soon: true`.
