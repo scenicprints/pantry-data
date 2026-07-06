@@ -68,12 +68,28 @@ may be one piece or several.
   "macros_per_serving": { "protein_g": 30, "calories": 190, "carbs_g": 0, "fat_g": 10 } }
 ```
 
+### Untracked items — spices & "on hand"
+Some items have no amount or cost, just a `category` and a flag. They ARE
+available — treat them as in-stock, don't put them in new buys, and don't rely
+on a specific weight.
+```json
+{ "id": "…", "name": "cumin", "category": "Spices", "spice": true,
+  "expiring_soon": false, "date_added": "2026-07-06", "updated_at_ms": 0 }
+
+{ "id": "…", "name": "leftover rice", "category": "Pantry",
+  "quantity_unknown": true, "expiring_soon": false, "date_added": "…", "updated_at_ms": 0 }
+```
+
 ## Notes for the chef
 - **Macros are PER SERVING.** Use `serving_size` + `serving_unit` to scale to
   whatever amount is being cooked. For gram servings, `macros_per_100g` is also
   provided.
 - **Check `unit`.** `"count"` means whole units — use `remaining_count`
   (e.g. "9 eggs"), not grams. Otherwise stock is grams.
+- **`spice: true`** → own category ("Spices"), always on hand, no amount/cost.
+  **`quantity_unknown: true`** → the user has it but the amount isn't tracked.
+  Both are available; never list them as new buys.
+- Every item has a `category` (currently `"Pantry"` or `"Spices"`).
 - `serving_unit` may be a non-metric label (`cup`, `tbsp`, `cookie`, `scoop`).
 - `price_per_gram` / `price_per_unit`, `expiring_soon`, and `macros_per_100g`
   are derived by the app so you don't recompute them.
