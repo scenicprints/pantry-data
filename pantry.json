@@ -89,6 +89,33 @@
       "price_per_gram": 0.0209
     },
     {
+      "id": "1783376633922152",
+      "name": "Green Beans",
+      "price": 2.81,
+      "serving_size": 100.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 1.9,
+        "calories": 35.0,
+        "carbs_g": 7.9,
+        "fat_g": 0.3
+      },
+      "macros_per_100g": {
+        "protein_g": 1.9,
+        "calories": 35.0,
+        "carbs_g": 7.9,
+        "fat_g": 0.3
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-06",
+      "last_price": 2.81,
+      "updated_at_ms": 1783376633922,
+      "category": "Pantry",
+      "total_weight_g": 640.0,
+      "remaining_weight_g": 639.6,
+      "price_per_gram": 0.0044
+    },
+    {
       "id": "1783349214537175",
       "name": "Italian Seasoning",
       "price": 0.0,
