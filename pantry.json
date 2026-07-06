@@ -45,6 +45,21 @@
       "price_per_gram": 0.0
     },
     {
+      "id": "1783349334754800",
+      "name": "Challenge Unsalted Butter",
+      "barcode": "4720015551",
+      "price": 0.0,
+      "expiring_soon": false,
+      "date_added": "2026-07-06",
+      "last_price": 0.0,
+      "updated_at_ms": 1783349334754,
+      "category": "Pantry",
+      "quantity_unknown": true,
+      "total_weight_g": 0.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0
+    },
+    {
       "id": "1783296063211720",
       "name": "Fettuccine Style Plant Based Noodles (Miracle Noodle)",
       "barcode": "854126008156",
