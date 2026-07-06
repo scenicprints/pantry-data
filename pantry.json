@@ -88,6 +88,20 @@
       "price_per_gram": 0.0
     },
     {
+      "id": "1783349224353901",
+      "name": "Paprika",
+      "price": 0.0,
+      "expiring_soon": false,
+      "date_added": "2026-07-06",
+      "last_price": 0.0,
+      "updated_at_ms": 1783349224353,
+      "category": "Spices",
+      "spice": true,
+      "total_weight_g": 0.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0
+    },
+    {
       "id": "1783349203641401",
       "name": "Pepper",
       "price": 0.0,
