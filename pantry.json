@@ -24,9 +24,25 @@
       "date_added": "2026-07-05",
       "last_price": 3.56,
       "updated_at_ms": 1783344633485,
+      "category": "Pantry",
       "total_weight_g": 170.0,
       "remaining_weight_g": 170.0,
       "price_per_gram": 0.0209
+    },
+    {
+      "id": "1783349181208508",
+      "name": "Avocado Oil",
+      "barcode": "098487968197",
+      "price": 0.0,
+      "expiring_soon": false,
+      "date_added": "2026-07-06",
+      "last_price": 0.0,
+      "updated_at_ms": 1783349181208,
+      "category": "Spices",
+      "spice": true,
+      "total_weight_g": 0.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0
     },
     {
       "id": "1783296063211720",
@@ -52,6 +68,7 @@
       "date_added": "2026-07-05",
       "last_price": 3.56,
       "updated_at_ms": 1783344607665,
+      "category": "Pantry",
       "total_weight_g": 170.0,
       "remaining_weight_g": 170.0,
       "price_per_gram": 0.0209
@@ -80,6 +97,7 @@
       "date_added": "2026-07-05",
       "last_price": 3.56,
       "updated_at_ms": 1783344587095,
+      "category": "Pantry",
       "total_weight_g": 170.0,
       "remaining_weight_g": 170.0,
       "price_per_gram": 0.0209
