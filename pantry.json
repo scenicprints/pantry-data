@@ -60,8 +60,8 @@
       "id": "1783296025377780",
       "name": "Spaghetti (Miracle Noodle Organic)",
       "barcode": "854126008149",
-      "price": 3.6,
-      "serving_size": 170.0,
+      "price": 3.56,
+      "serving_size": 85.0,
       "serving_unit": "g",
       "macros_per_serving": {
         "protein_g": 0.0,
@@ -71,18 +71,18 @@
       },
       "macros_per_100g": {
         "protein_g": 0.0,
-        "calories": 2.9,
-        "carbs_g": 1.8,
+        "calories": 5.9,
+        "carbs_g": 3.5,
         "fat_g": 0.0
       },
       "expiration_date": "2027-12-16",
       "expiring_soon": false,
       "date_added": "2026-07-05",
-      "last_price": 3.6,
-      "updated_at_ms": 1783312136872,
-      "total_weight_g": 85.0,
-      "remaining_weight_g": 85.0,
-      "price_per_gram": 0.0424
+      "last_price": 3.56,
+      "updated_at_ms": 1783344587095,
+      "total_weight_g": 170.0,
+      "remaining_weight_g": 170.0,
+      "price_per_gram": 0.0209
     }
   ],
   "quick_add_items": []
