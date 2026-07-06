@@ -116,6 +116,34 @@
       "price_per_gram": 0.0044
     },
     {
+      "id": "1783376700229718",
+      "name": "Honey (Essential Everyday)",
+      "barcode": "041303027318",
+      "price": 4.99,
+      "serving_size": 21.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.0,
+        "calories": 323.8,
+        "carbs_g": 80.9,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.0,
+        "calories": 1541.9,
+        "carbs_g": 385.2,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-06",
+      "last_price": 4.99,
+      "updated_at_ms": 1783376700229,
+      "category": "Pantry",
+      "total_weight_g": 336.0,
+      "remaining_weight_g": 336.0,
+      "price_per_gram": 0.0149
+    },
+    {
       "id": "1783349214537175",
       "name": "Italian Seasoning",
       "price": 0.0,
