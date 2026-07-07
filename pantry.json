@@ -89,6 +89,34 @@
       "price_per_gram": 0.0209
     },
     {
+      "id": "1783468697488781",
+      "name": "FF Breast Tenders",
+      "barcode": "254164723972",
+      "price": 23.97,
+      "serving_size": 112.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 25.0,
+        "calories": 110.0,
+        "carbs_g": 0.0,
+        "fat_g": 1.5
+      },
+      "macros_per_100g": {
+        "protein_g": 22.3,
+        "calories": 98.2,
+        "carbs_g": 0.0,
+        "fat_g": 1.3
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-07",
+      "last_price": 23.97,
+      "updated_at_ms": 1783468697488,
+      "category": "Pantry",
+      "total_weight_g": 1360.8,
+      "remaining_weight_g": 1360.8,
+      "price_per_gram": 0.0176
+    },
+    {
       "id": "1783376828767188",
       "name": "fresh ground turkey (Jennie-O)",
       "barcode": "042222302005",
