@@ -144,6 +144,33 @@
       "price_per_gram": 0.0044
     },
     {
+      "id": "1783468474202565",
+      "name": "Green Onion",
+      "price": 1.99,
+      "serving_size": 15.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.3,
+        "calories": 5.0,
+        "carbs_g": 1.1,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 2.0,
+        "calories": 33.3,
+        "carbs_g": 7.3,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-07",
+      "last_price": 1.99,
+      "updated_at_ms": 1783468474202,
+      "category": "Pantry",
+      "total_weight_g": 80.0,
+      "remaining_weight_g": 80.0,
+      "price_per_gram": 0.0249
+    },
+    {
       "id": "1783376700229718",
       "name": "Honey (Essential Everyday)",
       "barcode": "041303027318",
