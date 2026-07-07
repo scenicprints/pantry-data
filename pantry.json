@@ -45,34 +45,6 @@
       "price_per_gram": 0.0
     },
     {
-      "id": "1783378821712932",
-      "name": "basel",
-      "barcode": "798399102",
-      "price": 0.79,
-      "serving_size": 40.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.7,
-        "calories": 8.0,
-        "carbs_g": 1.0,
-        "fat_g": 1.4
-      },
-      "macros_per_100g": {
-        "protein_g": 1.8,
-        "calories": 20.0,
-        "carbs_g": 2.5,
-        "fat_g": 3.5
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-06",
-      "last_price": 0.79,
-      "updated_at_ms": 1783383383923,
-      "category": "Pantry",
-      "total_weight_g": 40.0,
-      "remaining_weight_g": 15.0,
-      "price_per_gram": 0.0198
-    },
-    {
       "id": "1783349334754800",
       "name": "Challenge Unsalted Butter",
       "barcode": "4720015551",
