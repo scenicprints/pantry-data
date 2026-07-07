@@ -285,6 +285,34 @@
       "total_weight_g": 0.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0
+    },
+    {
+      "id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "barcode": "717311000260",
+      "price": 5.99,
+      "serving_size": 148.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 2.0,
+        "calories": 60.8,
+        "carbs_g": 14.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 1.4,
+        "calories": 41.1,
+        "carbs_g": 9.5,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-07",
+      "last_price": 5.99,
+      "updated_at_ms": 1783468342307,
+      "category": "Pantry",
+      "total_weight_g": 1036.0,
+      "remaining_weight_g": 1036.0,
+      "price_per_gram": 0.0058
     }
   ],
   "quick_add_items": []
