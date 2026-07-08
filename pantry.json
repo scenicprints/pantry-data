@@ -63,7 +63,7 @@
       "id": "1783296063211720",
       "name": "Fettuccine Style Plant Based Noodles (Miracle Noodle)",
       "barcode": "854126008156",
-      "price": 3.56,
+      "price": 3.6,
       "serving_size": 85.0,
       "serving_unit": "g",
       "macros_per_serving": {
@@ -80,13 +80,13 @@
       },
       "expiration_date": "2027-05-27",
       "expiring_soon": false,
-      "date_added": "2026-07-05",
-      "last_price": 3.56,
-      "updated_at_ms": 1783471881035,
+      "date_added": "2026-07-07",
+      "last_price": 3.6,
+      "updated_at_ms": 1783473157588,
       "category": "Pantry",
       "total_weight_g": 170.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0209
+      "remaining_weight_g": 170.0,
+      "price_per_gram": 0.0212
     },
     {
       "id": "1783468697488781",
