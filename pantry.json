@@ -52,7 +52,7 @@
       "expiring_soon": false,
       "date_added": "2026-07-06",
       "last_price": 0.0,
-      "updated_at_ms": 1783349334754,
+      "updated_at_ms": 1783471881035,
       "category": "Pantry",
       "quantity_unknown": true,
       "total_weight_g": 0.0,
@@ -82,10 +82,10 @@
       "expiring_soon": false,
       "date_added": "2026-07-05",
       "last_price": 3.56,
-      "updated_at_ms": 1783344607665,
+      "updated_at_ms": 1783471881035,
       "category": "Pantry",
       "total_weight_g": 170.0,
-      "remaining_weight_g": 170.0,
+      "remaining_weight_g": 0.0,
       "price_per_gram": 0.0209
     },
     {
@@ -110,10 +110,10 @@
       "expiring_soon": false,
       "date_added": "2026-07-07",
       "last_price": 23.97,
-      "updated_at_ms": 1783468697488,
+      "updated_at_ms": 1783471881035,
       "category": "Pantry",
       "total_weight_g": 1360.8,
-      "remaining_weight_g": 1360.8,
+      "remaining_weight_g": 748.8,
       "price_per_gram": 0.0176
     },
     {
@@ -192,10 +192,10 @@
       "expiring_soon": false,
       "date_added": "2026-07-07",
       "last_price": 1.99,
-      "updated_at_ms": 1783468474202,
+      "updated_at_ms": 1783471881035,
       "category": "Pantry",
       "total_weight_g": 80.0,
-      "remaining_weight_g": 80.0,
+      "remaining_weight_g": 63.0,
       "price_per_gram": 0.0249
     },
     {
@@ -220,10 +220,10 @@
       "expiring_soon": false,
       "date_added": "2026-07-06",
       "last_price": 4.99,
-      "updated_at_ms": 1783383383923,
+      "updated_at_ms": 1783471881035,
       "category": "Pantry",
       "total_weight_g": 336.0,
-      "remaining_weight_g": 323.0,
+      "remaining_weight_g": 278.0,
       "price_per_gram": 0.0149
     },
     {
@@ -248,7 +248,7 @@
       "expiring_soon": false,
       "date_added": "2026-07-06",
       "last_price": 0.0,
-      "updated_at_ms": 1783383383923,
+      "updated_at_ms": 1783471881035,
       "category": "Pantry",
       "quantity_unknown": true,
       "total_weight_g": 0.0,
