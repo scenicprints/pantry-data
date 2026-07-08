@@ -60,6 +60,12 @@
       "unit_price": 0.0058,
       "unit": "g",
       "ts": 1783547385153
+    },
+    {
+      "name": "Valletta Orange Juice",
+      "unit_price": 0.011,
+      "unit": "g",
+      "ts": 1783552099084
     }
   ]
 }
