@@ -45,21 +45,6 @@
       "price_per_gram": 0.0
     },
     {
-      "id": "1783349334754800",
-      "name": "Challenge Unsalted Butter",
-      "barcode": "4720015551",
-      "price": 0.0,
-      "expiring_soon": false,
-      "date_added": "2026-07-06",
-      "last_price": 0.0,
-      "updated_at_ms": 1783471881035,
-      "category": "Pantry",
-      "quantity_unknown": true,
-      "total_weight_g": 0.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0
-    },
-    {
       "id": "1783296063211720",
       "name": "Fettuccine Style Plant Based Noodles (Miracle Noodle)",
       "barcode": "854126008156",
@@ -340,6 +325,33 @@
       "total_weight_g": 0.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0
+    },
+    {
+      "id": "1783552099078555",
+      "name": "Valletta Orange Juice",
+      "price": 4.99,
+      "serving_size": 454.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 3.0,
+        "calories": 200.0,
+        "carbs_g": 47.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.7,
+        "calories": 44.1,
+        "carbs_g": 10.4,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-08",
+      "last_price": 4.99,
+      "updated_at_ms": 1783552099078,
+      "category": "Pantry",
+      "total_weight_g": 454.0,
+      "remaining_weight_g": 453.6,
+      "price_per_gram": 0.011
     },
     {
       "id": "1783468342307182",
