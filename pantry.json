@@ -213,6 +213,34 @@
       "price_per_gram": 0.0249
     },
     {
+      "id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "barcode": "022655722519",
+      "price": 8.49,
+      "serving_size": 112.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 26.0,
+        "calories": 128.8,
+        "carbs_g": 0.0,
+        "fat_g": 2.0
+      },
+      "macros_per_100g": {
+        "protein_g": 23.2,
+        "calories": 115.0,
+        "carbs_g": 0.0,
+        "fat_g": 1.8
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-09",
+      "last_price": 8.49,
+      "updated_at_ms": 1783640628042,
+      "category": "Pantry",
+      "total_weight_g": 448.0,
+      "remaining_weight_g": 448.0,
+      "price_per_gram": 0.019
+    },
+    {
       "id": "1783376700229718",
       "name": "Honey (Essential Everyday)",
       "barcode": "041303027318",
