@@ -73,6 +73,13 @@
       "unit_price": 0.0044,
       "unit": "g",
       "ts": 1783640575381
+    },
+    {
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "barcode": "031142359008",
+      "unit_price": 0.0478,
+      "unit": "g",
+      "ts": 1783640601032
     }
   ]
 }
