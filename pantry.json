@@ -284,6 +284,34 @@
       "price_per_gram": 0.0
     },
     {
+      "id": "1783640601028611",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "barcode": "031142359008",
+      "price": 6.69,
+      "serving_size": 5.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 40.0,
+        "calories": 16.7,
+        "carbs_g": 0.0,
+        "fat_g": 20.0
+      },
+      "macros_per_100g": {
+        "protein_g": 800.0,
+        "calories": 334.0,
+        "carbs_g": 0.0,
+        "fat_g": 400.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-09",
+      "last_price": 6.69,
+      "updated_at_ms": 1783640601028,
+      "category": "Pantry",
+      "total_weight_g": 140.0,
+      "remaining_weight_g": 140.0,
+      "price_per_gram": 0.0478
+    },
+    {
       "id": "1783349203641401",
       "name": "Pepper",
       "price": 0.0,
