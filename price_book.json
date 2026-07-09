@@ -66,6 +66,13 @@
       "unit_price": 0.011,
       "unit": "g",
       "ts": 1783640371265
+    },
+    {
+      "name": "Chicken broth",
+      "barcode": "717544108726",
+      "unit_price": 0.0044,
+      "unit": "g",
+      "ts": 1783640443766
     }
   ]
 }
