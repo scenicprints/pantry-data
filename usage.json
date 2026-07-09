@@ -43,6 +43,17 @@
       "unit_price": 0.0249,
       "cost": 0.6,
       "source": "bodycomp"
+    },
+    {
+      "id": "1783468697488781-1783601022250",
+      "ts": 1783601022250,
+      "item_id": "1783468697488781",
+      "name": "FF Breast Tenders",
+      "amount": 56.0,
+      "unit": "g",
+      "unit_price": 0.0176,
+      "cost": 0.99,
+      "source": "manual"
     }
   ]
 }
