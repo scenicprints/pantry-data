@@ -65,6 +65,17 @@
       "unit_price": 0.0249,
       "cost": 0.97,
       "source": "manual"
+    },
+    {
+      "id": "1783552099078555-1783601045404",
+      "ts": 1783601045404,
+      "item_id": "1783552099078555",
+      "name": "Valletta Orange Juice",
+      "amount": 453.6,
+      "unit": "g",
+      "unit_price": 0.011,
+      "cost": 4.99,
+      "source": "manual"
     }
   ]
 }
