@@ -54,6 +54,17 @@
       "unit_price": 0.0176,
       "cost": 0.99,
       "source": "manual"
+    },
+    {
+      "id": "1783468474202565-1783601027917",
+      "ts": 1783601027917,
+      "item_id": "1783468474202565",
+      "name": "Green Onion",
+      "amount": 39.0,
+      "unit": "g",
+      "unit_price": 0.0249,
+      "cost": 0.97,
+      "source": "manual"
     }
   ]
 }
