@@ -153,6 +153,17 @@
       "unit_price": 0.0044,
       "cost": 0.81,
       "source": "bodycomp"
+    },
+    {
+      "id": "1783640443764992-1783646558894",
+      "ts": 1783646558894,
+      "item_id": "1783640443764992",
+      "name": "Chicken broth",
+      "amount": 226.0,
+      "unit": "g",
+      "unit_price": 0.0044,
+      "cost": 0.98,
+      "source": "manual"
     }
   ]
 }
