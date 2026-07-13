@@ -213,6 +213,35 @@
       "price_per_gram": 0.0249
     },
     {
+      "id": "1783981981141886",
+      "name": "Ground Bison (Great Range)",
+      "barcode": "016447100951",
+      "price": 25.99,
+      "serving_size": 112.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 23.0,
+        "calories": 190.4,
+        "carbs_g": 0.0,
+        "fat_g": 11.0
+      },
+      "macros_per_100g": {
+        "protein_g": 20.5,
+        "calories": 170.0,
+        "carbs_g": 0.0,
+        "fat_g": 9.8
+      },
+      "expiration_date": "2026-07-30",
+      "expiring_soon": false,
+      "date_added": "2026-07-13",
+      "last_price": 25.99,
+      "updated_at_ms": 1783981981141,
+      "category": "Pantry",
+      "total_weight_g": 560.0,
+      "remaining_weight_g": 560.0,
+      "price_per_gram": 0.0464
+    },
+    {
       "id": "1783640628042840",
       "name": "GROUND TURKEY BREAST (Butterball)",
       "barcode": "022655722519",
