@@ -411,6 +411,34 @@
       "price_per_gram": 0.0
     },
     {
+      "id": "1784071975955676",
+      "name": "Ready to Eat Spinach Angel Hair (Miracle Noodle Plant Based Foods)",
+      "barcode": "850033235036",
+      "price": 6.27,
+      "serving_size": 200.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.0,
+        "calories": 10.0,
+        "carbs_g": 5.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.0,
+        "calories": 5.0,
+        "carbs_g": 2.5,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-14",
+      "last_price": 6.27,
+      "updated_at_ms": 1784071975955,
+      "category": "Pantry",
+      "total_weight_g": 400.0,
+      "remaining_weight_g": 400.0,
+      "price_per_gram": 0.0157
+    },
+    {
       "id": "1783349195539890",
       "name": "Salt",
       "price": 0.0,
