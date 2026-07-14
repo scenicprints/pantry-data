@@ -186,6 +186,17 @@
       "unit_price": 0.0684,
       "cost": 6.84,
       "source": "manual"
+    },
+    {
+      "id": "1783468342307182-1784044696735",
+      "ts": 1784044696735,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 187.0,
+      "unit": "g",
+      "unit_price": 0.0058,
+      "cost": 1.08,
+      "source": "manual"
     }
   ]
 }
