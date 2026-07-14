@@ -94,6 +94,13 @@
       "unit_price": 0.0464,
       "unit": "g",
       "ts": 1783990580554
+    },
+    {
+      "name": "Kretschmar Gruyère",
+      "barcode": "2058189516",
+      "unit_price": 0.0684,
+      "unit": "g",
+      "ts": 1783990670655
     }
   ]
 }
