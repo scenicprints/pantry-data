@@ -101,6 +101,13 @@
       "unit_price": 0.0684,
       "unit": "g",
       "ts": 1784071948302
+    },
+    {
+      "name": "Ready to Eat Spinach Angel Hair (Miracle Noodle Plant Based Foods)",
+      "barcode": "850033235036",
+      "unit_price": 0.0157,
+      "unit": "g",
+      "ts": 1784071975958
     }
   ]
 }
