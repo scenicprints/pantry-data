@@ -230,6 +230,17 @@
       "unit_price": 0.0684,
       "cost": 4.65,
       "source": "manual"
+    },
+    {
+      "id": "1784076626243674-1784156317242",
+      "ts": 1784156317242,
+      "item_id": "1784076626243674",
+      "name": "Pasture Raised Beef Ribeye Steak",
+      "amount": 340.2,
+      "unit": "g",
+      "unit_price": 0.0275,
+      "cost": 9.35,
+      "source": "manual"
     }
   ]
 }
