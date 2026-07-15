@@ -122,6 +122,13 @@
       "unit_price": 0.0084,
       "unit": "g",
       "ts": 1784076841463
+    },
+    {
+      "name": "Baby Gold Potatoes",
+      "barcode": "9848796342",
+      "unit_price": 0.0059,
+      "unit": "g",
+      "ts": 1784076862696
     }
   ]
 }
