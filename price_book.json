@@ -115,6 +115,13 @@
       "unit_price": 0.0275,
       "unit": "g",
       "ts": 1784076757990
+    },
+    {
+      "name": "Broccoli (Tesco)",
+      "barcode": "03318003",
+      "unit_price": 0.0084,
+      "unit": "g",
+      "ts": 1784076768938
     }
   ]
 }
