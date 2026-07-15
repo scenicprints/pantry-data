@@ -108,6 +108,13 @@
       "unit_price": 0.0026,
       "unit": "g",
       "ts": 1784076604782
+    },
+    {
+      "name": "Pasture Raised Beef Ribeye Steak",
+      "barcode": "250124709352",
+      "unit_price": 0.0275,
+      "unit": "g",
+      "ts": 1784076626247
     }
   ]
 }
