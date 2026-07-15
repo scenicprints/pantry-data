@@ -73,6 +73,34 @@
       "price_per_gram": 0.0
     },
     {
+      "id": "1784076768931402",
+      "name": "Broccoli (Tesco)",
+      "barcode": "03318003",
+      "price": 3.62,
+      "serving_size": 431.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 2.3,
+        "calories": 27.2,
+        "carbs_g": 5.3,
+        "fat_g": 0.3
+      },
+      "macros_per_100g": {
+        "protein_g": 0.5,
+        "calories": 6.3,
+        "carbs_g": 1.2,
+        "fat_g": 0.1
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-14",
+      "last_price": 3.62,
+      "updated_at_ms": 1784076768931,
+      "category": "Pantry",
+      "total_weight_g": 431.0,
+      "remaining_weight_g": 431.0,
+      "price_per_gram": 0.0084
+    },
+    {
       "id": "1783640443764992",
       "name": "Chicken broth",
       "barcode": "717544108726",
