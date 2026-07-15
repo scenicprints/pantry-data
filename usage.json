@@ -197,6 +197,17 @@
       "unit_price": 0.0058,
       "cost": 1.08,
       "source": "manual"
+    },
+    {
+      "id": "1784076768931402-1784156279661",
+      "ts": 1784156279661,
+      "item_id": "1784076768931402",
+      "name": "Broccoli (Tesco)",
+      "amount": 431.0,
+      "unit": "g",
+      "unit_price": 0.0084,
+      "cost": 3.62,
+      "source": "manual"
     }
   ]
 }
