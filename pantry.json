@@ -425,6 +425,22 @@
       "price_per_gram": 0.0478
     },
     {
+      "id": "1784076626243674",
+      "name": "Pasture Raised Beef Ribeye Steak",
+      "barcode": "250124709352",
+      "price": 9.35,
+      "serving_size": 340.2,
+      "serving_unit": "g",
+      "expiring_soon": false,
+      "date_added": "2026-07-14",
+      "last_price": 9.35,
+      "updated_at_ms": 1784076626243,
+      "category": "Pantry",
+      "total_weight_g": 340.2,
+      "remaining_weight_g": 340.2,
+      "price_per_gram": 0.0275
+    },
+    {
       "id": "1783349203641401",
       "name": "Pepper",
       "price": 0.0,
