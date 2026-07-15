@@ -219,6 +219,17 @@
       "unit_price": 0.0059,
       "cost": 2.65,
       "source": "manual"
+    },
+    {
+      "id": "1783990670649653-1784156307150",
+      "ts": 1784156307150,
+      "item_id": "1783990670649653",
+      "name": "Kretschmar Gruyère",
+      "amount": 68.0,
+      "unit": "g",
+      "unit_price": 0.0684,
+      "cost": 4.65,
+      "source": "manual"
     }
   ]
 }
