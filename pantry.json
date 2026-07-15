@@ -73,6 +73,34 @@
       "price_per_gram": 0.0
     },
     {
+      "id": "1784076862688744",
+      "name": "Baby Gold Potatoes",
+      "barcode": "9848796342",
+      "price": 3.99,
+      "serving_size": 110.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 2.0,
+        "calories": 0.0,
+        "carbs_g": 18.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 1.8,
+        "calories": 0.0,
+        "carbs_g": 16.4,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-14",
+      "last_price": 3.99,
+      "updated_at_ms": 1784076862688,
+      "category": "Pantry",
+      "total_weight_g": 679.8,
+      "remaining_weight_g": 679.8,
+      "price_per_gram": 0.0059
+    },
+    {
       "id": "1784076768931402",
       "name": "Broccoli (Tesco)",
       "barcode": "03318003",
