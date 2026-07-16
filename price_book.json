@@ -143,6 +143,13 @@
       "unit_price": 0.0308,
       "unit": "g",
       "ts": 1784161754631
+    },
+    {
+      "name": "Green Asparagus (Freshona)",
+      "barcode": "20044732",
+      "unit_price": 0.0132,
+      "unit": "g",
+      "ts": 1784161766661
     }
   ]
 }
