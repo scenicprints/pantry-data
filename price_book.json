@@ -129,6 +129,13 @@
       "unit_price": 0.0059,
       "unit": "g",
       "ts": 1784161444950
+    },
+    {
+      "name": "Reduced Fat ultra-filtered milk (fa!rlife)",
+      "barcode": "856312002771",
+      "unit_price": 0.0052,
+      "unit": "g",
+      "ts": 1784161517803
     }
   ]
 }
