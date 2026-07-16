@@ -136,6 +136,13 @@
       "unit_price": 0.0052,
       "unit": "g",
       "ts": 1784161677580
+    },
+    {
+      "name": "Chuck Tender Steak (Hormel)",
+      "barcode": "0087800023675",
+      "unit_price": 0.0308,
+      "unit": "g",
+      "ts": 1784161678919
     }
   ]
 }
