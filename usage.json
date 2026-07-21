@@ -274,6 +274,17 @@
       "unit_price": 0.0132,
       "cost": 5.45,
       "source": "manual"
+    },
+    {
+      "id": "1784161517795367-1784597347164",
+      "ts": 1784597347164,
+      "item_id": "1784161517795367",
+      "name": "Reduced Fat ultra-filtered milk (fa!rlife)",
+      "amount": 41.0,
+      "unit": "g",
+      "unit_price": 0.0052,
+      "cost": 0.21,
+      "source": "manual"
     }
   ]
 }
