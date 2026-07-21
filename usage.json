@@ -263,6 +263,17 @@
       "unit_price": 0.0308,
       "cost": 18.6,
       "source": "manual"
+    },
+    {
+      "id": "1784161766655363-1784597301452",
+      "ts": 1784597301452,
+      "item_id": "1784161766655363",
+      "name": "Green Asparagus (Freshona)",
+      "amount": 412.8,
+      "unit": "g",
+      "unit_price": 0.0132,
+      "cost": 5.45,
+      "source": "manual"
     }
   ]
 }
