@@ -296,6 +296,17 @@
       "unit_price": 0.0153,
       "cost": 5.99,
       "source": "manual"
+    },
+    {
+      "id": "1783376700229718-1784684346736",
+      "ts": 1784684346736,
+      "item_id": "1783376700229718",
+      "name": "Honey (Essential Everyday)",
+      "amount": 21.0,
+      "unit": "g",
+      "unit_price": 0.0149,
+      "cost": 0.31,
+      "source": "manual"
     }
   ]
 }
