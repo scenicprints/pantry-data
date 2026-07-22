@@ -171,6 +171,13 @@
       "unit_price": 0.022,
       "unit": "g",
       "ts": 1784681124517
+    },
+    {
+      "name": "Smoked Sausage",
+      "barcode": "4280419606",
+      "unit_price": 0.0153,
+      "unit": "g",
+      "ts": 1784681162163
     }
   ]
 }
