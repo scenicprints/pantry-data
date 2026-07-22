@@ -318,6 +318,17 @@
       "unit_price": 0.0281,
       "cost": 4.5,
       "source": "manual"
+    },
+    {
+      "id": "1784681100742994-1784684356057",
+      "ts": 1784684356057,
+      "item_id": "1784681100742994",
+      "name": "CHICKEN & APPLE SMOKED CHICKEN SAUSAGE (aidells)",
+      "amount": 340.0,
+      "unit": "g",
+      "unit_price": 0.022,
+      "cost": 7.49,
+      "source": "manual"
     }
   ]
 }
