@@ -150,6 +150,13 @@
       "unit_price": 0.0132,
       "unit": "g",
       "ts": 1784680807074
+    },
+    {
+      "name": "Corn On The Cob (Lidl, Oaklands)",
+      "barcode": "20401634",
+      "unit_price": 0.0281,
+      "unit": "g",
+      "ts": 1784680879696
     }
   ]
 }
