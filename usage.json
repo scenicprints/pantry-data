@@ -285,6 +285,17 @@
       "unit_price": 0.0052,
       "cost": 0.21,
       "source": "manual"
+    },
+    {
+      "id": "1784681162153944-1784684311119",
+      "ts": 1784684311119,
+      "item_id": "1784681162153944",
+      "name": "Smoked Sausage",
+      "amount": 392.0,
+      "unit": "g",
+      "unit_price": 0.0153,
+      "cost": 5.99,
+      "source": "manual"
     }
   ]
 }
