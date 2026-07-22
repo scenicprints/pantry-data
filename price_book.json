@@ -157,6 +157,13 @@
       "unit_price": 0.0281,
       "unit": "g",
       "ts": 1784680946243
+    },
+    {
+      "name": "Plantain Strips",
+      "barcode": "8564140012900",
+      "unit_price": 0.0075,
+      "unit": "g",
+      "ts": 1784681050404
     }
   ]
 }
