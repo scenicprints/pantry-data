@@ -164,6 +164,13 @@
       "unit_price": 0.0075,
       "unit": "g",
       "ts": 1784681050404
+    },
+    {
+      "name": "CHICKEN & APPLE SMOKED CHICKEN SAUSAGE (aidells)",
+      "barcode": "764014208059",
+      "unit_price": 0.022,
+      "unit": "g",
+      "ts": 1784681100746
     }
   ]
 }
