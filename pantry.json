@@ -1,34 +1,6 @@
 {
   "pantry": [
     {
-      "id": "1784072260364347",
-      "name": "Angel Hair Style (Miracle Noodle)",
-      "barcode": "854126008118",
-      "price": 1.05,
-      "serving_size": 85.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.0,
-        "calories": 5.0,
-        "carbs_g": 3.0,
-        "fat_g": 0.0
-      },
-      "macros_per_100g": {
-        "protein_g": 0.0,
-        "calories": 5.9,
-        "carbs_g": 3.5,
-        "fat_g": 0.0
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-14",
-      "last_price": 1.05,
-      "updated_at_ms": 1784072260364,
-      "category": "Pantry",
-      "total_weight_g": 170.0,
-      "remaining_weight_g": 170.0,
-      "price_per_gram": 0.0062
-    },
-    {
       "id": "1783296100427077",
       "name": "Angel Hair Style (Miracle Noodle)",
       "barcode": "854126008118",
@@ -56,6 +28,34 @@
       "total_weight_g": 170.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0209
+    },
+    {
+      "id": "1784072260364347",
+      "name": "Angel Hair Style (Miracle Noodle)",
+      "barcode": "854126008118",
+      "price": 1.05,
+      "serving_size": 85.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.0,
+        "calories": 5.0,
+        "carbs_g": 3.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.0,
+        "calories": 5.9,
+        "carbs_g": 3.5,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-14",
+      "last_price": 1.05,
+      "updated_at_ms": 1784072260364,
+      "category": "Pantry",
+      "total_weight_g": 170.0,
+      "remaining_weight_g": 170.0,
+      "price_per_gram": 0.0062
     },
     {
       "id": "1783349181208508",
@@ -184,6 +184,34 @@
       "total_weight_g": 603.3,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0308
+    },
+    {
+      "id": "1784680879688716",
+      "name": "Corn On The Cob (Lidl, Oaklands)",
+      "barcode": "20401634",
+      "price": 4.5,
+      "serving_size": 100.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 3.2,
+        "calories": 98.0,
+        "carbs_g": 20.5,
+        "fat_g": 2.8
+      },
+      "macros_per_100g": {
+        "protein_g": 3.2,
+        "calories": 98.0,
+        "carbs_g": 20.5,
+        "fat_g": 2.8
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-21",
+      "last_price": 4.5,
+      "updated_at_ms": 1784680879688,
+      "category": "Pantry",
+      "total_weight_g": 160.0,
+      "remaining_weight_g": 160.0,
+      "price_per_gram": 0.0281
     },
     {
       "id": "1783296063211720",
@@ -637,34 +665,6 @@
       "price_per_gram": 0.0
     },
     {
-      "id": "1784072069337693",
-      "name": "Spaghetti (Miracle Noodle Organic)",
-      "barcode": "854126008149",
-      "price": 1.06,
-      "serving_size": 85.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.0,
-        "calories": 5.0,
-        "carbs_g": 3.0,
-        "fat_g": 0.0
-      },
-      "macros_per_100g": {
-        "protein_g": 0.0,
-        "calories": 5.9,
-        "carbs_g": 3.5,
-        "fat_g": 0.0
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-14",
-      "last_price": 1.06,
-      "updated_at_ms": 1784072069337,
-      "category": "Pantry",
-      "total_weight_g": 170.0,
-      "remaining_weight_g": 170.0,
-      "price_per_gram": 0.0062
-    },
-    {
       "id": "1783296025377780",
       "name": "Spaghetti (Miracle Noodle Organic)",
       "barcode": "854126008149",
@@ -692,6 +692,34 @@
       "total_weight_g": 170.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0209
+    },
+    {
+      "id": "1784072069337693",
+      "name": "Spaghetti (Miracle Noodle Organic)",
+      "barcode": "854126008149",
+      "price": 1.06,
+      "serving_size": 85.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.0,
+        "calories": 5.0,
+        "carbs_g": 3.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.0,
+        "calories": 5.9,
+        "carbs_g": 3.5,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-14",
+      "last_price": 1.06,
+      "updated_at_ms": 1784072069337,
+      "category": "Pantry",
+      "total_weight_g": 170.0,
+      "remaining_weight_g": 170.0,
+      "price_per_gram": 0.0062
     },
     {
       "id": "1783349346574908",
