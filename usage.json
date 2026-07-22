@@ -307,6 +307,17 @@
       "unit_price": 0.0149,
       "cost": 0.31,
       "source": "manual"
+    },
+    {
+      "id": "1784680879688716-1784684351716",
+      "ts": 1784684351716,
+      "item_id": "1784680879688716",
+      "name": "Corn On The Cob (Lidl, Oaklands)",
+      "amount": 160.0,
+      "unit": "g",
+      "unit_price": 0.0281,
+      "cost": 4.5,
+      "source": "manual"
     }
   ]
 }
