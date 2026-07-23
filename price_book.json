@@ -185,6 +185,13 @@
       "unit_price": 0.0059,
       "unit": "g",
       "ts": 1784845940688
+    },
+    {
+      "name": "Chicken Broth (Swanson)",
+      "barcode": "051000024299",
+      "unit_price": 0.0046,
+      "unit": "g",
+      "ts": 1784845982176
     }
   ]
 }
