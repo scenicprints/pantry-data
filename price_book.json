@@ -178,6 +178,13 @@
       "unit_price": 0.0153,
       "unit": "g",
       "ts": 1784845917343
+    },
+    {
+      "name": "Traditional Sauce (RAGÚ Simply)",
+      "barcode": "036200430972",
+      "unit_price": 0.0059,
+      "unit": "g",
+      "ts": 1784845940688
     }
   ]
 }
