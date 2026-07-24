@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640601028611-1783646543975-6",
+      "id": "1783640443764992-1783646543975-7",
       "ts": 1783646543975,
-      "item_id": "1783640601028611",
-      "name": "Parmesan Freshly Grated (BelGioioso)",
-      "amount": 45.0,
+      "item_id": "1783640443764992",
+      "name": "Chicken broth",
+      "amount": 185.0,
       "unit": "g",
-      "unit_price": 0.0478,
-      "cost": 2.15,
+      "unit_price": 0.0044,
+      "cost": 0.81,
       "source": "bodycomp"
     },
     {
@@ -144,14 +144,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783640443764992-1783646543975-7",
+      "id": "1783640601028611-1783646543975-6",
       "ts": 1783646543975,
-      "item_id": "1783640443764992",
-      "name": "Chicken broth",
-      "amount": 185.0,
+      "item_id": "1783640601028611",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 45.0,
       "unit": "g",
-      "unit_price": 0.0044,
-      "cost": 0.81,
+      "unit_price": 0.0478,
+      "cost": 2.15,
       "source": "bodycomp"
     },
     {
@@ -427,6 +427,17 @@
       "unit": "g",
       "unit_price": 0.0046,
       "cost": 1.89,
+      "source": "manual"
+    },
+    {
+      "id": "1784845940686636-1784853953116",
+      "ts": 1784853953116,
+      "item_id": "1784845940686636",
+      "name": "Traditional Sauce (RAGÚ Simply)",
+      "amount": 455.0,
+      "unit": "g",
+      "unit_price": 0.0059,
+      "cost": 2.69,
       "source": "manual"
     }
   ]
