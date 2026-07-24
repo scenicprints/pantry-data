@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783468342307182-1783646543975-3",
+      "id": "1783640601028611-1783646543975-6",
       "ts": 1783646543975,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 117.0,
+      "item_id": "1783640601028611",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 45.0,
       "unit": "g",
-      "unit_price": 0.0058,
-      "cost": 0.68,
+      "unit_price": 0.0478,
+      "cost": 2.15,
       "source": "bodycomp"
     },
     {
@@ -133,14 +133,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783640601028611-1783646543975-6",
+      "id": "1783468342307182-1783646543975-3",
       "ts": 1783646543975,
-      "item_id": "1783640601028611",
-      "name": "Parmesan Freshly Grated (BelGioioso)",
-      "amount": 45.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 117.0,
       "unit": "g",
-      "unit_price": 0.0478,
-      "cost": 2.15,
+      "unit_price": 0.0058,
+      "cost": 0.68,
       "source": "bodycomp"
     },
     {
@@ -394,6 +394,17 @@
       "unit": "g",
       "unit_price": 0.0075,
       "cost": 2.25,
+      "source": "manual"
+    },
+    {
+      "id": "1783640601028611-1784853925694",
+      "ts": 1784853925694,
+      "item_id": "1783640601028611",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 30.0,
+      "unit": "g",
+      "unit_price": 0.0478,
+      "cost": 1.43,
       "source": "manual"
     }
   ]
