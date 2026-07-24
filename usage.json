@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640628042840-1783646543975-1",
+      "id": "1783468342307182-1783646543975-3",
       "ts": 1783646543975,
-      "item_id": "1783640628042840",
-      "name": "GROUND TURKEY BREAST (Butterball)",
-      "amount": 448.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 117.0,
       "unit": "g",
-      "unit_price": 0.019,
-      "cost": 8.51,
+      "unit_price": 0.0058,
+      "cost": 0.68,
       "source": "bodycomp"
     },
     {
@@ -122,14 +122,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1783646543975-3",
+      "id": "1783640628042840-1783646543975-1",
       "ts": 1783646543975,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 117.0,
+      "item_id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "amount": 448.0,
       "unit": "g",
-      "unit_price": 0.0058,
-      "cost": 0.68,
+      "unit_price": 0.019,
+      "cost": 8.51,
       "source": "bodycomp"
     },
     {
@@ -383,6 +383,17 @@
       "unit": "g",
       "unit_price": 0.0062,
       "cost": 1.06,
+      "source": "manual"
+    },
+    {
+      "id": "1784681050401909-1784853920876",
+      "ts": 1784853920876,
+      "item_id": "1784681050401909",
+      "name": "Plantain Strips",
+      "amount": 300.0,
+      "unit": "g",
+      "unit_price": 0.0075,
+      "cost": 2.25,
       "source": "manual"
     }
   ]
