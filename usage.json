@@ -351,6 +351,17 @@
       "unit_price": 0.0058,
       "cost": 1.16,
       "source": "manual"
+    },
+    {
+      "id": "1784846035783052-1784853863459",
+      "ts": 1784853863459,
+      "item_id": "1784846035783052",
+      "name": "Tomato Paste",
+      "amount": 45.0,
+      "unit": "g",
+      "unit_price": 0.0072,
+      "cost": 0.32,
+      "source": "manual"
     }
   ]
 }
