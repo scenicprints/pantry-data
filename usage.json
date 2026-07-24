@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640628042840-1783646543975-1",
+      "id": "1783640601028611-1783646543975-6",
       "ts": 1783646543975,
-      "item_id": "1783640628042840",
-      "name": "GROUND TURKEY BREAST (Butterball)",
-      "amount": 448.0,
+      "item_id": "1783640601028611",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 45.0,
       "unit": "g",
-      "unit_price": 0.019,
-      "cost": 8.51,
+      "unit_price": 0.0478,
+      "cost": 2.15,
       "source": "bodycomp"
     },
     {
@@ -133,14 +133,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783640601028611-1783646543975-6",
+      "id": "1783640628042840-1783646543975-1",
       "ts": 1783646543975,
-      "item_id": "1783640601028611",
-      "name": "Parmesan Freshly Grated (BelGioioso)",
-      "amount": 45.0,
+      "item_id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "amount": 448.0,
       "unit": "g",
-      "unit_price": 0.0478,
-      "cost": 2.15,
+      "unit_price": 0.019,
+      "cost": 8.51,
       "source": "bodycomp"
     },
     {
@@ -372,6 +372,17 @@
       "unit": "g",
       "unit_price": 0.0149,
       "cost": 0.27,
+      "source": "manual"
+    },
+    {
+      "id": "1784072069337693-1784853902767",
+      "ts": 1784853902767,
+      "item_id": "1784072069337693",
+      "name": "Spaghetti (Miracle Noodle Organic)",
+      "amount": 170.0,
+      "unit": "g",
+      "unit_price": 0.0062,
+      "cost": 1.06,
       "source": "manual"
     }
   ]
