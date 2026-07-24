@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640628042840-1783646543975-1",
+      "id": "1783468342307182-1783646543975-3",
       "ts": 1783646543975,
-      "item_id": "1783640628042840",
-      "name": "GROUND TURKEY BREAST (Butterball)",
-      "amount": 448.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 117.0,
       "unit": "g",
-      "unit_price": 0.019,
-      "cost": 8.51,
+      "unit_price": 0.0058,
+      "cost": 0.68,
       "source": "bodycomp"
     },
     {
@@ -122,14 +122,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1783646543975-3",
+      "id": "1783640628042840-1783646543975-1",
       "ts": 1783646543975,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 117.0,
+      "item_id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "amount": 448.0,
       "unit": "g",
-      "unit_price": 0.0058,
-      "cost": 0.68,
+      "unit_price": 0.019,
+      "cost": 8.51,
       "source": "bodycomp"
     },
     {
@@ -361,6 +361,17 @@
       "unit": "g",
       "unit_price": 0.0072,
       "cost": 0.32,
+      "source": "manual"
+    },
+    {
+      "id": "1783376700229718-1784853874571",
+      "ts": 1784853874571,
+      "item_id": "1783376700229718",
+      "name": "Honey (Essential Everyday)",
+      "amount": 18.0,
+      "unit": "g",
+      "unit_price": 0.0149,
+      "cost": 0.27,
       "source": "manual"
     }
   ]
