@@ -199,6 +199,12 @@
       "unit_price": 0.0072,
       "unit": "g",
       "ts": 1785375544414
+    },
+    {
+      "name": "Broccoli, raw",
+      "unit_price": 0.0066,
+      "unit": "g",
+      "ts": 1785375562696
     }
   ]
 }
