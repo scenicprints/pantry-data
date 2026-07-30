@@ -219,6 +219,12 @@
       "unit_price": 0.0067,
       "unit": "g",
       "ts": 1785375779063
+    },
+    {
+      "name": "Chicken breast, grilled without sauce, skin not eaten",
+      "unit_price": 0.0099,
+      "unit": "g",
+      "ts": 1785375793663
     }
   ]
 }
