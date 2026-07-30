@@ -205,6 +205,13 @@
       "unit_price": 0.0066,
       "unit": "g",
       "ts": 1785375587764
+    },
+    {
+      "name": "100% Fresh Squeezed Orange Juice",
+      "barcode": "098487968531",
+      "unit_price": 0.4988,
+      "unit": "g",
+      "ts": 1785375679687
     }
   ]
 }
