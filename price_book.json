@@ -212,6 +212,13 @@
       "unit_price": 0.4988,
       "unit": "g",
       "ts": 1785375679687
+    },
+    {
+      "name": "Unbleached All-purpose Flour Organic (King Arthur Baking Company)",
+      "barcode": "071012080052",
+      "unit_price": 0.0067,
+      "unit": "g",
+      "ts": 1785375701061
     }
   ]
 }
