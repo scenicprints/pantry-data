@@ -483,6 +483,17 @@
       "unit_price": 0.0099,
       "cost": 9.02,
       "source": "manual"
+    },
+    {
+      "id": "1785375701054005-1785383468364",
+      "ts": 1785383468364,
+      "item_id": "1785375701054005",
+      "name": "Unbleached All-purpose Flour Organic (King Arthur Baking Company)",
+      "amount": 86.0,
+      "unit": "g",
+      "unit_price": 0.0067,
+      "cost": 0.57,
+      "source": "manual"
     }
   ]
 }
