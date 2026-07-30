@@ -439,6 +439,17 @@
       "unit_price": 0.0059,
       "cost": 2.69,
       "source": "manual"
+    },
+    {
+      "id": "1785375679684253-1785383377938",
+      "ts": 1785383377938,
+      "item_id": "1785375679684253",
+      "name": "100% Fresh Squeezed Orange Juice",
+      "amount": 8.0,
+      "unit": "g",
+      "unit_price": 0.4988,
+      "cost": 3.99,
+      "source": "manual"
     }
   ]
 }
