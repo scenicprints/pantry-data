@@ -461,6 +461,17 @@
       "unit_price": 0.0062,
       "cost": 0.53,
       "source": "manual"
+    },
+    {
+      "id": "1785375562689546-1785383395131",
+      "ts": 1785383395131,
+      "item_id": "1785375562689546",
+      "name": "Broccoli, raw",
+      "amount": 571.5,
+      "unit": "g",
+      "unit_price": 0.0066,
+      "cost": 3.77,
+      "source": "manual"
     }
   ]
 }
