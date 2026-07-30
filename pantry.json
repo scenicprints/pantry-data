@@ -1,33 +1,26 @@
 {
   "pantry": [
     {
-      "id": "1783296100427077",
-      "name": "Angel Hair Style (Miracle Noodle)",
-      "barcode": "854126008118",
-      "price": 3.56,
-      "serving_size": 85.0,
-      "serving_unit": "g",
+      "id": "1785375679684253",
+      "name": "100% Fresh Squeezed Orange Juice",
+      "barcode": "098487968531",
+      "price": 3.99,
+      "serving_size": 8.0,
+      "serving_unit": "oz",
       "macros_per_serving": {
-        "protein_g": 0.0,
-        "calories": 5.0,
-        "carbs_g": 3.0,
+        "protein_g": 1.0,
+        "calories": 110.0,
+        "carbs_g": 29.0,
         "fat_g": 0.0
       },
-      "macros_per_100g": {
-        "protein_g": 0.0,
-        "calories": 5.9,
-        "carbs_g": 3.5,
-        "fat_g": 0.0
-      },
-      "expiration_date": "2027-10-10",
       "expiring_soon": false,
-      "date_added": "2026-07-05",
-      "last_price": 3.56,
-      "updated_at_ms": 1783601062316,
+      "date_added": "2026-07-29",
+      "last_price": 3.99,
+      "updated_at_ms": 1785375679684,
       "category": "Pantry",
-      "total_weight_g": 170.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0209
+      "total_weight_g": 8.0,
+      "remaining_weight_g": 8.0,
+      "price_per_gram": 0.4988
     },
     {
       "id": "1784072260364347",
@@ -56,6 +49,35 @@
       "total_weight_g": 170.0,
       "remaining_weight_g": 170.0,
       "price_per_gram": 0.0062
+    },
+    {
+      "id": "1783296100427077",
+      "name": "Angel Hair Style (Miracle Noodle)",
+      "barcode": "854126008118",
+      "price": 3.56,
+      "serving_size": 85.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.0,
+        "calories": 5.0,
+        "carbs_g": 3.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.0,
+        "calories": 5.9,
+        "carbs_g": 3.5,
+        "fat_g": 0.0
+      },
+      "expiration_date": "2027-10-10",
+      "expiring_soon": false,
+      "date_added": "2026-07-05",
+      "last_price": 3.56,
+      "updated_at_ms": 1783601062316,
+      "category": "Pantry",
+      "total_weight_g": 170.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0209
     },
     {
       "id": "1783349181208508",
