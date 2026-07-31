@@ -505,6 +505,17 @@
       "unit_price": 0.0478,
       "cost": 0.57,
       "source": "manual"
+    },
+    {
+      "id": "1784072260364347-1785499523999",
+      "ts": 1785499523999,
+      "item_id": "1784072260364347",
+      "name": "Angel Hair Style (Miracle Noodle)",
+      "amount": 85.0,
+      "unit": "g",
+      "unit_price": 0.0062,
+      "cost": 0.53,
+      "source": "manual"
     }
   ]
 }
