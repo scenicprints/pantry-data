@@ -494,6 +494,17 @@
       "unit_price": 0.0067,
       "cost": 0.57,
       "source": "manual"
+    },
+    {
+      "id": "1783640601028611-1785383494935",
+      "ts": 1785383494935,
+      "item_id": "1783640601028611",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 12.0,
+      "unit": "g",
+      "unit_price": 0.0478,
+      "cost": 0.57,
+      "source": "manual"
     }
   ]
 }
