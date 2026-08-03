@@ -403,34 +403,6 @@
       "price_per_gram": 0.0176
     },
     {
-      "id": "1783376828767188",
-      "name": "fresh ground turkey (Jennie-O)",
-      "barcode": "042222302005",
-      "price": 6.99,
-      "serving_size": 112.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 22.0,
-        "calories": 170.0,
-        "carbs_g": 0.0,
-        "fat_g": 8.0
-      },
-      "macros_per_100g": {
-        "protein_g": 19.6,
-        "calories": 151.8,
-        "carbs_g": 0.0,
-        "fat_g": 7.1
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-06",
-      "last_price": 6.99,
-      "updated_at_ms": 1783387951687,
-      "category": "Pantry",
-      "total_weight_g": 448.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0156
-    },
-    {
       "id": "1784846060464030",
       "name": "fresh ground turkey (Jennie-O)",
       "barcode": "042222302005",
@@ -453,6 +425,34 @@
       "date_added": "2026-07-23",
       "last_price": 6.99,
       "updated_at_ms": 1784853933686,
+      "category": "Pantry",
+      "total_weight_g": 448.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0156
+    },
+    {
+      "id": "1783376828767188",
+      "name": "fresh ground turkey (Jennie-O)",
+      "barcode": "042222302005",
+      "price": 6.99,
+      "serving_size": 112.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 22.0,
+        "calories": 170.0,
+        "carbs_g": 0.0,
+        "fat_g": 8.0
+      },
+      "macros_per_100g": {
+        "protein_g": 19.6,
+        "calories": 151.8,
+        "carbs_g": 0.0,
+        "fat_g": 7.1
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-06",
+      "last_price": 6.99,
+      "updated_at_ms": 1783387951687,
       "category": "Pantry",
       "total_weight_g": 448.0,
       "remaining_weight_g": 0.0,
