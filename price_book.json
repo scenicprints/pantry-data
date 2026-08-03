@@ -225,6 +225,13 @@
       "unit_price": 0.0099,
       "unit": "g",
       "ts": 1785758036450
+    },
+    {
+      "name": "Spinach Angel Hair",
+      "barcode": "X0052EMWI3",
+      "unit_price": 0.084,
+      "unit": "g",
+      "ts": 1785758037657
     }
   ]
 }
