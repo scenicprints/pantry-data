@@ -232,6 +232,13 @@
       "unit_price": 0.084,
       "unit": "g",
       "ts": 1785796487039
+    },
+    {
+      "name": "Tofu (Azumaya)",
+      "barcode": "074326000129",
+      "unit_price": 0.0129,
+      "unit": "g",
+      "ts": 1785796529140
     }
   ]
 }
