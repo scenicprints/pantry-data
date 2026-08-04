@@ -239,6 +239,13 @@
       "unit_price": 0.0129,
       "unit": "g",
       "ts": 1785880831409
+    },
+    {
+      "name": "Boneless, Skinless Chicken Breast Fillet (Just Bare)",
+      "barcode": "074960528294",
+      "unit_price": 0.05,
+      "unit": "g",
+      "ts": 1785880848228
     }
   ]
 }
