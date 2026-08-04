@@ -516,6 +516,17 @@
       "unit_price": 0.0062,
       "cost": 0.53,
       "source": "manual"
+    },
+    {
+      "id": "1785796529138143-1785806439642-1",
+      "ts": 1785806439642,
+      "item_id": "1785796529138143",
+      "name": "Tofu (Azumaya)",
+      "amount": 425.0,
+      "unit": "g",
+      "unit_price": 0.0129,
+      "cost": 5.48,
+      "source": "bodycomp"
     }
   ]
 }
