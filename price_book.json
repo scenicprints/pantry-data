@@ -246,6 +246,13 @@
       "unit_price": 0.05,
       "unit": "g",
       "ts": 1786144286500
+    },
+    {
+      "name": "Egg (Costco)",
+      "barcode": "096619102556",
+      "unit_price": 0.0024,
+      "unit": "g",
+      "ts": 1786144321749
     }
   ]
 }
