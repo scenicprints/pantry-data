@@ -549,6 +549,17 @@
       "unit_price": 0.0464,
       "cost": 13.0,
       "source": "manual"
+    },
+    {
+      "id": "1785880848224418-1786113125795",
+      "ts": 1786113125795,
+      "item_id": "1785880848224418",
+      "name": "Boneless, Skinless Chicken Breast Fillet (Just Bare)",
+      "amount": 560.0,
+      "unit": "g",
+      "unit_price": 0.05,
+      "cost": 27.98,
+      "source": "manual"
     }
   ]
 }
