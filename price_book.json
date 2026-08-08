@@ -260,6 +260,13 @@
       "unit_price": 0.0104,
       "unit": "g",
       "ts": 1786153246207
+    },
+    {
+      "name": "Sweet Relish (Mt. Olive)",
+      "barcode": "009300000307",
+      "unit_price": 0.0111,
+      "unit": "g",
+      "ts": 1786153248504
     }
   ]
 }
