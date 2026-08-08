@@ -253,6 +253,13 @@
       "unit_price": 0.0024,
       "unit": "g",
       "ts": 1786153183261
+    },
+    {
+      "name": "No Sugar Added Ketchup (Sunny select)",
+      "barcode": "098487968739",
+      "unit_price": 0.0104,
+      "unit": "g",
+      "ts": 1786153214164
     }
   ]
 }
