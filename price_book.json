@@ -274,6 +274,13 @@
       "unit_price": 0.01,
       "unit": "g",
       "ts": 1786406355027
+    },
+    {
+      "name": "BLENDED GREEK YOGURT (OIKOS TRIPLE ZERO)",
+      "barcode": "036632024329",
+      "unit_price": 0.0098,
+      "unit": "g",
+      "ts": 1786406397160
     }
   ]
 }
