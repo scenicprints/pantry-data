@@ -267,6 +267,13 @@
       "unit_price": 0.0111,
       "unit": "g",
       "ts": 1786406203454
+    },
+    {
+      "name": "gold potato (smarter potato company)",
+      "barcode": "0892867001692",
+      "unit_price": 0.01,
+      "unit": "g",
+      "ts": 1786406353715
     }
   ]
 }
