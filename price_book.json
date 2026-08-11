@@ -306,6 +306,12 @@
       "unit_price": 0.0182,
       "unit": "g",
       "ts": 1786406837716
+    },
+    {
+      "name": "Sweet French Bread",
+      "unit_price": 0.048,
+      "unit": "g",
+      "ts": 1786406846025
     }
   ]
 }
