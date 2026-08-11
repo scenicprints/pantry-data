@@ -287,6 +287,12 @@
       "unit_price": 0.0169,
       "unit": "g",
       "ts": 1786406450019
+    },
+    {
+      "name": "Lemons, raw, without peel",
+      "unit_price": 0.01,
+      "unit": "g",
+      "ts": 1786406485750
     }
   ]
 }
