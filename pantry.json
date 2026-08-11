@@ -1536,5 +1536,19 @@
       "price_per_gram": 0.0058
     }
   ],
-  "quick_add_items": []
+  "quick_add_items": [
+    {
+      "name": "Bell Pepper",
+      "last_price": 2.98,
+      "serving_size": 164.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 1.5,
+        "calories": 44.0,
+        "carbs_g": 10.9,
+        "fat_g": 0.2
+      },
+      "last_total_weight_g": 164.0
+    }
+  ]
 }
