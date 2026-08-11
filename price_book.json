@@ -281,6 +281,12 @@
       "unit_price": 0.0098,
       "unit": "g",
       "ts": 1786406397160
+    },
+    {
+      "name": "Parsley, fresh",
+      "unit_price": 0.0169,
+      "unit": "g",
+      "ts": 1786406450019
     }
   ]
 }
