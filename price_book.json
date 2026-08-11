@@ -300,6 +300,12 @@
       "unit_price": 0.0186,
       "unit": "g",
       "ts": 1786406730010
+    },
+    {
+      "name": "Bell Pepper",
+      "unit_price": 0.0182,
+      "unit": "g",
+      "ts": 1786406747017
     }
   ]
 }
