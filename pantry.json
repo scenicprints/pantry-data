@@ -151,6 +151,33 @@
       "price_per_gram": 0.0059
     },
     {
+      "id": "1786406747015050",
+      "name": "Bell Pepper",
+      "price": 2.98,
+      "serving_size": 164.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 1.5,
+        "calories": 44.0,
+        "carbs_g": 10.9,
+        "fat_g": 0.2
+      },
+      "macros_per_100g": {
+        "protein_g": 0.9,
+        "calories": 26.8,
+        "carbs_g": 6.6,
+        "fat_g": 0.1
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-10",
+      "last_price": 2.98,
+      "updated_at_ms": 1786406747015,
+      "category": "Pantry",
+      "total_weight_g": 164.0,
+      "remaining_weight_g": 164.0,
+      "price_per_gram": 0.0182
+    },
+    {
       "id": "1786406397157348",
       "name": "BLENDED GREEK YOGURT (OIKOS TRIPLE ZERO)",
       "barcode": "036632024329",
@@ -570,34 +597,6 @@
       "price_per_gram": 0.0176
     },
     {
-      "id": "1783376828767188",
-      "name": "fresh ground turkey (Jennie-O)",
-      "barcode": "042222302005",
-      "price": 6.99,
-      "serving_size": 112.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 22.0,
-        "calories": 170.0,
-        "carbs_g": 0.0,
-        "fat_g": 8.0
-      },
-      "macros_per_100g": {
-        "protein_g": 19.6,
-        "calories": 151.8,
-        "carbs_g": 0.0,
-        "fat_g": 7.1
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-06",
-      "last_price": 6.99,
-      "updated_at_ms": 1783387951687,
-      "category": "Pantry",
-      "total_weight_g": 448.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0156
-    },
-    {
       "id": "1784846060464030",
       "name": "fresh ground turkey (Jennie-O)",
       "barcode": "042222302005",
@@ -620,6 +619,34 @@
       "date_added": "2026-07-23",
       "last_price": 6.99,
       "updated_at_ms": 1784853933686,
+      "category": "Pantry",
+      "total_weight_g": 448.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0156
+    },
+    {
+      "id": "1783376828767188",
+      "name": "fresh ground turkey (Jennie-O)",
+      "barcode": "042222302005",
+      "price": 6.99,
+      "serving_size": 112.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 22.0,
+        "calories": 170.0,
+        "carbs_g": 0.0,
+        "fat_g": 8.0
+      },
+      "macros_per_100g": {
+        "protein_g": 19.6,
+        "calories": 151.8,
+        "carbs_g": 0.0,
+        "fat_g": 7.1
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-06",
+      "last_price": 6.99,
+      "updated_at_ms": 1783387951687,
       "category": "Pantry",
       "total_weight_g": 448.0,
       "remaining_weight_g": 0.0,
@@ -1173,6 +1200,34 @@
       "price_per_gram": 0.0153
     },
     {
+      "id": "1784072069337693",
+      "name": "Spaghetti (Miracle Noodle Organic)",
+      "barcode": "854126008149",
+      "price": 1.06,
+      "serving_size": 85.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.0,
+        "calories": 5.0,
+        "carbs_g": 3.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.0,
+        "calories": 5.9,
+        "carbs_g": 3.5,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-14",
+      "last_price": 1.06,
+      "updated_at_ms": 1784853902765,
+      "category": "Pantry",
+      "total_weight_g": 170.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0062
+    },
+    {
       "id": "1785758261473994",
       "name": "Spaghetti (Miracle Noodle Organic)",
       "barcode": "854126008149",
@@ -1228,34 +1283,6 @@
       "total_weight_g": 170.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0209
-    },
-    {
-      "id": "1784072069337693",
-      "name": "Spaghetti (Miracle Noodle Organic)",
-      "barcode": "854126008149",
-      "price": 1.06,
-      "serving_size": 85.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.0,
-        "calories": 5.0,
-        "carbs_g": 3.0,
-        "fat_g": 0.0
-      },
-      "macros_per_100g": {
-        "protein_g": 0.0,
-        "calories": 5.9,
-        "carbs_g": 3.5,
-        "fat_g": 0.0
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-14",
-      "last_price": 1.06,
-      "updated_at_ms": 1784853902765,
-      "category": "Pantry",
-      "total_weight_g": 170.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0062
     },
     {
       "id": "1785758037655001",
