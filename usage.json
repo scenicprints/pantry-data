@@ -637,6 +637,17 @@
       "unit_price": 0.0182,
       "cost": 2.98,
       "source": "manual"
+    },
+    {
+      "id": "1786406397157348-1786556382925",
+      "ts": 1786556382925,
+      "item_id": "1786406397157348",
+      "name": "BLENDED GREEK YOGURT (OIKOS TRIPLE ZERO)",
+      "amount": 850.0,
+      "unit": "g",
+      "unit_price": 0.0098,
+      "cost": 8.29,
+      "source": "manual"
     }
   ]
 }
