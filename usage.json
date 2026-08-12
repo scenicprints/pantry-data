@@ -626,6 +626,17 @@
       "unit_price": 0.0024,
       "cost": 0.13,
       "source": "bodycomp"
+    },
+    {
+      "id": "1786406747015050-1786556378094",
+      "ts": 1786556378094,
+      "item_id": "1786406747015050",
+      "name": "Bell Pepper",
+      "amount": 164.0,
+      "unit": "g",
+      "unit_price": 0.0182,
+      "cost": 2.98,
+      "source": "manual"
     }
   ]
 }
