@@ -319,6 +319,13 @@
       "unit_price": 0.0043,
       "unit": "g",
       "ts": 1786575236970
+    },
+    {
+      "name": "Tomato Sauce (Hunt's)",
+      "barcode": "027000390146",
+      "unit_price": 0.0077,
+      "unit": "g",
+      "ts": 1786575354331
     }
   ]
 }
