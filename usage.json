@@ -659,6 +659,17 @@
       "unit_price": 0.01,
       "cost": 4.76,
       "source": "manual"
+    },
+    {
+      "id": "1786406485740229-1786556397759",
+      "ts": 1786556397759,
+      "item_id": "1786406485740229",
+      "name": "Lemons, raw, without peel",
+      "amount": 100.0,
+      "unit": "g",
+      "unit_price": 0.01,
+      "cost": 1.0,
+      "source": "manual"
     }
   ]
 }
