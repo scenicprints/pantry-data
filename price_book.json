@@ -312,6 +312,13 @@
       "unit_price": 0.048,
       "unit": "g",
       "ts": 1786575097123
+    },
+    {
+      "name": "Egg Whites (Kirkland Signature)",
+      "barcode": "096619106233",
+      "unit_price": 0.0043,
+      "unit": "g",
+      "ts": 1786575236970
     }
   ]
 }
