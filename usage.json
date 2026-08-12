@@ -648,6 +648,17 @@
       "unit_price": 0.0098,
       "cost": 8.29,
       "source": "manual"
+    },
+    {
+      "id": "1786406353712994-1786556392521",
+      "ts": 1786556392521,
+      "item_id": "1786406353712994",
+      "name": "gold potato (smarter potato company)",
+      "amount": 476.0,
+      "unit": "g",
+      "unit_price": 0.01,
+      "cost": 4.76,
+      "source": "manual"
     }
   ]
 }
