@@ -670,6 +670,17 @@
       "unit_price": 0.01,
       "cost": 1.0,
       "source": "manual"
+    },
+    {
+      "id": "1786406846022791-1786556411053",
+      "ts": 1786556411053,
+      "item_id": "1786406846022791",
+      "name": "Sweet French Bread",
+      "amount": 56.0,
+      "unit": "g",
+      "unit_price": 0.048,
+      "cost": 2.69,
+      "source": "manual"
     }
   ]
 }
