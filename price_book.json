@@ -340,6 +340,13 @@
       "unit_price": 0.0103,
       "unit": "g",
       "ts": 1786750879299
+    },
+    {
+      "name": "Instant Yeast",
+      "barcode": "040100009299",
+      "unit_price": 0.1384,
+      "unit": "g",
+      "ts": 1786750925537
     }
   ]
 }
