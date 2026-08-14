@@ -1284,6 +1284,35 @@
       "price_per_gram": 0.0153
     },
     {
+      "id": "1783296025377780",
+      "name": "Spaghetti (Miracle Noodle Organic)",
+      "barcode": "854126008149",
+      "price": 3.56,
+      "serving_size": 85.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.0,
+        "calories": 5.0,
+        "carbs_g": 3.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.0,
+        "calories": 5.9,
+        "carbs_g": 3.5,
+        "fat_g": 0.0
+      },
+      "expiration_date": "2027-12-16",
+      "expiring_soon": false,
+      "date_added": "2026-07-05",
+      "last_price": 3.56,
+      "updated_at_ms": 1783383383923,
+      "category": "Pantry",
+      "total_weight_g": 170.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0209
+    },
+    {
       "id": "1785758261473994",
       "name": "Spaghetti (Miracle Noodle Organic)",
       "barcode": "854126008149",
@@ -1340,33 +1369,32 @@
       "price_per_gram": 0.0062
     },
     {
-      "id": "1783296025377780",
-      "name": "Spaghetti (Miracle Noodle Organic)",
-      "barcode": "854126008149",
-      "price": 3.56,
-      "serving_size": 85.0,
+      "id": "1786750879286074",
+      "name": "Spicy Brown Mustard (French's)",
+      "barcode": "041500000428",
+      "price": 3.49,
+      "serving_size": 5.0,
       "serving_unit": "g",
       "macros_per_serving": {
-        "protein_g": 0.0,
-        "calories": 5.0,
-        "carbs_g": 3.0,
-        "fat_g": 0.0
+        "protein_g": 0.3,
+        "calories": 5.1,
+        "carbs_g": 0.3,
+        "fat_g": 0.3
       },
       "macros_per_100g": {
-        "protein_g": 0.0,
-        "calories": 5.9,
-        "carbs_g": 3.5,
-        "fat_g": 0.0
+        "protein_g": 6.0,
+        "calories": 102.0,
+        "carbs_g": 6.0,
+        "fat_g": 6.0
       },
-      "expiration_date": "2027-12-16",
       "expiring_soon": false,
-      "date_added": "2026-07-05",
-      "last_price": 3.56,
-      "updated_at_ms": 1783383383923,
+      "date_added": "2026-08-14",
+      "last_price": 3.49,
+      "updated_at_ms": 1786750879286,
       "category": "Pantry",
-      "total_weight_g": 170.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0209
+      "total_weight_g": 340.0,
+      "remaining_weight_g": 340.0,
+      "price_per_gram": 0.0103
     },
     {
       "id": "1785758037655001",
