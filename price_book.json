@@ -333,6 +333,13 @@
       "unit_price": 0.0088,
       "unit": "g",
       "ts": 1786750844329
+    },
+    {
+      "name": "Spicy Brown Mustard (French's)",
+      "barcode": "041500000428",
+      "unit_price": 0.0103,
+      "unit": "g",
+      "ts": 1786750879299
     }
   ]
 }
