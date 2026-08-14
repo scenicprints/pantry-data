@@ -791,6 +791,34 @@
       "price_per_gram": 0.0249
     },
     {
+      "id": "1786575388440692",
+      "name": "Ground Bison (Great Range)",
+      "barcode": "016447100951",
+      "price": 25.99,
+      "serving_size": 112.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 23.0,
+        "calories": 190.4,
+        "carbs_g": 0.0,
+        "fat_g": 11.0
+      },
+      "macros_per_100g": {
+        "protein_g": 20.5,
+        "calories": 170.0,
+        "carbs_g": 0.0,
+        "fat_g": 9.8
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-12",
+      "last_price": 25.99,
+      "updated_at_ms": 1786575388440,
+      "category": "Pantry",
+      "total_weight_g": 571.2,
+      "remaining_weight_g": 571.2,
+      "price_per_gram": 0.0455
+    },
+    {
       "id": "1783981981141886",
       "name": "Ground Bison (Great Range)",
       "barcode": "016447100951",
@@ -820,34 +848,6 @@
       "price_per_gram": 0.0464
     },
     {
-      "id": "1786575388440692",
-      "name": "Ground Bison (Great Range)",
-      "barcode": "016447100951",
-      "price": 25.99,
-      "serving_size": 112.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 23.0,
-        "calories": 190.4,
-        "carbs_g": 0.0,
-        "fat_g": 11.0
-      },
-      "macros_per_100g": {
-        "protein_g": 20.5,
-        "calories": 170.0,
-        "carbs_g": 0.0,
-        "fat_g": 9.8
-      },
-      "expiring_soon": false,
-      "date_added": "2026-08-12",
-      "last_price": 25.99,
-      "updated_at_ms": 1786575388440,
-      "category": "Pantry",
-      "total_weight_g": 571.2,
-      "remaining_weight_g": 571.2,
-      "price_per_gram": 0.0455
-    },
-    {
       "id": "1783640628042840",
       "name": "GROUND TURKEY BREAST (Butterball)",
       "barcode": "022655722519",
@@ -874,6 +874,34 @@
       "total_weight_g": 448.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.019
+    },
+    {
+      "id": "1786751008525587",
+      "name": "Gruyère",
+      "barcode": "820581895167",
+      "price": 11.49,
+      "serving_size": 28.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 8.0,
+        "calories": 110.0,
+        "carbs_g": 0.0,
+        "fat_g": 9.0
+      },
+      "macros_per_100g": {
+        "protein_g": 28.6,
+        "calories": 392.9,
+        "carbs_g": 0.0,
+        "fat_g": 32.1
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-14",
+      "last_price": 11.49,
+      "updated_at_ms": 1786751008525,
+      "category": "Pantry",
+      "total_weight_g": 168.0,
+      "remaining_weight_g": 168.0,
+      "price_per_gram": 0.0684
     },
     {
       "id": "1783376700229718",
@@ -1300,10 +1328,10 @@
       "price_per_gram": 0.0153
     },
     {
-      "id": "1783296025377780",
+      "id": "1785758261473994",
       "name": "Spaghetti (Miracle Noodle Organic)",
       "barcode": "854126008149",
-      "price": 3.56,
+      "price": 7.12,
       "serving_size": 85.0,
       "serving_unit": "g",
       "macros_per_serving": {
@@ -1318,15 +1346,14 @@
         "carbs_g": 3.5,
         "fat_g": 0.0
       },
-      "expiration_date": "2027-12-16",
       "expiring_soon": false,
-      "date_added": "2026-07-05",
-      "last_price": 3.56,
-      "updated_at_ms": 1783383383923,
+      "date_added": "2026-08-03",
+      "last_price": 7.12,
+      "updated_at_ms": 1785758261473,
       "category": "Pantry",
       "total_weight_g": 170.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0209
+      "remaining_weight_g": 170.0,
+      "price_per_gram": 0.0419
     },
     {
       "id": "1784072069337693",
@@ -1357,10 +1384,10 @@
       "price_per_gram": 0.0062
     },
     {
-      "id": "1785758261473994",
+      "id": "1783296025377780",
       "name": "Spaghetti (Miracle Noodle Organic)",
       "barcode": "854126008149",
-      "price": 7.12,
+      "price": 3.56,
       "serving_size": 85.0,
       "serving_unit": "g",
       "macros_per_serving": {
@@ -1375,14 +1402,15 @@
         "carbs_g": 3.5,
         "fat_g": 0.0
       },
+      "expiration_date": "2027-12-16",
       "expiring_soon": false,
-      "date_added": "2026-08-03",
-      "last_price": 7.12,
-      "updated_at_ms": 1785758261473,
+      "date_added": "2026-07-05",
+      "last_price": 3.56,
+      "updated_at_ms": 1783383383923,
       "category": "Pantry",
       "total_weight_g": 170.0,
-      "remaining_weight_g": 170.0,
-      "price_per_gram": 0.0419
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0209
     },
     {
       "id": "1786750879286074",
