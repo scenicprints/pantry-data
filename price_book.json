@@ -347,6 +347,13 @@
       "unit_price": 0.1384,
       "unit": "g",
       "ts": 1786750925537
+    },
+    {
+      "name": "SWISS (Tillamook)",
+      "barcode": "072830030090",
+      "unit_price": 0.0253,
+      "unit": "g",
+      "ts": 1786750950562
     }
   ]
 }
