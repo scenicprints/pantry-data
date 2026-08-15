@@ -714,6 +714,17 @@
       "unit_price": 0.1384,
       "cost": 0.83,
       "source": "manual"
+    },
+    {
+      "id": "1786406450011949-1786810752309",
+      "ts": 1786810752309,
+      "item_id": "1786406450011949",
+      "name": "Parsley, fresh",
+      "amount": 100.0,
+      "unit": "g",
+      "unit_price": 0.0169,
+      "cost": 1.69,
+      "source": "manual"
     }
   ]
 }
