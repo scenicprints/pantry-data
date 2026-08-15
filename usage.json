@@ -692,6 +692,17 @@
       "unit_price": 0.0024,
       "cost": 0.13,
       "source": "bodycomp"
+    },
+    {
+      "id": "1786575388440692-1786810735254",
+      "ts": 1786810735254,
+      "item_id": "1786575388440692",
+      "name": "Ground Bison (Great Range)",
+      "amount": 571.2,
+      "unit": "g",
+      "unit_price": 0.0455,
+      "cost": 25.99,
+      "source": "manual"
     }
   ]
 }
