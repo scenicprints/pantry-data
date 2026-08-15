@@ -703,6 +703,17 @@
       "unit_price": 0.0455,
       "cost": 25.99,
       "source": "manual"
+    },
+    {
+      "id": "1786750925531182-1786810741851",
+      "ts": 1786810741851,
+      "item_id": "1786750925531182",
+      "name": "Instant Yeast",
+      "amount": 6.0,
+      "unit": "g",
+      "unit_price": 0.1384,
+      "cost": 0.83,
+      "source": "manual"
     }
   ]
 }
