@@ -736,6 +736,17 @@
       "unit_price": 0.0253,
       "cost": 5.69,
       "source": "manual"
+    },
+    {
+      "id": "1786575354324192-1786997318484",
+      "ts": 1786997318484,
+      "item_id": "1786575354324192",
+      "name": "Tomato Sauce (Hunt's)",
+      "amount": 427.8,
+      "unit": "g",
+      "unit_price": 0.0077,
+      "cost": 3.29,
+      "source": "manual"
     }
   ]
 }
