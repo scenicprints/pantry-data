@@ -725,6 +725,17 @@
       "unit_price": 0.0169,
       "cost": 1.69,
       "source": "manual"
+    },
+    {
+      "id": "1786750950559068-1786997310292",
+      "ts": 1786997310292,
+      "item_id": "1786750950559068",
+      "name": "SWISS (Tillamook)",
+      "amount": 225.0,
+      "unit": "g",
+      "unit_price": 0.0253,
+      "cost": 5.69,
+      "source": "manual"
     }
   ]
 }
