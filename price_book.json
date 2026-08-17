@@ -361,6 +361,13 @@
       "unit_price": 0.0684,
       "unit": "g",
       "ts": 1787004746312
+    },
+    {
+      "name": "Tomato Paste, Tomato (Pacific coast)",
+      "barcode": "098487954671",
+      "unit_price": 0.0104,
+      "unit": "g",
+      "ts": 1787004771011
     }
   ]
 }
