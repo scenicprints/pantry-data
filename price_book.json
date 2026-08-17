@@ -368,6 +368,13 @@
       "unit_price": 0.0104,
       "unit": "g",
       "ts": 1787004771011
+    },
+    {
+      "name": "fresh ground turkey breast (Jennie-O)",
+      "barcode": "042222302043",
+      "unit_price": 0.0238,
+      "unit": "g",
+      "ts": 1787004801502
     }
   ]
 }
