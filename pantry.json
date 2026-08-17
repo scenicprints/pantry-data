@@ -1328,34 +1328,6 @@
       "price_per_gram": 0.0153
     },
     {
-      "id": "1784072069337693",
-      "name": "Spaghetti (Miracle Noodle Organic)",
-      "barcode": "854126008149",
-      "price": 1.06,
-      "serving_size": 85.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.0,
-        "calories": 5.0,
-        "carbs_g": 3.0,
-        "fat_g": 0.0
-      },
-      "macros_per_100g": {
-        "protein_g": 0.0,
-        "calories": 5.9,
-        "carbs_g": 3.5,
-        "fat_g": 0.0
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-14",
-      "last_price": 1.06,
-      "updated_at_ms": 1784853902765,
-      "category": "Pantry",
-      "total_weight_g": 170.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0062
-    },
-    {
       "id": "1783296025377780",
       "name": "Spaghetti (Miracle Noodle Organic)",
       "barcode": "854126008149",
@@ -1383,6 +1355,34 @@
       "total_weight_g": 170.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0209
+    },
+    {
+      "id": "1784072069337693",
+      "name": "Spaghetti (Miracle Noodle Organic)",
+      "barcode": "854126008149",
+      "price": 1.06,
+      "serving_size": 85.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.0,
+        "calories": 5.0,
+        "carbs_g": 3.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.0,
+        "calories": 5.9,
+        "carbs_g": 3.5,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-14",
+      "last_price": 1.06,
+      "updated_at_ms": 1784853902765,
+      "category": "Pantry",
+      "total_weight_g": 170.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0062
     },
     {
       "id": "1785758261473994",
@@ -1634,6 +1634,34 @@
       "total_weight_g": 165.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0072
+    },
+    {
+      "id": "1787004771003731",
+      "name": "Tomato Paste, Tomato (Pacific coast)",
+      "barcode": "098487954671",
+      "price": 1.79,
+      "serving_size": 33.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 1.0,
+        "calories": 25.0,
+        "carbs_g": 6.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 3.0,
+        "calories": 75.8,
+        "carbs_g": 18.2,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-17",
+      "last_price": 1.79,
+      "updated_at_ms": 1787004771003,
+      "category": "Pantry",
+      "total_weight_g": 171.6,
+      "remaining_weight_g": 171.6,
+      "price_per_gram": 0.0104
     },
     {
       "id": "1786575354324192",
