@@ -813,6 +813,17 @@
       "unit_price": 0.0018,
       "cost": 0.36,
       "source": "manual"
+    },
+    {
+      "id": "1787004771003731-1787028750318",
+      "ts": 1787028750318,
+      "item_id": "1787004771003731",
+      "name": "Tomato Paste, Tomato (Pacific coast)",
+      "amount": 45.0,
+      "unit": "g",
+      "unit_price": 0.0104,
+      "cost": 0.47,
+      "source": "manual"
     }
   ]
 }
