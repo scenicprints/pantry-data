@@ -791,6 +791,17 @@
       "unit_price": 0.0478,
       "cost": 1.43,
       "source": "manual"
+    },
+    {
+      "id": "1786575483288052-1787028713237",
+      "ts": 1787028713237,
+      "item_id": "1786575483288052",
+      "name": "Tomatoes On The Vine (Windset Farms)",
+      "amount": 792.0,
+      "unit": "g",
+      "unit_price": 0.0088,
+      "cost": 6.95,
+      "source": "manual"
     }
   ]
 }
