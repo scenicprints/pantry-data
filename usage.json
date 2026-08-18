@@ -747,6 +747,17 @@
       "unit_price": 0.0077,
       "cost": 3.29,
       "source": "manual"
+    },
+    {
+      "id": "1787004801494130-1787028651436",
+      "ts": 1787028651436,
+      "item_id": "1787004801494130",
+      "name": "fresh ground turkey breast (Jennie-O)",
+      "amount": 453.6,
+      "unit": "g",
+      "unit_price": 0.0238,
+      "cost": 10.78,
+      "source": "manual"
     }
   ]
 }
