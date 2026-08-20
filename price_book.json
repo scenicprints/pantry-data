@@ -388,6 +388,13 @@
       "unit_price": 0.57,
       "unit": "g",
       "ts": 1787186986731
+    },
+    {
+      "name": "Ultimate Roasted Potatoes (The Little Potato Co.)",
+      "barcode": "629307040146",
+      "unit_price": 0.0045,
+      "unit": "g",
+      "ts": 1787187055916
     }
   ]
 }
