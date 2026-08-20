@@ -382,6 +382,12 @@
       "unit_price": 0.0176,
       "unit": "g",
       "ts": 1787186836371
+    },
+    {
+      "name": "Spices, oregano, dried",
+      "unit_price": 0.57,
+      "unit": "g",
+      "ts": 1787186860700
     }
   ]
 }
