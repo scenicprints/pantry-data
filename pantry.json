@@ -344,6 +344,34 @@
       "price_per_gram": 0.022
     },
     {
+      "id": "1787186767028298",
+      "name": "Chicken Breast Fillets (Co-op)",
+      "barcode": "5000128744836",
+      "price": 17.9,
+      "serving_size": 1016.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 36.0,
+        "calories": 159.0,
+        "carbs_g": 0.0,
+        "fat_g": 1.7
+      },
+      "macros_per_100g": {
+        "protein_g": 3.5,
+        "calories": 15.6,
+        "carbs_g": 0.0,
+        "fat_g": 0.2
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-19",
+      "last_price": 17.9,
+      "updated_at_ms": 1787186767028,
+      "category": "Pantry",
+      "total_weight_g": 1016.0,
+      "remaining_weight_g": 1016.0,
+      "price_per_gram": 0.0176
+    },
+    {
       "id": "1785375793656971",
       "name": "Chicken breast, grilled without sauce, skin not eaten",
       "price": 9.02,
@@ -1356,10 +1384,10 @@
       "price_per_gram": 0.0153
     },
     {
-      "id": "1784072069337693",
+      "id": "1783296025377780",
       "name": "Spaghetti (Miracle Noodle Organic)",
       "barcode": "854126008149",
-      "price": 1.06,
+      "price": 3.56,
       "serving_size": 85.0,
       "serving_unit": "g",
       "macros_per_serving": {
@@ -1374,14 +1402,15 @@
         "carbs_g": 3.5,
         "fat_g": 0.0
       },
+      "expiration_date": "2027-12-16",
       "expiring_soon": false,
-      "date_added": "2026-07-14",
-      "last_price": 1.06,
-      "updated_at_ms": 1784853902765,
+      "date_added": "2026-07-05",
+      "last_price": 3.56,
+      "updated_at_ms": 1783383383923,
       "category": "Pantry",
       "total_weight_g": 170.0,
       "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0062
+      "price_per_gram": 0.0209
     },
     {
       "id": "1785758261473994",
@@ -1412,10 +1441,10 @@
       "price_per_gram": 0.0419
     },
     {
-      "id": "1783296025377780",
+      "id": "1784072069337693",
       "name": "Spaghetti (Miracle Noodle Organic)",
       "barcode": "854126008149",
-      "price": 3.56,
+      "price": 1.06,
       "serving_size": 85.0,
       "serving_unit": "g",
       "macros_per_serving": {
@@ -1430,15 +1459,14 @@
         "carbs_g": 3.5,
         "fat_g": 0.0
       },
-      "expiration_date": "2027-12-16",
       "expiring_soon": false,
-      "date_added": "2026-07-05",
-      "last_price": 3.56,
-      "updated_at_ms": 1783383383923,
+      "date_added": "2026-07-14",
+      "last_price": 1.06,
+      "updated_at_ms": 1784853902765,
       "category": "Pantry",
       "total_weight_g": 170.0,
       "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0209
+      "price_per_gram": 0.0062
     },
     {
       "id": "1786750879286074",
