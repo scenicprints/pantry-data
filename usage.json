@@ -835,6 +835,17 @@
       "unit_price": 0.0176,
       "cost": 9.28,
       "source": "manual"
+    },
+    {
+      "id": "1787187055906324-1787188736516",
+      "ts": 1787188736516,
+      "item_id": "1787187055906324",
+      "name": "Ultimate Roasted Potatoes (The Little Potato Co.)",
+      "amount": 607.0,
+      "unit": "g",
+      "unit_price": 0.0045,
+      "cost": 2.75,
+      "source": "manual"
     }
   ]
 }
