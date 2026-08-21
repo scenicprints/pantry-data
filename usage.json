@@ -868,6 +868,17 @@
       "unit_price": 0.0052,
       "cost": 1.48,
       "source": "manual"
+    },
+    {
+      "id": "1786144321746508-1787277635283-1",
+      "ts": 1787277635283,
+      "item_id": "1786144321746508",
+      "name": "Egg (Costco)",
+      "amount": 600.0,
+      "unit": "g",
+      "unit_price": 0.0024,
+      "cost": 1.44,
+      "source": "bodycomp"
     }
   ]
 }
