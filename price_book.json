@@ -402,6 +402,13 @@
       "unit_price": 0.0203,
       "unit": "g",
       "ts": 1787274126390
+    },
+    {
+      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
+      "barcode": "074562001102",
+      "unit_price": 0.0178,
+      "unit": "g",
+      "ts": 1787274147129
     }
   ]
 }
