@@ -395,6 +395,13 @@
       "unit_price": 0.0045,
       "unit": "g",
       "ts": 1787274094524
+    },
+    {
+      "name": "Oaxaca part skim milk cheese (Cacique)",
+      "barcode": "074562001157",
+      "unit_price": 0.0203,
+      "unit": "g",
+      "ts": 1787274126390
     }
   ]
 }
