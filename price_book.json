@@ -421,6 +421,13 @@
       "unit_price": 0.0062,
       "unit": "g",
       "ts": 1787359850308
+    },
+    {
+      "name": "Greek Yogurt Nonfat Plain (Chobani)",
+      "barcode": "894700010014",
+      "unit_price": 0.0111,
+      "unit": "g",
+      "ts": 1787359874748
     }
   ]
 }
