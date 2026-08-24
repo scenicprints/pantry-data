@@ -967,6 +967,17 @@
       "unit_price": 0.0111,
       "cost": 0.17,
       "source": "manual"
+    },
+    {
+      "id": "1787274126378301-1787612878590",
+      "ts": 1787612878590,
+      "item_id": "1787274126378301",
+      "name": "Oaxaca part skim milk cheese (Cacique)",
+      "amount": 202.0,
+      "unit": "g",
+      "unit_price": 0.0203,
+      "cost": 4.1,
+      "source": "manual"
     }
   ]
 }
