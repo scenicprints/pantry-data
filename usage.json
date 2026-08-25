@@ -978,6 +978,94 @@
       "unit_price": 0.0203,
       "cost": 4.1,
       "source": "manual"
+    },
+    {
+      "id": "1787622383319300-1787625077301-1",
+      "ts": 1787625077301,
+      "item_id": "1787622383319300",
+      "name": "Lemon, raw",
+      "amount": 62.8,
+      "unit": "g",
+      "unit_price": 0.0067,
+      "cost": 0.42,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1786406566451672-1787625077301-3",
+      "ts": 1787625077301,
+      "item_id": "1786406566451672",
+      "name": "Tahini",
+      "amount": 80.6,
+      "unit": "g",
+      "unit_price": 0.0186,
+      "cost": 1.5,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787622470488011-1787625077301-4",
+      "ts": 1787625077301,
+      "item_id": "1787622470488011",
+      "name": "Greek Yogurt Nonfat Plain (Chobani)",
+      "amount": 31.5,
+      "unit": "g",
+      "unit_price": 0.0166,
+      "cost": 0.52,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787622286048133-1787625077301-5",
+      "ts": 1787625077301,
+      "item_id": "1787622286048133",
+      "name": "Cucumber, raw",
+      "amount": 328.0,
+      "unit": "g",
+      "unit_price": 0.0083,
+      "cost": 2.72,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1783468342307182-1787625077301-6",
+      "ts": 1787625077301,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 91.0,
+      "unit": "g",
+      "unit_price": 0.0018,
+      "cost": 0.16,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787622507012383-1787625077301-7",
+      "ts": 1787625077301,
+      "item_id": "1787622507012383",
+      "name": "Onions, red, raw",
+      "amount": 83.0,
+      "unit": "g",
+      "unit_price": 0.0054,
+      "cost": 0.45,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787274147117817-1787625077301-8",
+      "ts": 1787625077301,
+      "item_id": "1787274147117817",
+      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
+      "amount": 39.4,
+      "unit": "g",
+      "unit_price": 0.0178,
+      "cost": 0.7,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787186767028298-1787625077301-9",
+      "ts": 1787625077301,
+      "item_id": "1787186767028298",
+      "name": "Chicken Breast Fillets (Co-op)",
+      "amount": 409.0,
+      "unit": "g",
+      "unit_price": 0.0125,
+      "cost": 5.11,
+      "source": "bodycomp"
     }
   ]
 }
