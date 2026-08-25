@@ -440,6 +440,12 @@
       "unit_price": 0.0067,
       "unit": "g",
       "ts": 1787622437510
+    },
+    {
+      "name": "Onions, red, raw",
+      "unit_price": 0.0054,
+      "unit": "g",
+      "ts": 1787622507018
     }
   ]
 }
