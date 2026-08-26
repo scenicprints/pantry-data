@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640443764992-1783646543975-7",
+      "id": "1783640628042840-1783646543975-1",
       "ts": 1783646543975,
-      "item_id": "1783640443764992",
-      "name": "Chicken broth",
-      "amount": 185.0,
+      "item_id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "amount": 448.0,
       "unit": "g",
-      "unit_price": 0.0044,
-      "cost": 0.81,
+      "unit_price": 0.019,
+      "cost": 8.51,
       "source": "bodycomp"
     },
     {
@@ -133,14 +133,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783640628042840-1783646543975-1",
+      "id": "1783640443764992-1783646543975-7",
       "ts": 1783646543975,
-      "item_id": "1783640628042840",
-      "name": "GROUND TURKEY BREAST (Butterball)",
-      "amount": 448.0,
+      "item_id": "1783640443764992",
+      "name": "Chicken broth",
+      "amount": 185.0,
       "unit": "g",
-      "unit_price": 0.019,
-      "cost": 8.51,
+      "unit_price": 0.0044,
+      "cost": 0.81,
       "source": "bodycomp"
     },
     {
@@ -1252,6 +1252,17 @@
       "unit": "g",
       "unit_price": 0.0684,
       "cost": 6.51,
+      "source": "manual"
+    },
+    {
+      "id": "1786144321746508-1787780730160",
+      "ts": 1787780730160,
+      "item_id": "1786144321746508",
+      "name": "Egg (Costco)",
+      "amount": 417.0,
+      "unit": "g",
+      "unit_price": 0.0024,
+      "cost": 0.99,
       "source": "manual"
     }
   ]
