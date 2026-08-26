@@ -1187,6 +1187,61 @@
       "unit_price": 0.0062,
       "cost": 1.0,
       "source": "manual"
+    },
+    {
+      "id": "1786144321746508-1787707512064-1",
+      "ts": 1787707512064,
+      "item_id": "1786144321746508",
+      "name": "Egg (Costco)",
+      "amount": 417.0,
+      "unit": "g",
+      "unit_price": 0.0024,
+      "cost": 1.0,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1786575236958341-1787707512064-2",
+      "ts": 1787707512064,
+      "item_id": "1786575236958341",
+      "name": "Egg Whites (Kirkland Signature)",
+      "amount": 134.0,
+      "unit": "g",
+      "unit_price": 0.0043,
+      "cost": 0.58,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1783468342307182-1787707512064-3",
+      "ts": 1787707512064,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 133.0,
+      "unit": "g",
+      "unit_price": 0.0018,
+      "cost": 0.24,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787359850302016-1787707512064-4",
+      "ts": 1787707512064,
+      "item_id": "1787359850302016",
+      "name": "Peppers, bell, red, raw",
+      "amount": 69.0,
+      "unit": "g",
+      "unit_price": 0.0062,
+      "cost": 0.43,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1786751008525587-1787707512064-5",
+      "ts": 1787707512064,
+      "item_id": "1786751008525587",
+      "name": "Gruyère",
+      "amount": 72.8,
+      "unit": "g",
+      "unit_price": 0.0684,
+      "cost": 4.98,
+      "source": "bodycomp"
     }
   ]
 }
