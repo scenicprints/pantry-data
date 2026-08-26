@@ -1066,6 +1066,17 @@
       "unit_price": 0.0125,
       "cost": 5.11,
       "source": "bodycomp"
+    },
+    {
+      "id": "1787186767028298-1787702480559",
+      "ts": 1787702480559,
+      "item_id": "1787186767028298",
+      "name": "Chicken Breast Fillets (Co-op)",
+      "amount": 499.1,
+      "unit": "g",
+      "unit_price": 0.0125,
+      "cost": 6.23,
+      "source": "manual"
     }
   ]
 }
