@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640628042840-1783646543975-1",
+      "id": "1783640443764992-1783646543975-7",
       "ts": 1783646543975,
-      "item_id": "1783640628042840",
-      "name": "GROUND TURKEY BREAST (Butterball)",
-      "amount": 448.0,
+      "item_id": "1783640443764992",
+      "name": "Chicken broth",
+      "amount": 185.0,
       "unit": "g",
-      "unit_price": 0.019,
-      "cost": 8.51,
+      "unit_price": 0.0044,
+      "cost": 0.81,
       "source": "bodycomp"
     },
     {
@@ -122,14 +122,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783640443764992-1783646543975-7",
+      "id": "1783640628042840-1783646543975-1",
       "ts": 1783646543975,
-      "item_id": "1783640443764992",
-      "name": "Chicken broth",
-      "amount": 185.0,
+      "item_id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "amount": 448.0,
       "unit": "g",
-      "unit_price": 0.0044,
-      "cost": 0.81,
+      "unit_price": 0.019,
+      "cost": 8.51,
       "source": "bodycomp"
     },
     {
@@ -991,14 +991,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786406566451672-1787625077301-3",
+      "id": "1787622383319300-1787625077301-1",
       "ts": 1787625077301,
-      "item_id": "1786406566451672",
-      "name": "Tahini",
-      "amount": 80.6,
+      "item_id": "1787622383319300",
+      "name": "Lemon, raw",
+      "amount": 62.8,
       "unit": "g",
-      "unit_price": 0.0186,
-      "cost": 1.5,
+      "unit_price": 0.0067,
+      "cost": 0.42,
       "source": "bodycomp"
     },
     {
@@ -1057,14 +1057,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622383319300-1787625077301-1",
+      "id": "1786406566451672-1787625077301-3",
       "ts": 1787625077301,
-      "item_id": "1787622383319300",
-      "name": "Lemon, raw",
-      "amount": 62.8,
+      "item_id": "1786406566451672",
+      "name": "Tahini",
+      "amount": 80.6,
       "unit": "g",
-      "unit_price": 0.0067,
-      "cost": 0.42,
+      "unit_price": 0.0186,
+      "cost": 1.5,
       "source": "bodycomp"
     },
     {
@@ -1120,6 +1120,17 @@
       "unit": "g",
       "unit_price": 0.0067,
       "cost": 1.58,
+      "source": "manual"
+    },
+    {
+      "id": "1787004771003731-1787702529823",
+      "ts": 1787702529823,
+      "item_id": "1787004771003731",
+      "name": "Tomato Paste, Tomato (Pacific coast)",
+      "amount": 126.6,
+      "unit": "g",
+      "unit_price": 0.0104,
+      "cost": 1.32,
       "source": "manual"
     }
   ]
