@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640443764992-1783646543975-7",
+      "id": "1783640628042840-1783646543975-1",
       "ts": 1783646543975,
-      "item_id": "1783640443764992",
-      "name": "Chicken broth",
-      "amount": 185.0,
+      "item_id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "amount": 448.0,
       "unit": "g",
-      "unit_price": 0.0044,
-      "cost": 0.81,
+      "unit_price": 0.019,
+      "cost": 8.51,
       "source": "bodycomp"
     },
     {
@@ -133,14 +133,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783640628042840-1783646543975-1",
+      "id": "1783640443764992-1783646543975-7",
       "ts": 1783646543975,
-      "item_id": "1783640628042840",
-      "name": "GROUND TURKEY BREAST (Butterball)",
-      "amount": 448.0,
+      "item_id": "1783640443764992",
+      "name": "Chicken broth",
+      "amount": 185.0,
       "unit": "g",
-      "unit_price": 0.019,
-      "cost": 8.51,
+      "unit_price": 0.0044,
+      "cost": 0.81,
       "source": "bodycomp"
     },
     {
@@ -881,14 +881,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1787361609599-2",
+      "id": "1787274126378301-1787361609599-4",
       "ts": 1787361609599,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 184.0,
+      "item_id": "1787274126378301",
+      "name": "Oaxaca part skim milk cheese (Cacique)",
+      "amount": 78.0,
       "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.33,
+      "unit_price": 0.0203,
+      "cost": 1.58,
       "source": "bodycomp"
     },
     {
@@ -914,14 +914,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787274126378301-1787361609599-4",
+      "id": "1783468342307182-1787361609599-2",
       "ts": 1787361609599,
-      "item_id": "1787274126378301",
-      "name": "Oaxaca part skim milk cheese (Cacique)",
-      "amount": 78.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 184.0,
       "unit": "g",
-      "unit_price": 0.0203,
-      "cost": 1.58,
+      "unit_price": 0.0018,
+      "cost": 0.33,
       "source": "bodycomp"
     },
     {
@@ -1046,17 +1046,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787274147117817-1787625077301-8",
-      "ts": 1787625077301,
-      "item_id": "1787274147117817",
-      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
-      "amount": 39.4,
-      "unit": "g",
-      "unit_price": 0.0178,
-      "cost": 0.7,
-      "source": "bodycomp"
-    },
-    {
       "id": "1787622507012383-1787625077301-7",
       "ts": 1787625077301,
       "item_id": "1787622507012383",
@@ -1065,6 +1054,17 @@
       "unit": "g",
       "unit_price": 0.0054,
       "cost": 0.45,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787274147117817-1787625077301-8",
+      "ts": 1787625077301,
+      "item_id": "1787274147117817",
+      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
+      "amount": 39.4,
+      "unit": "g",
+      "unit_price": 0.0178,
+      "cost": 0.7,
       "source": "bodycomp"
     },
     {
@@ -1175,6 +1175,17 @@
       "unit": "g",
       "unit_price": 0.0047,
       "cost": 1.49,
+      "source": "manual"
+    },
+    {
+      "id": "1787704436313813-1787707436340",
+      "ts": 1787707436340,
+      "item_id": "1787704436313813",
+      "name": "Lemon, raw",
+      "amount": 162.0,
+      "unit": "g",
+      "unit_price": 0.0062,
+      "cost": 1.0,
       "source": "manual"
     }
   ]
