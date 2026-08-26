@@ -678,6 +678,34 @@
       "price_per_gram": 0.0043
     },
     {
+      "id": "1785758208940542",
+      "name": "Fettuccine Style Plant Based Noodles (Miracle Noodle)",
+      "barcode": "854126008156",
+      "price": 7.12,
+      "serving_size": 85.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.0,
+        "calories": 12.1,
+        "carbs_g": 3.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.0,
+        "calories": 14.2,
+        "carbs_g": 3.5,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-03",
+      "last_price": 7.12,
+      "updated_at_ms": 1785758246985,
+      "category": "Pantry",
+      "total_weight_g": 170.0,
+      "remaining_weight_g": 170.0,
+      "price_per_gram": 0.0419
+    },
+    {
       "id": "1783296063211720",
       "name": "Fettuccine Style Plant Based Noodles (Miracle Noodle)",
       "barcode": "854126008156",
@@ -705,34 +733,6 @@
       "total_weight_g": 170.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0212
-    },
-    {
-      "id": "1785758208940542",
-      "name": "Fettuccine Style Plant Based Noodles (Miracle Noodle)",
-      "barcode": "854126008156",
-      "price": 7.12,
-      "serving_size": 85.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.0,
-        "calories": 12.1,
-        "carbs_g": 3.0,
-        "fat_g": 0.0
-      },
-      "macros_per_100g": {
-        "protein_g": 0.0,
-        "calories": 14.2,
-        "carbs_g": 3.5,
-        "fat_g": 0.0
-      },
-      "expiring_soon": false,
-      "date_added": "2026-08-03",
-      "last_price": 7.12,
-      "updated_at_ms": 1785758246985,
-      "category": "Pantry",
-      "total_weight_g": 170.0,
-      "remaining_weight_g": 170.0,
-      "price_per_gram": 0.0419
     },
     {
       "id": "1783468697488781",
@@ -1266,6 +1266,33 @@
       "price_per_gram": 0.0067
     },
     {
+      "id": "1787704436313813",
+      "name": "Lemon, raw",
+      "price": 1.0,
+      "serving_size": 100.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 1.1,
+        "calories": 29.0,
+        "carbs_g": 9.3,
+        "fat_g": 0.3
+      },
+      "macros_per_100g": {
+        "protein_g": 1.1,
+        "calories": 29.0,
+        "carbs_g": 9.3,
+        "fat_g": 0.3
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-25",
+      "last_price": 1.0,
+      "updated_at_ms": 1787704436313,
+      "category": "Pantry",
+      "total_weight_g": 162.0,
+      "remaining_weight_g": 162.0,
+      "price_per_gram": 0.0062
+    },
+    {
       "id": "1786406485740229",
       "name": "Lemons, raw, without peel",
       "price": 1.0,
@@ -1686,6 +1713,34 @@
       "price_per_gram": 0.0153
     },
     {
+      "id": "1784072069337693",
+      "name": "Spaghetti (Miracle Noodle Organic)",
+      "barcode": "854126008149",
+      "price": 1.06,
+      "serving_size": 85.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.0,
+        "calories": 5.0,
+        "carbs_g": 3.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.0,
+        "calories": 5.9,
+        "carbs_g": 3.5,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-14",
+      "last_price": 1.06,
+      "updated_at_ms": 1784853902765,
+      "category": "Pantry",
+      "total_weight_g": 170.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0062
+    },
+    {
       "id": "1783296025377780",
       "name": "Spaghetti (Miracle Noodle Organic)",
       "barcode": "854126008149",
@@ -1741,34 +1796,6 @@
       "total_weight_g": 170.0,
       "remaining_weight_g": 170.0,
       "price_per_gram": 0.0419
-    },
-    {
-      "id": "1784072069337693",
-      "name": "Spaghetti (Miracle Noodle Organic)",
-      "barcode": "854126008149",
-      "price": 1.06,
-      "serving_size": 85.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.0,
-        "calories": 5.0,
-        "carbs_g": 3.0,
-        "fat_g": 0.0
-      },
-      "macros_per_100g": {
-        "protein_g": 0.0,
-        "calories": 5.9,
-        "carbs_g": 3.5,
-        "fat_g": 0.0
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-14",
-      "last_price": 1.06,
-      "updated_at_ms": 1784853902765,
-      "category": "Pantry",
-      "total_weight_g": 170.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0062
     },
     {
       "id": "1787186860697456",
