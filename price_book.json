@@ -446,6 +446,12 @@
       "unit_price": 0.0054,
       "unit": "g",
       "ts": 1787704275441
+    },
+    {
+      "name": "Tomatoes, raw",
+      "unit_price": 0.0065,
+      "unit": "g",
+      "ts": 1787704460136
     }
   ]
 }
