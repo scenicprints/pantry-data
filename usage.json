@@ -980,14 +980,14 @@
       "source": "manual"
     },
     {
-      "id": "1787622383319300-1787625077301-1",
+      "id": "1787186767028298-1787625077301-9",
       "ts": 1787625077301,
-      "item_id": "1787622383319300",
-      "name": "Lemon, raw",
-      "amount": 62.8,
+      "item_id": "1787186767028298",
+      "name": "Chicken Breast Fillets (Co-op)",
+      "amount": 409.0,
       "unit": "g",
-      "unit_price": 0.0067,
-      "cost": 0.42,
+      "unit_price": 0.0125,
+      "cost": 5.11,
       "source": "bodycomp"
     },
     {
@@ -1057,14 +1057,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787186767028298-1787625077301-9",
+      "id": "1787622383319300-1787625077301-1",
       "ts": 1787625077301,
-      "item_id": "1787186767028298",
-      "name": "Chicken Breast Fillets (Co-op)",
-      "amount": 409.0,
+      "item_id": "1787622383319300",
+      "name": "Lemon, raw",
+      "amount": 62.8,
       "unit": "g",
-      "unit_price": 0.0125,
-      "cost": 5.11,
+      "unit_price": 0.0067,
+      "cost": 0.42,
       "source": "bodycomp"
     },
     {
@@ -1109,6 +1109,17 @@
       "unit": "g",
       "unit_price": 0.0166,
       "cost": 1.97,
+      "source": "manual"
+    },
+    {
+      "id": "1787622383319300-1787702506323",
+      "ts": 1787702506323,
+      "item_id": "1787622383319300",
+      "name": "Lemon, raw",
+      "amount": 237.2,
+      "unit": "g",
+      "unit_price": 0.0067,
+      "cost": 1.58,
       "source": "manual"
     }
   ]
