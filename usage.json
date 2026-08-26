@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640443764992-1783646543975-7",
+      "id": "1783640628042840-1783646543975-1",
       "ts": 1783646543975,
-      "item_id": "1783640443764992",
-      "name": "Chicken broth",
-      "amount": 185.0,
+      "item_id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "amount": 448.0,
       "unit": "g",
-      "unit_price": 0.0044,
-      "cost": 0.81,
+      "unit_price": 0.019,
+      "cost": 8.51,
       "source": "bodycomp"
     },
     {
@@ -122,14 +122,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783640628042840-1783646543975-1",
+      "id": "1783640443764992-1783646543975-7",
       "ts": 1783646543975,
-      "item_id": "1783640628042840",
-      "name": "GROUND TURKEY BREAST (Butterball)",
-      "amount": 448.0,
+      "item_id": "1783640443764992",
+      "name": "Chicken broth",
+      "amount": 185.0,
       "unit": "g",
-      "unit_price": 0.019,
-      "cost": 8.51,
+      "unit_price": 0.0044,
+      "cost": 0.81,
       "source": "bodycomp"
     },
     {
@@ -1098,6 +1098,17 @@
       "unit": "g",
       "unit_price": 0.0083,
       "cost": 0.27,
+      "source": "manual"
+    },
+    {
+      "id": "1787622470488011-1787702497267",
+      "ts": 1787702497267,
+      "item_id": "1787622470488011",
+      "name": "Greek Yogurt Nonfat Plain (Chobani)",
+      "amount": 118.5,
+      "unit": "g",
+      "unit_price": 0.0166,
+      "cost": 1.97,
       "source": "manual"
     }
   ]
