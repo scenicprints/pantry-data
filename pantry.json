@@ -643,10 +643,10 @@
       "expiring_soon": false,
       "date_added": "2026-08-07",
       "last_price": 7.09,
-      "updated_at_ms": 1787277635283,
+      "updated_at_ms": 1787707512064,
       "category": "Pantry",
       "total_weight_g": 3000.0,
-      "remaining_weight_g": 2193.0,
+      "remaining_weight_g": 1776.0,
       "price_per_gram": 0.0024
     },
     {
@@ -671,10 +671,10 @@
       "expiring_soon": false,
       "date_added": "2026-08-12",
       "last_price": 11.99,
-      "updated_at_ms": 1786575236958,
+      "updated_at_ms": 1787707512064,
       "category": "Pantry",
       "total_weight_g": 2760.0,
-      "remaining_weight_g": 2760.0,
+      "remaining_weight_g": 2626.0,
       "price_per_gram": 0.0043
     },
     {
@@ -1146,10 +1146,10 @@
       "expiring_soon": false,
       "date_added": "2026-08-14",
       "last_price": 11.49,
-      "updated_at_ms": 1786751008525,
+      "updated_at_ms": 1787707512064,
       "category": "Pantry",
       "total_weight_g": 168.0,
-      "remaining_weight_g": 168.0,
+      "remaining_weight_g": 95.2,
       "price_per_gram": 0.0684
     },
     {
@@ -1565,10 +1565,10 @@
       "expiring_soon": false,
       "date_added": "2026-08-21",
       "last_price": 1.49,
-      "updated_at_ms": 1787361609599,
+      "updated_at_ms": 1787707512064,
       "category": "Pantry",
       "total_weight_g": 240.0,
-      "remaining_weight_g": 79.0,
+      "remaining_weight_g": 10.0,
       "price_per_gram": 0.0062
     },
     {
@@ -2208,7 +2208,7 @@
       "expiring_soon": false,
       "date_added": "2026-08-19",
       "last_price": 5.99,
-      "updated_at_ms": 1787702537582,
+      "updated_at_ms": 1787707512064,
       "category": "Pantry",
       "total_weight_g": 1320.0,
       "remaining_weight_g": 0.0,
@@ -2319,10 +2319,10 @@
       "expiring_soon": false,
       "date_added": "2026-07-07",
       "last_price": 5.99,
-      "updated_at_ms": 1787625077301,
+      "updated_at_ms": 1787707512064,
       "category": "Pantry",
       "total_weight_g": 3294.0,
-      "remaining_weight_g": 2174.0,
+      "remaining_weight_g": 2041.0,
       "price_per_gram": 0.0018
     }
   ],
