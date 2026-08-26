@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640628042840-1783646543975-1",
+      "id": "1783468342307182-1783646543975-3",
       "ts": 1783646543975,
-      "item_id": "1783640628042840",
-      "name": "GROUND TURKEY BREAST (Butterball)",
-      "amount": 448.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 117.0,
       "unit": "g",
-      "unit_price": 0.019,
-      "cost": 8.51,
+      "unit_price": 0.0058,
+      "cost": 0.68,
       "source": "bodycomp"
     },
     {
@@ -133,14 +133,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1783646543975-3",
+      "id": "1783640628042840-1783646543975-1",
       "ts": 1783646543975,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 117.0,
+      "item_id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "amount": 448.0,
       "unit": "g",
-      "unit_price": 0.0058,
-      "cost": 0.68,
+      "unit_price": 0.019,
+      "cost": 8.51,
       "source": "bodycomp"
     },
     {
@@ -881,14 +881,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1787361609599-2",
+      "id": "1787359850302016-1787361609599-3",
       "ts": 1787361609599,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 184.0,
+      "item_id": "1787359850302016",
+      "name": "Peppers, bell, red, raw",
+      "amount": 161.0,
       "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.33,
+      "unit_price": 0.0062,
+      "cost": 1.0,
       "source": "bodycomp"
     },
     {
@@ -903,14 +903,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787359850302016-1787361609599-3",
+      "id": "1783468342307182-1787361609599-2",
       "ts": 1787361609599,
-      "item_id": "1787359850302016",
-      "name": "Peppers, bell, red, raw",
-      "amount": 161.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 184.0,
       "unit": "g",
-      "unit_price": 0.0062,
-      "cost": 1.0,
+      "unit_price": 0.0018,
+      "cost": 0.33,
       "source": "bodycomp"
     },
     {
@@ -1013,14 +1013,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622286048133-1787625077301-5",
+      "id": "1787622470488011-1787625077301-4",
       "ts": 1787625077301,
-      "item_id": "1787622286048133",
-      "name": "Cucumber, raw",
-      "amount": 328.0,
+      "item_id": "1787622470488011",
+      "name": "Greek Yogurt Nonfat Plain (Chobani)",
+      "amount": 31.5,
       "unit": "g",
-      "unit_price": 0.0083,
-      "cost": 2.72,
+      "unit_price": 0.0166,
+      "cost": 0.52,
       "source": "bodycomp"
     },
     {
@@ -1057,14 +1057,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622470488011-1787625077301-4",
+      "id": "1787622286048133-1787625077301-5",
       "ts": 1787625077301,
-      "item_id": "1787622470488011",
-      "name": "Greek Yogurt Nonfat Plain (Chobani)",
-      "amount": 31.5,
+      "item_id": "1787622286048133",
+      "name": "Cucumber, raw",
+      "amount": 328.0,
       "unit": "g",
-      "unit_price": 0.0166,
-      "cost": 0.52,
+      "unit_price": 0.0083,
+      "cost": 2.72,
       "source": "bodycomp"
     },
     {
@@ -1142,6 +1142,17 @@
       "unit": "g",
       "unit_price": 0.0088,
       "cost": 1.04,
+      "source": "manual"
+    },
+    {
+      "id": "1787187055906324-1787702537585",
+      "ts": 1787702537585,
+      "item_id": "1787187055906324",
+      "name": "Ultimate Roasted Potatoes (The Little Potato Co.)",
+      "amount": 713.0,
+      "unit": "g",
+      "unit_price": 0.0045,
+      "cost": 3.24,
       "source": "manual"
     }
   ]
