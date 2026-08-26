@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783468342307182-1783646543975-3",
+      "id": "1783640443764992-1783646543975-7",
       "ts": 1783646543975,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 117.0,
+      "item_id": "1783640443764992",
+      "name": "Chicken broth",
+      "amount": 185.0,
       "unit": "g",
-      "unit_price": 0.0058,
-      "cost": 0.68,
+      "unit_price": 0.0044,
+      "cost": 0.81,
       "source": "bodycomp"
     },
     {
@@ -122,14 +122,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783640443764992-1783646543975-7",
+      "id": "1783468342307182-1783646543975-3",
       "ts": 1783646543975,
-      "item_id": "1783640443764992",
-      "name": "Chicken broth",
-      "amount": 185.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 117.0,
       "unit": "g",
-      "unit_price": 0.0044,
-      "cost": 0.81,
+      "unit_price": 0.0058,
+      "cost": 0.68,
       "source": "bodycomp"
     },
     {
@@ -881,14 +881,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787359850302016-1787361609599-3",
+      "id": "1783468342307182-1787361609599-2",
       "ts": 1787361609599,
-      "item_id": "1787359850302016",
-      "name": "Peppers, bell, red, raw",
-      "amount": 161.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 184.0,
       "unit": "g",
-      "unit_price": 0.0062,
-      "cost": 1.0,
+      "unit_price": 0.0018,
+      "cost": 0.33,
       "source": "bodycomp"
     },
     {
@@ -903,14 +903,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1787361609599-2",
+      "id": "1787359850302016-1787361609599-3",
       "ts": 1787361609599,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 184.0,
+      "item_id": "1787359850302016",
+      "name": "Peppers, bell, red, raw",
+      "amount": 161.0,
       "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.33,
+      "unit_price": 0.0062,
+      "cost": 1.0,
       "source": "bodycomp"
     },
     {
@@ -1035,14 +1035,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622507012383-1787625077301-7",
+      "id": "1787622286048133-1787625077301-5",
       "ts": 1787625077301,
-      "item_id": "1787622507012383",
-      "name": "Onions, red, raw",
-      "amount": 83.0,
+      "item_id": "1787622286048133",
+      "name": "Cucumber, raw",
+      "amount": 328.0,
       "unit": "g",
-      "unit_price": 0.0054,
-      "cost": 0.45,
+      "unit_price": 0.0083,
+      "cost": 2.72,
       "source": "bodycomp"
     },
     {
@@ -1057,14 +1057,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622286048133-1787625077301-5",
+      "id": "1787622507012383-1787625077301-7",
       "ts": 1787625077301,
-      "item_id": "1787622286048133",
-      "name": "Cucumber, raw",
-      "amount": 328.0,
+      "item_id": "1787622507012383",
+      "name": "Onions, red, raw",
+      "amount": 83.0,
       "unit": "g",
-      "unit_price": 0.0083,
-      "cost": 2.72,
+      "unit_price": 0.0054,
+      "cost": 0.45,
       "source": "bodycomp"
     },
     {
@@ -1164,6 +1164,17 @@
       "unit": "g",
       "unit_price": 0.0065,
       "cost": 1.18,
+      "source": "manual"
+    },
+    {
+      "id": "1787704366416017-1787707427052",
+      "ts": 1787707427052,
+      "item_id": "1787704366416017",
+      "name": "Cucumber, raw",
+      "amount": 317.0,
+      "unit": "g",
+      "unit_price": 0.0047,
+      "cost": 1.49,
       "source": "manual"
     }
   ]
