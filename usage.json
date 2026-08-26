@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640443764992-1783646543975-7",
+      "id": "1783640628042840-1783646543975-1",
       "ts": 1783646543975,
-      "item_id": "1783640443764992",
-      "name": "Chicken broth",
-      "amount": 185.0,
+      "item_id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "amount": 448.0,
       "unit": "g",
-      "unit_price": 0.0044,
-      "cost": 0.81,
+      "unit_price": 0.019,
+      "cost": 8.51,
       "source": "bodycomp"
     },
     {
@@ -122,14 +122,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783640628042840-1783646543975-1",
+      "id": "1783640443764992-1783646543975-7",
       "ts": 1783646543975,
-      "item_id": "1783640628042840",
-      "name": "GROUND TURKEY BREAST (Butterball)",
-      "amount": 448.0,
+      "item_id": "1783640443764992",
+      "name": "Chicken broth",
+      "amount": 185.0,
       "unit": "g",
-      "unit_price": 0.019,
-      "cost": 8.51,
+      "unit_price": 0.0044,
+      "cost": 0.81,
       "source": "bodycomp"
     },
     {
@@ -881,17 +881,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787359781556331-1787361609599-1",
-      "ts": 1787361609599,
-      "item_id": "1787359781556331",
-      "name": "Ground Beef 93%",
-      "amount": 452.0,
-      "unit": "g",
-      "unit_price": 0.0228,
-      "cost": 10.31,
-      "source": "bodycomp"
-    },
-    {
       "id": "1783468342307182-1787361609599-2",
       "ts": 1787361609599,
       "item_id": "1783468342307182",
@@ -900,6 +889,17 @@
       "unit": "g",
       "unit_price": 0.0018,
       "cost": 0.33,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787359781556331-1787361609599-1",
+      "ts": 1787361609599,
+      "item_id": "1787359781556331",
+      "name": "Ground Beef 93%",
+      "amount": 452.0,
+      "unit": "g",
+      "unit_price": 0.0228,
+      "cost": 10.31,
       "source": "bodycomp"
     },
     {
@@ -1002,14 +1002,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622470488011-1787625077301-4",
+      "id": "1786406566451672-1787625077301-3",
       "ts": 1787625077301,
-      "item_id": "1787622470488011",
-      "name": "Greek Yogurt Nonfat Plain (Chobani)",
-      "amount": 31.5,
+      "item_id": "1786406566451672",
+      "name": "Tahini",
+      "amount": 80.6,
       "unit": "g",
-      "unit_price": 0.0166,
-      "cost": 0.52,
+      "unit_price": 0.0186,
+      "cost": 1.5,
       "source": "bodycomp"
     },
     {
@@ -1057,14 +1057,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786406566451672-1787625077301-3",
+      "id": "1787622470488011-1787625077301-4",
       "ts": 1787625077301,
-      "item_id": "1786406566451672",
-      "name": "Tahini",
-      "amount": 80.6,
+      "item_id": "1787622470488011",
+      "name": "Greek Yogurt Nonfat Plain (Chobani)",
+      "amount": 31.5,
       "unit": "g",
-      "unit_price": 0.0186,
-      "cost": 1.5,
+      "unit_price": 0.0166,
+      "cost": 0.52,
       "source": "bodycomp"
     },
     {
@@ -1131,6 +1131,17 @@
       "unit": "g",
       "unit_price": 0.0104,
       "cost": 1.32,
+      "source": "manual"
+    },
+    {
+      "id": "1786575483288052-1787702533063",
+      "ts": 1787702533063,
+      "item_id": "1786575483288052",
+      "name": "Tomatoes On The Vine (Windset Farms)",
+      "amount": 118.0,
+      "unit": "g",
+      "unit_price": 0.0088,
+      "cost": 1.04,
       "source": "manual"
     }
   ]
