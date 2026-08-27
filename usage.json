@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640601028611-1783646543975-6",
+      "id": "1783640628042840-1783646543975-1",
       "ts": 1783646543975,
-      "item_id": "1783640601028611",
-      "name": "Parmesan Freshly Grated (BelGioioso)",
-      "amount": 45.0,
+      "item_id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "amount": 448.0,
       "unit": "g",
-      "unit_price": 0.0478,
-      "cost": 2.15,
+      "unit_price": 0.019,
+      "cost": 8.51,
       "source": "bodycomp"
     },
     {
@@ -144,14 +144,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783640628042840-1783646543975-1",
+      "id": "1783640601028611-1783646543975-6",
       "ts": 1783646543975,
-      "item_id": "1783640628042840",
-      "name": "GROUND TURKEY BREAST (Butterball)",
-      "amount": 448.0,
+      "item_id": "1783640601028611",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 45.0,
       "unit": "g",
-      "unit_price": 0.019,
-      "cost": 8.51,
+      "unit_price": 0.0478,
+      "cost": 2.15,
       "source": "bodycomp"
     },
     {
@@ -980,14 +980,14 @@
       "source": "manual"
     },
     {
-      "id": "1786406566451672-1787625077301-3",
+      "id": "1787622470488011-1787625077301-4",
       "ts": 1787625077301,
-      "item_id": "1786406566451672",
-      "name": "Tahini",
-      "amount": 80.6,
+      "item_id": "1787622470488011",
+      "name": "Greek Yogurt Nonfat Plain (Chobani)",
+      "amount": 31.5,
       "unit": "g",
-      "unit_price": 0.0186,
-      "cost": 1.5,
+      "unit_price": 0.0166,
+      "cost": 0.52,
       "source": "bodycomp"
     },
     {
@@ -1013,14 +1013,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622470488011-1787625077301-4",
+      "id": "1786406566451672-1787625077301-3",
       "ts": 1787625077301,
-      "item_id": "1787622470488011",
-      "name": "Greek Yogurt Nonfat Plain (Chobani)",
-      "amount": 31.5,
+      "item_id": "1786406566451672",
+      "name": "Tahini",
+      "amount": 80.6,
       "unit": "g",
-      "unit_price": 0.0166,
-      "cost": 0.52,
+      "unit_price": 0.0186,
+      "cost": 1.5,
       "source": "bodycomp"
     },
     {
