@@ -1308,6 +1308,39 @@
       "unit_price": 0.0045,
       "cost": 2.86,
       "source": "manual"
+    },
+    {
+      "id": "1787882035237294-1787884168175-1",
+      "ts": 1787884168175,
+      "item_id": "1787882035237294",
+      "name": "Boneless, Skinless Chicken Tenderloins (Just Bare)",
+      "amount": 382.9,
+      "unit": "g",
+      "unit_price": 0.0287,
+      "cost": 10.99,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787622507012383-1787884168175-3",
+      "ts": 1787884168175,
+      "item_id": "1787622507012383",
+      "name": "Onions, red, raw",
+      "amount": 204.0,
+      "unit": "g",
+      "unit_price": 0.0054,
+      "cost": 1.1,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787274147117817-1787884168175-5",
+      "ts": 1787884168175,
+      "item_id": "1787274147117817",
+      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
+      "amount": 29.4,
+      "unit": "g",
+      "unit_price": 0.0178,
+      "cost": 0.52,
+      "source": "bodycomp"
     }
   ]
 }
