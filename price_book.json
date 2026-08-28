@@ -452,6 +452,13 @@
       "unit_price": 0.0065,
       "unit": "g",
       "ts": 1787882023310
+    },
+    {
+      "name": "Boneless, Skinless Chicken Tenderloins (Just Bare)",
+      "barcode": "024105591058",
+      "unit_price": 0.0287,
+      "unit": "g",
+      "ts": 1787882035247
     }
   ]
 }
