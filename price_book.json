@@ -459,6 +459,13 @@
       "unit_price": 0.0287,
       "unit": "g",
       "ts": 1788214993684
+    },
+    {
+      "name": "Yellow Corn Tortillas (Mission)",
+      "barcode": "073731003282",
+      "unit_price": 0.0081,
+      "unit": "g",
+      "ts": 1788215015784
     }
   ]
 }
