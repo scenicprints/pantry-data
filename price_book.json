@@ -466,6 +466,12 @@
       "unit_price": 0.0081,
       "unit": "g",
       "ts": 1788215260286
+    },
+    {
+      "name": "Strawberries, raw",
+      "unit_price": 0.0092,
+      "unit": "g",
+      "ts": 1788215305972
     }
   ]
 }
