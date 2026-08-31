@@ -472,6 +472,12 @@
       "unit_price": 0.0092,
       "unit": "g",
       "ts": 1788215307284
+    },
+    {
+      "name": "Blueberries, raw",
+      "unit_price": 0.019,
+      "unit": "g",
+      "ts": 1788215389993
     }
   ]
 }
