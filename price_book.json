@@ -503,6 +503,13 @@
       "unit_price": 0.0066,
       "unit": "g",
       "ts": 1788306025105
+    },
+    {
+      "name": "baby spring mix (organic girl)",
+      "barcode": "895203001172",
+      "unit_price": 0.0235,
+      "unit": "g",
+      "ts": 1788306149269
     }
   ]
 }
