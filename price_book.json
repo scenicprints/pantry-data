@@ -516,6 +516,12 @@
       "unit_price": 0.0024,
       "unit": "g",
       "ts": 1788306202775
+    },
+    {
+      "name": "Squash, summer, green, zucchini, includes skin, raw",
+      "unit_price": 0.0021,
+      "unit": "g",
+      "ts": 1788306258610
     }
   ]
 }
