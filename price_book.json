@@ -496,6 +496,13 @@
       "unit_price": 0.0037,
       "unit": "g",
       "ts": 1788306000042
+    },
+    {
+      "name": "Organic Garbanzos Chick Peas (S&W)",
+      "barcode": "072273475076",
+      "unit_price": 0.0066,
+      "unit": "g",
+      "ts": 1788306025105
     }
   ]
 }
