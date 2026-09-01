@@ -510,6 +510,12 @@
       "unit_price": 0.0235,
       "unit": "g",
       "ts": 1788306202245
+    },
+    {
+      "name": "Onions, white, raw",
+      "unit_price": 0.0024,
+      "unit": "g",
+      "ts": 1788306202775
     }
   ]
 }
