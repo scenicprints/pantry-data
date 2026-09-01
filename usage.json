@@ -914,17 +914,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1787361609599-2",
-      "ts": 1787361609599,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 184.0,
-      "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.33,
-      "source": "bodycomp"
-    },
-    {
       "id": "1787359850302016-1787361609599-3",
       "ts": 1787361609599,
       "item_id": "1787359850302016",
@@ -933,6 +922,17 @@
       "unit": "g",
       "unit_price": 0.0062,
       "cost": 1.0,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1783468342307182-1787361609599-2",
+      "ts": 1787361609599,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 184.0,
+      "unit": "g",
+      "unit_price": 0.0018,
+      "cost": 0.33,
       "source": "bodycomp"
     },
     {
@@ -1222,17 +1222,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787359850302016-1787707512064-4",
-      "ts": 1787707512064,
-      "item_id": "1787359850302016",
-      "name": "Peppers, bell, red, raw",
-      "amount": 69.0,
-      "unit": "g",
-      "unit_price": 0.0062,
-      "cost": 0.43,
-      "source": "bodycomp"
-    },
-    {
       "id": "1783468342307182-1787707512064-3",
       "ts": 1787707512064,
       "item_id": "1783468342307182",
@@ -1241,6 +1230,17 @@
       "unit": "g",
       "unit_price": 0.0018,
       "cost": 0.24,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787359850302016-1787707512064-4",
+      "ts": 1787707512064,
+      "item_id": "1787359850302016",
+      "name": "Peppers, bell, red, raw",
+      "amount": 69.0,
+      "unit": "g",
+      "unit_price": 0.0062,
+      "cost": 0.43,
       "source": "bodycomp"
     },
     {
@@ -1373,6 +1373,17 @@
       "unit": "g",
       "unit_price": 0.0178,
       "cost": 3.19,
+      "source": "manual"
+    },
+    {
+      "id": "1788215055960777-1788283883933",
+      "ts": 1788283883933,
+      "item_id": "1788215055960777",
+      "name": "fresh ground turkey breast (Jennie-O)",
+      "amount": 113.4,
+      "unit": "g",
+      "unit_price": 0.0793,
+      "cost": 8.99,
       "source": "manual"
     }
   ]
