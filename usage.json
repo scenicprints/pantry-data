@@ -892,14 +892,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787274126378301-1787361609599-4",
+      "id": "1787359781556331-1787361609599-1",
       "ts": 1787361609599,
-      "item_id": "1787274126378301",
-      "name": "Oaxaca part skim milk cheese (Cacique)",
-      "amount": 78.0,
+      "item_id": "1787359781556331",
+      "name": "Ground Beef 93%",
+      "amount": 452.0,
       "unit": "g",
-      "unit_price": 0.0203,
-      "cost": 1.58,
+      "unit_price": 0.0228,
+      "cost": 10.31,
       "source": "bodycomp"
     },
     {
@@ -925,14 +925,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787359781556331-1787361609599-1",
+      "id": "1787274126378301-1787361609599-4",
       "ts": 1787361609599,
-      "item_id": "1787359781556331",
-      "name": "Ground Beef 93%",
-      "amount": 452.0,
+      "item_id": "1787274126378301",
+      "name": "Oaxaca part skim milk cheese (Cacique)",
+      "amount": 78.0,
       "unit": "g",
-      "unit_price": 0.0228,
-      "cost": 10.31,
+      "unit_price": 0.0203,
+      "cost": 1.58,
       "source": "bodycomp"
     },
     {
@@ -1211,14 +1211,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786575236958341-1787707512064-2",
+      "id": "1783468342307182-1787707512064-3",
       "ts": 1787707512064,
-      "item_id": "1786575236958341",
-      "name": "Egg Whites (Kirkland Signature)",
-      "amount": 134.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 133.0,
       "unit": "g",
-      "unit_price": 0.0043,
-      "cost": 0.58,
+      "unit_price": 0.0018,
+      "cost": 0.24,
       "source": "bodycomp"
     },
     {
@@ -1233,14 +1233,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1787707512064-3",
+      "id": "1786575236958341-1787707512064-2",
       "ts": 1787707512064,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 133.0,
+      "item_id": "1786575236958341",
+      "name": "Egg Whites (Kirkland Signature)",
+      "amount": 134.0,
       "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.24,
+      "unit_price": 0.0043,
+      "cost": 0.58,
       "source": "bodycomp"
     },
     {
