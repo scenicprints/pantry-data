@@ -100,14 +100,14 @@
       "source": "manual"
     },
     {
-      "id": "1783640628042840-1783646543975-1",
+      "id": "1783640601028611-1783646543975-6",
       "ts": 1783646543975,
-      "item_id": "1783640628042840",
-      "name": "GROUND TURKEY BREAST (Butterball)",
-      "amount": 448.0,
+      "item_id": "1783640601028611",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 45.0,
       "unit": "g",
-      "unit_price": 0.019,
-      "cost": 8.51,
+      "unit_price": 0.0478,
+      "cost": 2.15,
       "source": "bodycomp"
     },
     {
@@ -144,14 +144,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783640601028611-1783646543975-6",
+      "id": "1783640628042840-1783646543975-1",
       "ts": 1783646543975,
-      "item_id": "1783640601028611",
-      "name": "Parmesan Freshly Grated (BelGioioso)",
-      "amount": 45.0,
+      "item_id": "1783640628042840",
+      "name": "GROUND TURKEY BREAST (Butterball)",
+      "amount": 448.0,
       "unit": "g",
-      "unit_price": 0.0478,
-      "cost": 2.15,
+      "unit_price": 0.019,
+      "cost": 8.51,
       "source": "bodycomp"
     },
     {
@@ -1384,6 +1384,17 @@
       "unit": "g",
       "unit_price": 0.0793,
       "cost": 8.99,
+      "source": "manual"
+    },
+    {
+      "id": "1787622507012383-1788283914403",
+      "ts": 1788283914403,
+      "item_id": "1787622507012383",
+      "name": "Onions, red, raw",
+      "amount": 29.0,
+      "unit": "g",
+      "unit_price": 0.0054,
+      "cost": 0.16,
       "source": "manual"
     }
   ]
