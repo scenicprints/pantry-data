@@ -1451,6 +1451,17 @@
       "unit_price": 0.0048,
       "cost": 0.89,
       "source": "manual"
+    },
+    {
+      "id": "1788306025100856-1788371304647",
+      "ts": 1788371304647,
+      "item_id": "1788306025100856",
+      "name": "Organic Garbanzos Chick Peas (S&W)",
+      "amount": 455.0,
+      "unit": "g",
+      "unit_price": 0.0066,
+      "cost": 2.99,
+      "source": "manual"
     }
   ]
 }
