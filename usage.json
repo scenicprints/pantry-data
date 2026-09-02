@@ -1418,6 +1418,28 @@
       "unit_price": 0.4534,
       "cost": 3.99,
       "source": "manual"
+    },
+    {
+      "id": "1786406566451672-1788314756259-1",
+      "ts": 1788314756259,
+      "item_id": "1786406566451672",
+      "name": "Tahini",
+      "amount": 87.0,
+      "unit": "g",
+      "unit_price": 0.0186,
+      "cost": 1.62,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1783376700229718-1788314756259-4",
+      "ts": 1788314756259,
+      "item_id": "1783376700229718",
+      "name": "Honey (Essential Everyday)",
+      "amount": 10.0,
+      "unit": "g",
+      "unit_price": 0.0149,
+      "cost": 0.15,
+      "source": "bodycomp"
     }
   ]
 }
