@@ -936,17 +936,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787359874734047-1787361824155-1",
-      "ts": 1787361824155,
-      "item_id": "1787359874734047",
-      "name": "Greek Yogurt Nonfat Plain (Chobani)",
-      "amount": 135.0,
-      "unit": "g",
-      "unit_price": 0.0111,
-      "cost": 1.5,
-      "source": "bodycomp"
-    },
-    {
       "id": "1786751038144320-1787361824155-2",
       "ts": 1787361824155,
       "item_id": "1786751038144320",
@@ -955,6 +944,17 @@
       "unit": "g",
       "unit_price": 0.0117,
       "cost": 0.35,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787359874734047-1787361824155-1",
+      "ts": 1787361824155,
+      "item_id": "1787359874734047",
+      "name": "Greek Yogurt Nonfat Plain (Chobani)",
+      "amount": 135.0,
+      "unit": "g",
+      "unit_price": 0.0111,
+      "cost": 1.5,
       "source": "bodycomp"
     },
     {
