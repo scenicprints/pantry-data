@@ -1462,6 +1462,17 @@
       "unit_price": 0.0066,
       "cost": 2.99,
       "source": "manual"
+    },
+    {
+      "id": "1788215542771816-1788371312473",
+      "ts": 1788371312473,
+      "item_id": "1788215542771816",
+      "name": "Peppers, bell, green, raw",
+      "amount": 650.0,
+      "unit": "g",
+      "unit_price": 0.004,
+      "cost": 2.58,
+      "source": "manual"
     }
   ]
 }
