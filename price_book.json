@@ -522,6 +522,13 @@
       "unit_price": 0.0021,
       "unit": "g",
       "ts": 1788392513620
+    },
+    {
+      "name": "Sunny Select Tomato Paste",
+      "barcode": "717544103592",
+      "unit_price": 0.0078,
+      "unit": "g",
+      "ts": 1788392582730
     }
   ]
 }
