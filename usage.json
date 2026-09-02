@@ -1440,6 +1440,17 @@
       "unit_price": 0.0149,
       "cost": 0.15,
       "source": "bodycomp"
+    },
+    {
+      "id": "1788306106435513-1788371294716",
+      "ts": 1788371294716,
+      "item_id": "1788306106435513",
+      "name": "Lemon, raw",
+      "amount": 184.0,
+      "unit": "g",
+      "unit_price": 0.0048,
+      "cost": 0.89,
+      "source": "manual"
     }
   ]
 }
