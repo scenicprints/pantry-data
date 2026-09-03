@@ -1517,6 +1517,28 @@
       "unit_price": 0.0021,
       "cost": 0.44,
       "source": "bodycomp"
+    },
+    {
+      "id": "1783468342307182-1788398595075-1",
+      "ts": 1788398595075,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 169.0,
+      "unit": "g",
+      "unit_price": 0.0018,
+      "cost": 0.3,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788392582726771-1788398595075-3",
+      "ts": 1788398595075,
+      "item_id": "1788392582726771",
+      "name": "Sunny Select Tomato Paste",
+      "amount": 42.8,
+      "unit": "g",
+      "unit_price": 0.0078,
+      "cost": 0.33,
+      "source": "bodycomp"
     }
   ]
 }
