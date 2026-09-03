@@ -1473,6 +1473,50 @@
       "unit_price": 0.004,
       "cost": 2.58,
       "source": "manual"
+    },
+    {
+      "id": "1788392881186362-1788397789664-1",
+      "ts": 1788397789664,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 466.0,
+      "unit": "g",
+      "unit_price": 0.0145,
+      "cost": 6.76,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1786144321746508-1788397789664-2",
+      "ts": 1788397789664,
+      "item_id": "1786144321746508",
+      "name": "Egg (Costco)",
+      "amount": 51.0,
+      "unit": "g",
+      "unit_price": 0.0024,
+      "cost": 0.12,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1786575325801012-1788397789664-3",
+      "ts": 1788397789664,
+      "item_id": "1786575325801012",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 32.0,
+      "unit": "g",
+      "unit_price": 0.0478,
+      "cost": 1.53,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788306258606929-1788397789664-5",
+      "ts": 1788397789664,
+      "item_id": "1788306258606929",
+      "name": "Squash, summer, green, zucchini, includes skin, raw",
+      "amount": 211.0,
+      "unit": "g",
+      "unit_price": 0.0021,
+      "cost": 0.44,
+      "source": "bodycomp"
     }
   ]
 }
