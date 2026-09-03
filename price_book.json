@@ -532,9 +532,9 @@
     },
     {
       "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
-      "unit_price": 0.0145,
+      "unit_price": 0.0144,
       "unit": "g",
-      "ts": 1788440953093
+      "ts": 1788440992760
     }
   ]
 }
