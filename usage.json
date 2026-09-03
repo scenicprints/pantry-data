@@ -1024,14 +1024,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1787625077301-6",
+      "id": "1786406566451672-1787625077301-3",
       "ts": 1787625077301,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 91.0,
+      "item_id": "1786406566451672",
+      "name": "Tahini",
+      "amount": 80.6,
       "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.16,
+      "unit_price": 0.0186,
+      "cost": 1.5,
       "source": "bodycomp"
     },
     {
@@ -1057,14 +1057,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786406566451672-1787625077301-3",
+      "id": "1783468342307182-1787625077301-6",
       "ts": 1787625077301,
-      "item_id": "1786406566451672",
-      "name": "Tahini",
-      "amount": 80.6,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 91.0,
       "unit": "g",
-      "unit_price": 0.0186,
-      "cost": 1.5,
+      "unit_price": 0.0018,
+      "cost": 0.16,
       "source": "bodycomp"
     },
     {
@@ -1189,14 +1189,14 @@
       "source": "manual"
     },
     {
-      "id": "1787359850302016-1787707512064-4",
+      "id": "1786144321746508-1787707512064-1",
       "ts": 1787707512064,
-      "item_id": "1787359850302016",
-      "name": "Peppers, bell, red, raw",
-      "amount": 69.0,
+      "item_id": "1786144321746508",
+      "name": "Egg (Costco)",
+      "amount": 417.0,
       "unit": "g",
-      "unit_price": 0.0062,
-      "cost": 0.43,
+      "unit_price": 0.0024,
+      "cost": 1.0,
       "source": "bodycomp"
     },
     {
@@ -1222,14 +1222,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786144321746508-1787707512064-1",
+      "id": "1787359850302016-1787707512064-4",
       "ts": 1787707512064,
-      "item_id": "1786144321746508",
-      "name": "Egg (Costco)",
-      "amount": 417.0,
+      "item_id": "1787359850302016",
+      "name": "Peppers, bell, red, raw",
+      "amount": 69.0,
       "unit": "g",
-      "unit_price": 0.0024,
-      "cost": 1.0,
+      "unit_price": 0.0062,
+      "cost": 0.43,
       "source": "bodycomp"
     },
     {
@@ -1539,6 +1539,17 @@
       "unit_price": 0.0078,
       "cost": 0.33,
       "source": "bodycomp"
+    },
+    {
+      "id": "1788215389989998-1788441039958",
+      "ts": 1788441039958,
+      "item_id": "1788215389989998",
+      "name": "Blueberries, raw",
+      "amount": 457.0,
+      "unit": "g",
+      "unit_price": 0.019,
+      "cost": 8.67,
+      "source": "manual"
     }
   ]
 }
