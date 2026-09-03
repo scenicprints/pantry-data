@@ -399,33 +399,6 @@
       "price_per_gram": 0.0084
     },
     {
-      "id": "1785375562689546",
-      "name": "Broccoli, raw",
-      "price": 3.77,
-      "serving_size": 571.5,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 2.6,
-        "calories": 31.0,
-        "carbs_g": 6.3,
-        "fat_g": 0.3
-      },
-      "macros_per_100g": {
-        "protein_g": 0.5,
-        "calories": 5.4,
-        "carbs_g": 1.1,
-        "fat_g": 0.1
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-29",
-      "last_price": 3.77,
-      "updated_at_ms": 1785383395128,
-      "category": "Pantry",
-      "total_weight_g": 571.5,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0066
-    },
-    {
       "id": "1785796492806710",
       "name": "Broccoli, raw",
       "price": 4.2,
@@ -451,6 +424,33 @@
       "total_weight_g": 1280.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0033
+    },
+    {
+      "id": "1785375562689546",
+      "name": "Broccoli, raw",
+      "price": 3.77,
+      "serving_size": 571.5,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 2.6,
+        "calories": 31.0,
+        "carbs_g": 6.3,
+        "fat_g": 0.3
+      },
+      "macros_per_100g": {
+        "protein_g": 0.5,
+        "calories": 5.4,
+        "carbs_g": 1.1,
+        "fat_g": 0.1
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-29",
+      "last_price": 3.77,
+      "updated_at_ms": 1785383395128,
+      "category": "Pantry",
+      "total_weight_g": 571.5,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0066
     },
     {
       "id": "1784681100742994",
@@ -1900,33 +1900,6 @@
       "price_per_gram": 0.004
     },
     {
-      "id": "1787359850302016",
-      "name": "Peppers, bell, red, raw",
-      "price": 1.49,
-      "serving_size": 100.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.9,
-        "calories": 31.3,
-        "carbs_g": 6.7,
-        "fat_g": 0.1
-      },
-      "macros_per_100g": {
-        "protein_g": 0.9,
-        "calories": 31.3,
-        "carbs_g": 6.7,
-        "fat_g": 0.1
-      },
-      "expiring_soon": false,
-      "date_added": "2026-08-21",
-      "last_price": 1.49,
-      "updated_at_ms": 1787884168175,
-      "category": "Pantry",
-      "total_weight_g": 240.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0062
-    },
-    {
       "id": "1787882390828032",
       "name": "Peppers, bell, red, raw",
       "price": 5.0,
@@ -1952,6 +1925,33 @@
       "total_weight_g": 311.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0161
+    },
+    {
+      "id": "1787359850302016",
+      "name": "Peppers, bell, red, raw",
+      "price": 1.49,
+      "serving_size": 100.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.9,
+        "calories": 31.3,
+        "carbs_g": 6.7,
+        "fat_g": 0.1
+      },
+      "macros_per_100g": {
+        "protein_g": 0.9,
+        "calories": 31.3,
+        "carbs_g": 6.7,
+        "fat_g": 0.1
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-21",
+      "last_price": 1.49,
+      "updated_at_ms": 1787884168175,
+      "category": "Pantry",
+      "total_weight_g": 240.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0062
     },
     {
       "id": "1784681050401909",
@@ -2123,6 +2123,34 @@
       "price_per_gram": 0.0419
     },
     {
+      "id": "1784072069337693",
+      "name": "Spaghetti (Miracle Noodle Organic)",
+      "barcode": "854126008149",
+      "price": 1.06,
+      "serving_size": 85.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.0,
+        "calories": 5.0,
+        "carbs_g": 3.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.0,
+        "calories": 5.9,
+        "carbs_g": 3.5,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-14",
+      "last_price": 1.06,
+      "updated_at_ms": 1787795492081,
+      "category": "Pantry",
+      "total_weight_g": 170.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0062
+    },
+    {
       "id": "1783296025377780",
       "name": "Spaghetti (Miracle Noodle Organic)",
       "barcode": "854126008149",
@@ -2150,34 +2178,6 @@
       "total_weight_g": 170.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0209
-    },
-    {
-      "id": "1784072069337693",
-      "name": "Spaghetti (Miracle Noodle Organic)",
-      "barcode": "854126008149",
-      "price": 1.06,
-      "serving_size": 85.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.0,
-        "calories": 5.0,
-        "carbs_g": 3.0,
-        "fat_g": 0.0
-      },
-      "macros_per_100g": {
-        "protein_g": 0.0,
-        "calories": 5.9,
-        "carbs_g": 3.5,
-        "fat_g": 0.0
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-14",
-      "last_price": 1.06,
-      "updated_at_ms": 1787795492081,
-      "category": "Pantry",
-      "total_weight_g": 170.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0062
     },
     {
       "id": "1787186860697456",
@@ -2652,33 +2652,6 @@
       "price_per_gram": 0.0088
     },
     {
-      "id": "1788479679972461",
-      "name": "Tomatoes, raw",
-      "price": 5.0,
-      "serving_size": 100.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.8,
-        "calories": 20.0,
-        "carbs_g": 4.0,
-        "fat_g": 0.3
-      },
-      "macros_per_100g": {
-        "protein_g": 0.8,
-        "calories": 20.0,
-        "carbs_g": 4.0,
-        "fat_g": 0.3
-      },
-      "expiring_soon": false,
-      "date_added": "2026-09-03",
-      "last_price": 5.0,
-      "updated_at_ms": 1788479679972,
-      "category": "Pantry",
-      "total_weight_g": 1723.0,
-      "remaining_weight_g": 1723.0,
-      "price_per_gram": 0.0029
-    },
-    {
       "id": "1787704460130745",
       "name": "Tomatoes, raw",
       "price": 4.87,
@@ -2704,6 +2677,33 @@
       "total_weight_g": 744.0,
       "remaining_weight_g": 563.0,
       "price_per_gram": 0.0065
+    },
+    {
+      "id": "1788479679972461",
+      "name": "Tomatoes, raw",
+      "price": 5.0,
+      "serving_size": 100.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.8,
+        "calories": 20.0,
+        "carbs_g": 4.0,
+        "fat_g": 0.3
+      },
+      "macros_per_100g": {
+        "protein_g": 0.8,
+        "calories": 20.0,
+        "carbs_g": 4.0,
+        "fat_g": 0.3
+      },
+      "expiring_soon": false,
+      "date_added": "2026-09-03",
+      "last_price": 5.0,
+      "updated_at_ms": 1788479679972,
+      "category": "Pantry",
+      "total_weight_g": 1723.0,
+      "remaining_weight_g": 1723.0,
+      "price_per_gram": 0.0029
     },
     {
       "id": "1784845940686636",
@@ -2734,34 +2734,6 @@
       "price_per_gram": 0.0059
     },
     {
-      "id": "1787187055906324",
-      "name": "Ultimate Roasted Potatoes (The Little Potato Co.)",
-      "barcode": "629307040146",
-      "price": 5.99,
-      "serving_size": 110.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 2.0,
-        "calories": 80.0,
-        "carbs_g": 16.0,
-        "fat_g": 0.0
-      },
-      "macros_per_100g": {
-        "protein_g": 1.8,
-        "calories": 72.7,
-        "carbs_g": 14.5,
-        "fat_g": 0.0
-      },
-      "expiring_soon": false,
-      "date_added": "2026-08-19",
-      "last_price": 5.99,
-      "updated_at_ms": 1787707512064,
-      "category": "Pantry",
-      "total_weight_g": 1320.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0045
-    },
-    {
       "id": "1787704317176797",
       "name": "Ultimate Roasted Potatoes (The Little Potato Co.)",
       "barcode": "629307040146",
@@ -2787,6 +2759,34 @@
       "category": "Pantry",
       "total_weight_g": 1320.0,
       "remaining_weight_g": 690.0,
+      "price_per_gram": 0.0045
+    },
+    {
+      "id": "1787187055906324",
+      "name": "Ultimate Roasted Potatoes (The Little Potato Co.)",
+      "barcode": "629307040146",
+      "price": 5.99,
+      "serving_size": 110.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 2.0,
+        "calories": 80.0,
+        "carbs_g": 16.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 1.8,
+        "calories": 72.7,
+        "carbs_g": 14.5,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-19",
+      "last_price": 5.99,
+      "updated_at_ms": 1787707512064,
+      "category": "Pantry",
+      "total_weight_g": 1320.0,
+      "remaining_weight_g": 0.0,
       "price_per_gram": 0.0045
     },
     {
