@@ -1594,6 +1594,39 @@
       "unit_price": 0.0092,
       "cost": 4.33,
       "source": "manual"
+    },
+    {
+      "id": "1788306202772940-1788483858799-1",
+      "ts": 1788483858799,
+      "item_id": "1788306202772940",
+      "name": "Onions, white, raw",
+      "amount": 156.0,
+      "unit": "g",
+      "unit_price": 0.0024,
+      "cost": 0.37,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788392582726771-1788483858799-3",
+      "ts": 1788483858799,
+      "item_id": "1788392582726771",
+      "name": "Sunny Select Tomato Paste",
+      "amount": 33.3,
+      "unit": "g",
+      "unit_price": 0.0079,
+      "cost": 0.26,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788392881186362-1788483858799-4",
+      "ts": 1788483858799,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 452.0,
+      "unit": "g",
+      "unit_price": 0.0144,
+      "cost": 6.51,
+      "source": "bodycomp"
     }
   ]
 }
