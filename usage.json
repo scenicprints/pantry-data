@@ -1189,14 +1189,14 @@
       "source": "manual"
     },
     {
-      "id": "1786144321746508-1787707512064-1",
+      "id": "1783468342307182-1787707512064-3",
       "ts": 1787707512064,
-      "item_id": "1786144321746508",
-      "name": "Egg (Costco)",
-      "amount": 417.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 133.0,
       "unit": "g",
-      "unit_price": 0.0024,
-      "cost": 1.0,
+      "unit_price": 0.0018,
+      "cost": 0.24,
       "source": "bodycomp"
     },
     {
@@ -1233,14 +1233,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1787707512064-3",
+      "id": "1786144321746508-1787707512064-1",
       "ts": 1787707512064,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 133.0,
+      "item_id": "1786144321746508",
+      "name": "Egg (Costco)",
+      "amount": 417.0,
       "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.24,
+      "unit_price": 0.0024,
+      "cost": 1.0,
       "source": "bodycomp"
     },
     {
