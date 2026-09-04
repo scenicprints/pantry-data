@@ -881,14 +881,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787274147117817-1787361609599-5",
+      "id": "1787359850302016-1787361609599-3",
       "ts": 1787361609599,
-      "item_id": "1787274147117817",
-      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
-      "amount": 32.0,
+      "item_id": "1787359850302016",
+      "name": "Peppers, bell, red, raw",
+      "amount": 161.0,
       "unit": "g",
-      "unit_price": 0.0178,
-      "cost": 0.57,
+      "unit_price": 0.0062,
+      "cost": 1.0,
       "source": "bodycomp"
     },
     {
@@ -925,14 +925,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787359850302016-1787361609599-3",
+      "id": "1787274147117817-1787361609599-5",
       "ts": 1787361609599,
-      "item_id": "1787359850302016",
-      "name": "Peppers, bell, red, raw",
-      "amount": 161.0,
+      "item_id": "1787274147117817",
+      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
+      "amount": 32.0,
       "unit": "g",
-      "unit_price": 0.0062,
-      "cost": 1.0,
+      "unit_price": 0.0178,
+      "cost": 0.57,
       "source": "bodycomp"
     },
     {
