@@ -914,17 +914,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787274126378301-1787361609599-4",
-      "ts": 1787361609599,
-      "item_id": "1787274126378301",
-      "name": "Oaxaca part skim milk cheese (Cacique)",
-      "amount": 78.0,
-      "unit": "g",
-      "unit_price": 0.0203,
-      "cost": 1.58,
-      "source": "bodycomp"
-    },
-    {
       "id": "1783468342307182-1787361609599-2",
       "ts": 1787361609599,
       "item_id": "1783468342307182",
@@ -933,6 +922,17 @@
       "unit": "g",
       "unit_price": 0.0018,
       "cost": 0.33,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787274126378301-1787361609599-4",
+      "ts": 1787361609599,
+      "item_id": "1787274126378301",
+      "name": "Oaxaca part skim milk cheese (Cacique)",
+      "amount": 78.0,
+      "unit": "g",
+      "unit_price": 0.0203,
+      "cost": 1.58,
       "source": "bodycomp"
     },
     {
