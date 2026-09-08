@@ -903,14 +903,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787274126378301-1787361609599-4",
+      "id": "1787359850302016-1787361609599-3",
       "ts": 1787361609599,
-      "item_id": "1787274126378301",
-      "name": "Oaxaca part skim milk cheese (Cacique)",
-      "amount": 78.0,
+      "item_id": "1787359850302016",
+      "name": "Peppers, bell, red, raw",
+      "amount": 161.0,
       "unit": "g",
-      "unit_price": 0.0203,
-      "cost": 1.58,
+      "unit_price": 0.0062,
+      "cost": 1.0,
       "source": "bodycomp"
     },
     {
@@ -925,14 +925,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787359850302016-1787361609599-3",
+      "id": "1787274126378301-1787361609599-4",
       "ts": 1787361609599,
-      "item_id": "1787359850302016",
-      "name": "Peppers, bell, red, raw",
-      "amount": 161.0,
+      "item_id": "1787274126378301",
+      "name": "Oaxaca part skim milk cheese (Cacique)",
+      "amount": 78.0,
       "unit": "g",
-      "unit_price": 0.0062,
-      "cost": 1.0,
+      "unit_price": 0.0203,
+      "cost": 1.58,
       "source": "bodycomp"
     },
     {
