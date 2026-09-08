@@ -914,17 +914,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1787361609599-2",
-      "ts": 1787361609599,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 184.0,
-      "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.33,
-      "source": "bodycomp"
-    },
-    {
       "id": "1787274126378301-1787361609599-4",
       "ts": 1787361609599,
       "item_id": "1787274126378301",
@@ -933,6 +922,17 @@
       "unit": "g",
       "unit_price": 0.0203,
       "cost": 1.58,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1783468342307182-1787361609599-2",
+      "ts": 1787361609599,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 184.0,
+      "unit": "g",
+      "unit_price": 0.0018,
+      "cost": 0.33,
       "source": "bodycomp"
     },
     {
@@ -1649,6 +1649,17 @@
       "unit_price": 0.0043,
       "cost": 1.27,
       "source": "bodycomp"
+    },
+    {
+      "id": "1785758208940542-1788889498684",
+      "ts": 1788889498684,
+      "item_id": "1785758208940542",
+      "name": "Fettuccine Style Plant Based Noodles (Miracle Noodle)",
+      "amount": 170.0,
+      "unit": "g",
+      "unit_price": 0.0419,
+      "cost": 7.12,
+      "source": "manual"
     }
   ]
 }
