@@ -1627,6 +1627,28 @@
       "unit_price": 0.0144,
       "cost": 6.51,
       "source": "bodycomp"
+    },
+    {
+      "id": "1786575236958341-1788841168273-1",
+      "ts": 1788841168273,
+      "item_id": "1786575236958341",
+      "name": "Egg Whites (Kirkland Signature)",
+      "amount": 324.0,
+      "unit": "g",
+      "unit_price": 0.0043,
+      "cost": 1.39,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1786575236958341-1788841168273-2",
+      "ts": 1788841168273,
+      "item_id": "1786575236958341",
+      "name": "Egg Whites (Kirkland Signature)",
+      "amount": 295.0,
+      "unit": "g",
+      "unit_price": 0.0043,
+      "cost": 1.27,
+      "source": "bodycomp"
     }
   ]
 }
