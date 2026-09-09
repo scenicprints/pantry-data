@@ -226,10 +226,10 @@
       "expiring_soon": false,
       "date_added": "2026-09-02",
       "last_price": 6.9,
-      "updated_at_ms": 1788889543330,
+      "updated_at_ms": 1788913962763,
       "category": "Pantry",
       "total_weight_g": 480.0,
-      "remaining_weight_g": 480.0,
+      "remaining_weight_g": 6.0,
       "price_per_gram": 0.0144
     },
     {
@@ -1601,7 +1601,7 @@
       "expiring_soon": false,
       "date_added": "2026-07-06",
       "last_price": 0.0,
-      "updated_at_ms": 1788483858799,
+      "updated_at_ms": 1788913962763,
       "category": "Pantry",
       "quantity_unknown": true,
       "total_weight_g": 0.0,
@@ -2394,10 +2394,10 @@
       "expiring_soon": true,
       "date_added": "2026-09-02",
       "last_price": 1.3,
-      "updated_at_ms": 1788483858799,
+      "updated_at_ms": 1788913962763,
       "category": "Pantry",
       "total_weight_g": 165.0,
-      "remaining_weight_g": 88.9,
+      "remaining_weight_g": 56.9,
       "price_per_gram": 0.0079
     },
     {
@@ -2700,10 +2700,10 @@
       "expiring_soon": false,
       "date_added": "2026-08-25",
       "last_price": 4.87,
-      "updated_at_ms": 1787707415647,
+      "updated_at_ms": 1788913962763,
       "category": "Pantry",
       "total_weight_g": 744.0,
-      "remaining_weight_g": 563.0,
+      "remaining_weight_g": 274.0,
       "price_per_gram": 0.0065
     },
     {
@@ -2922,10 +2922,10 @@
       "expiring_soon": false,
       "date_added": "2026-07-07",
       "last_price": 5.99,
-      "updated_at_ms": 1788398595075,
+      "updated_at_ms": 1788913962763,
       "category": "Pantry",
       "total_weight_g": 3294.0,
-      "remaining_weight_g": 1503.0,
+      "remaining_weight_g": 1335.0,
       "price_per_gram": 0.0018
     },
     {
