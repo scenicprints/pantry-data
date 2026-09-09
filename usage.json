@@ -1660,6 +1660,50 @@
       "unit_price": 0.0419,
       "cost": 7.12,
       "source": "manual"
+    },
+    {
+      "id": "1783468342307182-1788913962763-1",
+      "ts": 1788913962763,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 168.0,
+      "unit": "g",
+      "unit_price": 0.0018,
+      "cost": 0.3,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787704460130745-1788913962763-3",
+      "ts": 1788913962763,
+      "item_id": "1787704460130745",
+      "name": "Tomatoes, raw",
+      "amount": 289.0,
+      "unit": "g",
+      "unit_price": 0.0065,
+      "cost": 1.88,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788392582726771-1788913962763-4",
+      "ts": 1788913962763,
+      "item_id": "1788392582726771",
+      "name": "Sunny Select Tomato Paste",
+      "amount": 32.0,
+      "unit": "g",
+      "unit_price": 0.0079,
+      "cost": 0.25,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788392881186362-1788913962763-5",
+      "ts": 1788913962763,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 474.0,
+      "unit": "g",
+      "unit_price": 0.0144,
+      "cost": 6.83,
+      "source": "bodycomp"
     }
   ]
 }
