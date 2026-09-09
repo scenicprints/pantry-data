@@ -936,17 +936,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786751038144320-1787361824155-2",
-      "ts": 1787361824155,
-      "item_id": "1786751038144320",
-      "name": "Sweet Relish (Mt. Olive)",
-      "amount": 30.0,
-      "unit": "g",
-      "unit_price": 0.0117,
-      "cost": 0.35,
-      "source": "bodycomp"
-    },
-    {
       "id": "1787359874734047-1787361824155-1",
       "ts": 1787361824155,
       "item_id": "1787359874734047",
@@ -955,6 +944,17 @@
       "unit": "g",
       "unit_price": 0.0111,
       "cost": 1.5,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1786751038144320-1787361824155-2",
+      "ts": 1787361824155,
+      "item_id": "1786751038144320",
+      "name": "Sweet Relish (Mt. Olive)",
+      "amount": 30.0,
+      "unit": "g",
+      "unit_price": 0.0117,
+      "cost": 0.35,
       "source": "bodycomp"
     },
     {
@@ -1310,17 +1310,6 @@
       "source": "manual"
     },
     {
-      "id": "1787882035237294-1787884168175-1",
-      "ts": 1787884168175,
-      "item_id": "1787882035237294",
-      "name": "Boneless, Skinless Chicken Tenderloins (Just Bare)",
-      "amount": 382.9,
-      "unit": "g",
-      "unit_price": 0.0287,
-      "cost": 10.99,
-      "source": "bodycomp"
-    },
-    {
       "id": "1787622507012383-1787884168175-3",
       "ts": 1787884168175,
       "item_id": "1787622507012383",
@@ -1329,6 +1318,17 @@
       "unit": "g",
       "unit_price": 0.0054,
       "cost": 1.1,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787882035237294-1787884168175-1",
+      "ts": 1787884168175,
+      "item_id": "1787882035237294",
+      "name": "Boneless, Skinless Chicken Tenderloins (Just Bare)",
+      "amount": 382.9,
+      "unit": "g",
+      "unit_price": 0.0287,
+      "cost": 10.99,
       "source": "bodycomp"
     },
     {
@@ -1497,17 +1497,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786575325801012-1788397789664-3",
-      "ts": 1788397789664,
-      "item_id": "1786575325801012",
-      "name": "Parmesan Freshly Grated (BelGioioso)",
-      "amount": 32.0,
-      "unit": "g",
-      "unit_price": 0.0478,
-      "cost": 1.53,
-      "source": "bodycomp"
-    },
-    {
       "id": "1788306258606929-1788397789664-5",
       "ts": 1788397789664,
       "item_id": "1788306258606929",
@@ -1516,6 +1505,17 @@
       "unit": "g",
       "unit_price": 0.0021,
       "cost": 0.44,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1786575325801012-1788397789664-3",
+      "ts": 1788397789664,
+      "item_id": "1786575325801012",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 32.0,
+      "unit": "g",
+      "unit_price": 0.0478,
+      "cost": 1.53,
       "source": "bodycomp"
     },
     {
