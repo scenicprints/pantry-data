@@ -535,6 +535,13 @@
       "unit_price": 0.0036,
       "unit": "g",
       "ts": 1788997417568
+    },
+    {
+      "name": "Baby potatoes (The Little Potato Co.)",
+      "barcode": "629307042546",
+      "unit_price": 0.0045,
+      "unit": "g",
+      "ts": 1788997431043
     }
   ]
 }
