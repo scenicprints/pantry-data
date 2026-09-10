@@ -1770,6 +1770,17 @@
       "unit_price": 0.0104,
       "cost": 1.04,
       "source": "bodycomp"
+    },
+    {
+      "id": "1788306258606929-1789056883152",
+      "ts": 1789056883152,
+      "item_id": "1788306258606929",
+      "name": "Squash, summer, green, zucchini, includes skin, raw",
+      "amount": 1520.0,
+      "unit": "g",
+      "unit_price": 0.0021,
+      "cost": 3.13,
+      "source": "manual"
     }
   ]
 }
