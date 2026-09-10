@@ -1715,6 +1715,61 @@
       "unit_price": 0.0079,
       "cost": 0.45,
       "source": "manual"
+    },
+    {
+      "id": "1788997431039591-1789001405434-2",
+      "ts": 1789001405434,
+      "item_id": "1788997431039591",
+      "name": "Baby potatoes (The Little Potato Co.)",
+      "amount": 493.0,
+      "unit": "g",
+      "unit_price": 0.0045,
+      "cost": 2.22,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788306202772940-1789001405434-3",
+      "ts": 1789001405434,
+      "item_id": "1788306202772940",
+      "name": "Onions, white, raw",
+      "amount": 168.0,
+      "unit": "g",
+      "unit_price": 0.0024,
+      "cost": 0.4,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788306258606929-1789001405434-5",
+      "ts": 1789001405434,
+      "item_id": "1788306258606929",
+      "name": "Squash, summer, green, zucchini, includes skin, raw",
+      "amount": 213.0,
+      "unit": "g",
+      "unit_price": 0.0021,
+      "cost": 0.45,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788392881186362-1789001405434-6",
+      "ts": 1789001405434,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 464.0,
+      "unit": "g",
+      "unit_price": 0.0036,
+      "cost": 1.67,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1786153214153587-1789001405434-8",
+      "ts": 1789001405434,
+      "item_id": "1786153214153587",
+      "name": "No Sugar Added Ketchup (Sunny select)",
+      "amount": 100.0,
+      "unit": "g",
+      "unit_price": 0.0104,
+      "cost": 1.04,
+      "source": "bodycomp"
     }
   ]
 }
