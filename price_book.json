@@ -556,6 +556,13 @@
       "unit_price": 0.006,
       "unit": "g",
       "ts": 1789167931451
+    },
+    {
+      "name": "Gruyere Cheese (Emmi)",
+      "barcode": "073015001720",
+      "unit_price": 0.0892,
+      "unit": "g",
+      "ts": 1789167956055
     }
   ]
 }
