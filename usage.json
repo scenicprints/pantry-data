@@ -1792,6 +1792,17 @@
       "unit_price": 0.0076,
       "cost": 3.29,
       "source": "manual"
+    },
+    {
+      "id": "1788997431039591-1789088745113-1",
+      "ts": 1789088745113,
+      "item_id": "1788997431039591",
+      "name": "Baby potatoes (The Little Potato Co.)",
+      "amount": 613.0,
+      "unit": "g",
+      "unit_price": 0.0045,
+      "cost": 2.76,
+      "source": "bodycomp"
     }
   ]
 }
