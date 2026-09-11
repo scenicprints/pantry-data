@@ -1847,6 +1847,50 @@
       "unit_price": 0.0018,
       "cost": 2.43,
       "source": "manual"
+    },
+    {
+      "id": "1789167864718538-1789169379370-2",
+      "ts": 1789169379370,
+      "item_id": "1789167864718538",
+      "name": "1% Fat Ground Turkey Breast Extra Lean (Jennie-o)",
+      "amount": 435.0,
+      "unit": "g",
+      "unit_price": 0.0201,
+      "cost": 8.74,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788306202772940-1789169379370-3",
+      "ts": 1789169379370,
+      "item_id": "1788306202772940",
+      "name": "Onions, white, raw",
+      "amount": 144.0,
+      "unit": "g",
+      "unit_price": 0.0024,
+      "cost": 0.35,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787704460130745-1789169379370-4",
+      "ts": 1789169379370,
+      "item_id": "1787704460130745",
+      "name": "Tomatoes, raw",
+      "amount": 235.0,
+      "unit": "g",
+      "unit_price": 0.0065,
+      "cost": 1.53,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1789167956040243-1789169379370-5",
+      "ts": 1789169379370,
+      "item_id": "1789167956040243",
+      "name": "Gruyere Cheese (Emmi)",
+      "amount": 91.0,
+      "unit": "g",
+      "unit_price": 0.0892,
+      "cost": 8.12,
+      "source": "bodycomp"
     }
   ]
 }
