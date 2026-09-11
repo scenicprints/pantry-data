@@ -542,6 +542,13 @@
       "unit_price": 0.0045,
       "unit": "g",
       "ts": 1789167829175
+    },
+    {
+      "name": "1% Fat Ground Turkey Breast Extra Lean (Jennie-o)",
+      "barcode": "042222302043",
+      "unit_price": 0.0201,
+      "unit": "g",
+      "ts": 1789167864722
     }
   ]
 }
