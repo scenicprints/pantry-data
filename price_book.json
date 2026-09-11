@@ -487,9 +487,9 @@
     },
     {
       "name": "Peppers, bell, green, raw",
-      "unit_price": 0.004,
+      "unit_price": 0.0021,
       "unit": "g",
-      "ts": 1789167829175
+      "ts": 1789167832326
     },
     {
       "name": "Limes, raw",
