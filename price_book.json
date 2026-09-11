@@ -549,6 +549,13 @@
       "unit_price": 0.0201,
       "unit": "g",
       "ts": 1789167864722
+    },
+    {
+      "name": "Tomato Paste Sunny Select",
+      "barcode": "717544103592",
+      "unit_price": 0.006,
+      "unit": "g",
+      "ts": 1789167931451
     }
   ]
 }
