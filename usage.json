@@ -1013,14 +1013,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622286048133-1787625077301-5",
+      "id": "1787274147117817-1787625077301-8",
       "ts": 1787625077301,
-      "item_id": "1787622286048133",
-      "name": "Cucumber, raw",
-      "amount": 328.0,
+      "item_id": "1787274147117817",
+      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
+      "amount": 39.4,
       "unit": "g",
-      "unit_price": 0.0083,
-      "cost": 2.72,
+      "unit_price": 0.0178,
+      "cost": 0.7,
       "source": "bodycomp"
     },
     {
@@ -1057,14 +1057,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787274147117817-1787625077301-8",
+      "id": "1787622286048133-1787625077301-5",
       "ts": 1787625077301,
-      "item_id": "1787274147117817",
-      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
-      "amount": 39.4,
+      "item_id": "1787622286048133",
+      "name": "Cucumber, raw",
+      "amount": 328.0,
       "unit": "g",
-      "unit_price": 0.0178,
-      "cost": 0.7,
+      "unit_price": 0.0083,
+      "cost": 2.72,
       "source": "bodycomp"
     },
     {
@@ -1200,14 +1200,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786751008525587-1787707512064-5",
+      "id": "1786144321746508-1787707512064-1",
       "ts": 1787707512064,
-      "item_id": "1786751008525587",
-      "name": "Gruyère",
-      "amount": 72.8,
+      "item_id": "1786144321746508",
+      "name": "Egg (Costco)",
+      "amount": 417.0,
       "unit": "g",
-      "unit_price": 0.0684,
-      "cost": 4.98,
+      "unit_price": 0.0024,
+      "cost": 1.0,
       "source": "bodycomp"
     },
     {
@@ -1233,14 +1233,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786144321746508-1787707512064-1",
+      "id": "1786751008525587-1787707512064-5",
       "ts": 1787707512064,
-      "item_id": "1786144321746508",
-      "name": "Egg (Costco)",
-      "amount": 417.0,
+      "item_id": "1786751008525587",
+      "name": "Gruyère",
+      "amount": 72.8,
       "unit": "g",
-      "unit_price": 0.0024,
-      "cost": 1.0,
+      "unit_price": 0.0684,
+      "cost": 4.98,
       "source": "bodycomp"
     },
     {
@@ -1420,17 +1420,6 @@
       "source": "manual"
     },
     {
-      "id": "1783376700229718-1788314756259-4",
-      "ts": 1788314756259,
-      "item_id": "1783376700229718",
-      "name": "Honey (Essential Everyday)",
-      "amount": 10.0,
-      "unit": "g",
-      "unit_price": 0.0149,
-      "cost": 0.15,
-      "source": "bodycomp"
-    },
-    {
       "id": "1786406566451672-1788314756259-1",
       "ts": 1788314756259,
       "item_id": "1786406566451672",
@@ -1439,6 +1428,17 @@
       "unit": "g",
       "unit_price": 0.0186,
       "cost": 1.62,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1783376700229718-1788314756259-4",
+      "ts": 1788314756259,
+      "item_id": "1783376700229718",
+      "name": "Honey (Essential Everyday)",
+      "amount": 10.0,
+      "unit": "g",
+      "unit_price": 0.0149,
+      "cost": 0.15,
       "source": "bodycomp"
     },
     {
@@ -1607,17 +1607,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788392881186362-1788483858799-4",
-      "ts": 1788483858799,
-      "item_id": "1788392881186362",
-      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
-      "amount": 452.0,
-      "unit": "g",
-      "unit_price": 0.0144,
-      "cost": 6.51,
-      "source": "bodycomp"
-    },
-    {
       "id": "1788392582726771-1788483858799-3",
       "ts": 1788483858799,
       "item_id": "1788392582726771",
@@ -1626,6 +1615,17 @@
       "unit": "g",
       "unit_price": 0.0079,
       "cost": 0.26,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788392881186362-1788483858799-4",
+      "ts": 1788483858799,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 452.0,
+      "unit": "g",
+      "unit_price": 0.0144,
+      "cost": 6.51,
       "source": "bodycomp"
     },
     {
@@ -1803,6 +1803,17 @@
       "unit_price": 0.0045,
       "cost": 2.76,
       "source": "bodycomp"
+    },
+    {
+      "id": "1788997431039591-1789128829173",
+      "ts": 1789128829173,
+      "item_id": "1788997431039591",
+      "name": "Baby potatoes (The Little Potato Co.)",
+      "amount": 214.0,
+      "unit": "g",
+      "unit_price": 0.0045,
+      "cost": 0.97,
+      "source": "manual"
     }
   ]
 }
