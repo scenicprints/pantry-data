@@ -1013,14 +1013,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622286048133-1787625077301-5",
+      "id": "1783468342307182-1787625077301-6",
       "ts": 1787625077301,
-      "item_id": "1787622286048133",
-      "name": "Cucumber, raw",
-      "amount": 328.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 91.0,
       "unit": "g",
-      "unit_price": 0.0083,
-      "cost": 2.72,
+      "unit_price": 0.0018,
+      "cost": 0.16,
       "source": "bodycomp"
     },
     {
@@ -1057,14 +1057,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1787625077301-6",
+      "id": "1787622286048133-1787625077301-5",
       "ts": 1787625077301,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 91.0,
+      "item_id": "1787622286048133",
+      "name": "Cucumber, raw",
+      "amount": 328.0,
       "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.16,
+      "unit_price": 0.0083,
+      "cost": 2.72,
       "source": "bodycomp"
     },
     {
@@ -1222,17 +1222,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787359850302016-1787707512064-4",
-      "ts": 1787707512064,
-      "item_id": "1787359850302016",
-      "name": "Peppers, bell, red, raw",
-      "amount": 69.0,
-      "unit": "g",
-      "unit_price": 0.0062,
-      "cost": 0.43,
-      "source": "bodycomp"
-    },
-    {
       "id": "1786575236958341-1787707512064-2",
       "ts": 1787707512064,
       "item_id": "1786575236958341",
@@ -1241,6 +1230,17 @@
       "unit": "g",
       "unit_price": 0.0043,
       "cost": 0.58,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787359850302016-1787707512064-4",
+      "ts": 1787707512064,
+      "item_id": "1787359850302016",
+      "name": "Peppers, bell, red, raw",
+      "amount": 69.0,
+      "unit": "g",
+      "unit_price": 0.0062,
+      "cost": 0.43,
       "source": "bodycomp"
     },
     {
@@ -1835,6 +1835,17 @@
       "unit": "g",
       "unit_price": 0.0045,
       "cost": 3.13,
+      "source": "manual"
+    },
+    {
+      "id": "1783468342307182-1789128880614",
+      "ts": 1789128880614,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 1335.0,
+      "unit": "g",
+      "unit_price": 0.0018,
+      "cost": 2.43,
       "source": "manual"
     }
   ]
