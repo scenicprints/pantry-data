@@ -1046,17 +1046,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622286048133-1787625077301-5",
-      "ts": 1787625077301,
-      "item_id": "1787622286048133",
-      "name": "Cucumber, raw",
-      "amount": 328.0,
-      "unit": "g",
-      "unit_price": 0.0083,
-      "cost": 2.72,
-      "source": "bodycomp"
-    },
-    {
       "id": "1787622507012383-1787625077301-7",
       "ts": 1787625077301,
       "item_id": "1787622507012383",
@@ -1065,6 +1054,17 @@
       "unit": "g",
       "unit_price": 0.0054,
       "cost": 0.45,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787622286048133-1787625077301-5",
+      "ts": 1787625077301,
+      "item_id": "1787622286048133",
+      "name": "Cucumber, raw",
+      "amount": 328.0,
+      "unit": "g",
+      "unit_price": 0.0083,
+      "cost": 2.72,
       "source": "bodycomp"
     },
     {
@@ -1475,17 +1475,6 @@
       "source": "manual"
     },
     {
-      "id": "1788392881186362-1788397789664-1",
-      "ts": 1788397789664,
-      "item_id": "1788392881186362",
-      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
-      "amount": 466.0,
-      "unit": "g",
-      "unit_price": 0.0145,
-      "cost": 6.76,
-      "source": "bodycomp"
-    },
-    {
       "id": "1786144321746508-1788397789664-2",
       "ts": 1788397789664,
       "item_id": "1786144321746508",
@@ -1494,6 +1483,17 @@
       "unit": "g",
       "unit_price": 0.0024,
       "cost": 0.12,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788392881186362-1788397789664-1",
+      "ts": 1788397789664,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 466.0,
+      "unit": "g",
+      "unit_price": 0.0145,
+      "cost": 6.76,
       "source": "bodycomp"
     },
     {
@@ -1684,17 +1684,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788392582726771-1788913962763-4",
-      "ts": 1788913962763,
-      "item_id": "1788392582726771",
-      "name": "Sunny Select Tomato Paste",
-      "amount": 32.0,
-      "unit": "g",
-      "unit_price": 0.0079,
-      "cost": 0.25,
-      "source": "bodycomp"
-    },
-    {
       "id": "1787704460130745-1788913962763-3",
       "ts": 1788913962763,
       "item_id": "1787704460130745",
@@ -1703,6 +1692,17 @@
       "unit": "g",
       "unit_price": 0.0065,
       "cost": 1.88,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788392582726771-1788913962763-4",
+      "ts": 1788913962763,
+      "item_id": "1788392582726771",
+      "name": "Sunny Select Tomato Paste",
+      "amount": 32.0,
+      "unit": "g",
+      "unit_price": 0.0079,
+      "cost": 0.25,
       "source": "bodycomp"
     },
     {
@@ -1901,6 +1901,17 @@
       "unit": "g",
       "unit_price": 0.0201,
       "cost": 0.26,
+      "source": "manual"
+    },
+    {
+      "id": "1789167832322726-1789317035304",
+      "ts": 1789317035304,
+      "item_id": "1789167832322726",
+      "name": "Peppers, bell, green, raw",
+      "amount": 1000.0,
+      "unit": "g",
+      "unit_price": 0.0021,
+      "cost": 2.12,
       "source": "manual"
     }
   ]
