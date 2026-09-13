@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1789316663710,
+  "updated_at_ms": 1789316665595,
   "model": "opus",
   "equipment": [
     "Air fryer",
@@ -8,7 +8,8 @@
     "Tovala Smart Oven",
     "Outdoor grill",
     "Waffle iron",
-    "Rice cooker"
+    "Rice cooker",
+    "Slow cooker (Crock-Pot)"
   ],
   "avoids": [
     "Pork",
