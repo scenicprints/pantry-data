@@ -1,0 +1,20 @@
+{
+  "updated_at_ms": 1789316659783,
+  "model": "opus",
+  "equipment": [
+    "Air fryer",
+    "Stove / cooktop",
+    "Oven",
+    "Tovala Smart Oven",
+    "Outdoor grill",
+    "Waffle iron"
+  ],
+  "avoids": [
+    "Pork",
+    "All seafood",
+    "Spicy food",
+    "Chili powder",
+    "Yogurt"
+  ],
+  "notes": {}
+}
