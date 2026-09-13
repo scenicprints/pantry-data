@@ -1035,14 +1035,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786406566451672-1787625077301-3",
+      "id": "1787622286048133-1787625077301-5",
       "ts": 1787625077301,
-      "item_id": "1786406566451672",
-      "name": "Tahini",
-      "amount": 80.6,
+      "item_id": "1787622286048133",
+      "name": "Cucumber, raw",
+      "amount": 328.0,
       "unit": "g",
-      "unit_price": 0.0186,
-      "cost": 1.5,
+      "unit_price": 0.0083,
+      "cost": 2.72,
       "source": "bodycomp"
     },
     {
@@ -1057,14 +1057,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622286048133-1787625077301-5",
+      "id": "1786406566451672-1787625077301-3",
       "ts": 1787625077301,
-      "item_id": "1787622286048133",
-      "name": "Cucumber, raw",
-      "amount": 328.0,
+      "item_id": "1786406566451672",
+      "name": "Tahini",
+      "amount": 80.6,
       "unit": "g",
-      "unit_price": 0.0083,
-      "cost": 2.72,
+      "unit_price": 0.0186,
+      "cost": 1.5,
       "source": "bodycomp"
     },
     {
@@ -1662,14 +1662,14 @@
       "source": "manual"
     },
     {
-      "id": "1783468342307182-1788913962763-1",
+      "id": "1788392881186362-1788913962763-5",
       "ts": 1788913962763,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 168.0,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 474.0,
       "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.3,
+      "unit_price": 0.0144,
+      "cost": 6.83,
       "source": "bodycomp"
     },
     {
@@ -1695,14 +1695,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788392881186362-1788913962763-5",
+      "id": "1783468342307182-1788913962763-1",
       "ts": 1788913962763,
-      "item_id": "1788392881186362",
-      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
-      "amount": 474.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 168.0,
       "unit": "g",
-      "unit_price": 0.0144,
-      "cost": 6.83,
+      "unit_price": 0.0018,
+      "cost": 0.3,
       "source": "bodycomp"
     },
     {
