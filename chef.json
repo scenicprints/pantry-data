@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1789316665595,
+  "updated_at_ms": 1789316671948,
   "model": "opus",
   "equipment": [
     "Air fryer",
@@ -9,7 +9,8 @@
     "Outdoor grill",
     "Waffle iron",
     "Rice cooker",
-    "Slow cooker (Crock-Pot)"
+    "Slow cooker (Crock-Pot)",
+    "Blender"
   ],
   "avoids": [
     "Pork",
