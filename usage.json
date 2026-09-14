@@ -1913,6 +1913,39 @@
       "unit_price": 0.0021,
       "cost": 2.12,
       "source": "manual"
+    },
+    {
+      "id": "1786144321746508-1789355198977-1",
+      "ts": 1789355198977,
+      "item_id": "1786144321746508",
+      "name": "Egg (Costco)",
+      "amount": 215.0,
+      "unit": "g",
+      "unit_price": 0.0024,
+      "cost": 0.52,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1786575236958341-1789355198977-2",
+      "ts": 1789355198977,
+      "item_id": "1786575236958341",
+      "name": "Egg Whites (Kirkland Signature)",
+      "amount": 214.0,
+      "unit": "g",
+      "unit_price": 0.0043,
+      "cost": 0.92,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1789167956040243-1789355198977-4",
+      "ts": 1789355198977,
+      "item_id": "1789167956040243",
+      "name": "Gruyere Cheese (Emmi)",
+      "amount": 54.0,
+      "unit": "g",
+      "unit_price": 0.0892,
+      "cost": 4.82,
+      "source": "bodycomp"
     }
   ]
 }
