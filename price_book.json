@@ -570,6 +570,12 @@
       "unit_price": 0.0026,
       "unit": "g",
       "ts": 1789428564344
+    },
+    {
+      "name": "Cilantro, raw",
+      "unit_price": 0.0117,
+      "unit": "g",
+      "ts": 1789428597847
     }
   ]
 }
