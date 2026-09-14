@@ -582,6 +582,13 @@
       "unit_price": 0.0287,
       "unit": "g",
       "ts": 1789428671587
+    },
+    {
+      "name": "Brown Whole Grain Rice (Mahatma)",
+      "barcode": "017400105358",
+      "unit_price": 0.0042,
+      "unit": "g",
+      "ts": 1789428706292
     }
   ]
 }
