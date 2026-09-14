@@ -589,6 +589,12 @@
       "unit_price": 0.0042,
       "unit": "g",
       "ts": 1789428792781
+    },
+    {
+      "name": "Vinegar, red wine",
+      "unit_price": 0.0139,
+      "unit": "g",
+      "ts": 1789428800362
     }
   ]
 }
