@@ -563,6 +563,13 @@
       "unit_price": 0.0892,
       "unit": "g",
       "ts": 1789428547473
+    },
+    {
+      "name": "potato (Bushman's Inc)",
+      "barcode": "033383533100",
+      "unit_price": 0.0026,
+      "unit": "g",
+      "ts": 1789428564344
     }
   ]
 }
