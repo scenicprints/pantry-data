@@ -576,6 +576,12 @@
       "unit_price": 0.0117,
       "unit": "g",
       "ts": 1789428664207
+    },
+    {
+      "name": "Beef, top sirloin steak, raw",
+      "unit_price": 0.0287,
+      "unit": "g",
+      "ts": 1789428671587
     }
   ]
 }
