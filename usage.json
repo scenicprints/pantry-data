@@ -1475,14 +1475,14 @@
       "source": "manual"
     },
     {
-      "id": "1786575325801012-1788397789664-3",
+      "id": "1786144321746508-1788397789664-2",
       "ts": 1788397789664,
-      "item_id": "1786575325801012",
-      "name": "Parmesan Freshly Grated (BelGioioso)",
-      "amount": 32.0,
+      "item_id": "1786144321746508",
+      "name": "Egg (Costco)",
+      "amount": 51.0,
       "unit": "g",
-      "unit_price": 0.0478,
-      "cost": 1.53,
+      "unit_price": 0.0024,
+      "cost": 0.12,
       "source": "bodycomp"
     },
     {
@@ -1508,14 +1508,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786144321746508-1788397789664-2",
+      "id": "1786575325801012-1788397789664-3",
       "ts": 1788397789664,
-      "item_id": "1786144321746508",
-      "name": "Egg (Costco)",
-      "amount": 51.0,
+      "item_id": "1786575325801012",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 32.0,
       "unit": "g",
-      "unit_price": 0.0024,
-      "cost": 0.12,
+      "unit_price": 0.0478,
+      "cost": 1.53,
       "source": "bodycomp"
     },
     {
@@ -1728,14 +1728,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788997431039591-1789001405434-2",
+      "id": "1788306202772940-1789001405434-3",
       "ts": 1789001405434,
-      "item_id": "1788997431039591",
-      "name": "Baby potatoes (The Little Potato Co.)",
-      "amount": 493.0,
+      "item_id": "1788306202772940",
+      "name": "Onions, white, raw",
+      "amount": 168.0,
       "unit": "g",
-      "unit_price": 0.0045,
-      "cost": 2.22,
+      "unit_price": 0.0024,
+      "cost": 0.4,
       "source": "bodycomp"
     },
     {
@@ -1761,14 +1761,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788306202772940-1789001405434-3",
+      "id": "1788997431039591-1789001405434-2",
       "ts": 1789001405434,
-      "item_id": "1788306202772940",
-      "name": "Onions, white, raw",
-      "amount": 168.0,
+      "item_id": "1788997431039591",
+      "name": "Baby potatoes (The Little Potato Co.)",
+      "amount": 493.0,
       "unit": "g",
-      "unit_price": 0.0024,
-      "cost": 0.4,
+      "unit_price": 0.0045,
+      "cost": 2.22,
       "source": "bodycomp"
     },
     {
