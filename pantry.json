@@ -309,10 +309,10 @@
       "expiring_soon": false,
       "date_added": "2026-09-14",
       "last_price": 42.61,
-      "updated_at_ms": 1789428671583,
+      "updated_at_ms": 1789437158391,
       "category": "Pantry",
       "total_weight_g": 1487.0,
-      "remaining_weight_g": 1487.0,
+      "remaining_weight_g": 1001.0,
       "price_per_gram": 0.0287
     },
     {
@@ -808,10 +808,10 @@
       "expiring_soon": false,
       "date_added": "2026-09-14",
       "last_price": 1.89,
-      "updated_at_ms": 1789428597839,
+      "updated_at_ms": 1789437158424,
       "category": "Pantry",
       "total_weight_g": 162.0,
-      "remaining_weight_g": 162.0,
+      "remaining_weight_g": 144.4,
       "price_per_gram": 0.0117
     },
     {
@@ -1094,34 +1094,6 @@
       "price_per_gram": 0.0176
     },
     {
-      "id": "1784846060464030",
-      "name": "fresh ground turkey (Jennie-O)",
-      "barcode": "042222302005",
-      "price": 6.99,
-      "serving_size": 112.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 22.0,
-        "calories": 170.0,
-        "carbs_g": 0.0,
-        "fat_g": 8.0
-      },
-      "macros_per_100g": {
-        "protein_g": 19.6,
-        "calories": 151.8,
-        "carbs_g": 0.0,
-        "fat_g": 7.1
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-23",
-      "last_price": 6.99,
-      "updated_at_ms": 1784853933686,
-      "category": "Pantry",
-      "total_weight_g": 448.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0156
-    },
-    {
       "id": "1783376828767188",
       "name": "fresh ground turkey (Jennie-O)",
       "barcode": "042222302005",
@@ -1144,6 +1116,34 @@
       "date_added": "2026-07-06",
       "last_price": 6.99,
       "updated_at_ms": 1783387951687,
+      "category": "Pantry",
+      "total_weight_g": 448.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0156
+    },
+    {
+      "id": "1784846060464030",
+      "name": "fresh ground turkey (Jennie-O)",
+      "barcode": "042222302005",
+      "price": 6.99,
+      "serving_size": 112.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 22.0,
+        "calories": 170.0,
+        "carbs_g": 0.0,
+        "fat_g": 8.0
+      },
+      "macros_per_100g": {
+        "protein_g": 19.6,
+        "calories": 151.8,
+        "carbs_g": 0.0,
+        "fat_g": 7.1
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-23",
+      "last_price": 6.99,
+      "updated_at_ms": 1784853933686,
       "category": "Pantry",
       "total_weight_g": 448.0,
       "remaining_weight_g": 0.0,
@@ -1781,10 +1781,10 @@
       "expiring_soon": false,
       "date_added": "2026-08-31",
       "last_price": 4.0,
-      "updated_at_ms": 1788215583791,
+      "updated_at_ms": 1789437158434,
       "category": "Pantry",
       "total_weight_g": 1093.0,
-      "remaining_weight_g": 1093.0,
+      "remaining_weight_g": 1084.9,
       "price_per_gram": 0.0037
     },
     {
@@ -1933,10 +1933,10 @@
       "expiring_soon": false,
       "date_added": "2026-09-01",
       "last_price": 4.0,
-      "updated_at_ms": 1789169379370,
+      "updated_at_ms": 1789437158413,
       "category": "Pantry",
       "total_weight_g": 1683.0,
-      "remaining_weight_g": 1215.0,
+      "remaining_weight_g": 1005.0,
       "price_per_gram": 0.0024
     },
     {
@@ -2149,33 +2149,6 @@
       "price_per_gram": 0.004
     },
     {
-      "id": "1787359850302016",
-      "name": "Peppers, bell, red, raw",
-      "price": 1.49,
-      "serving_size": 100.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.9,
-        "calories": 31.3,
-        "carbs_g": 6.7,
-        "fat_g": 0.1
-      },
-      "macros_per_100g": {
-        "protein_g": 0.9,
-        "calories": 31.3,
-        "carbs_g": 6.7,
-        "fat_g": 0.1
-      },
-      "expiring_soon": false,
-      "date_added": "2026-08-21",
-      "last_price": 1.49,
-      "updated_at_ms": 1787884168175,
-      "category": "Pantry",
-      "total_weight_g": 240.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0062
-    },
-    {
       "id": "1787882390828032",
       "name": "Peppers, bell, red, raw",
       "price": 5.0,
@@ -2201,6 +2174,33 @@
       "total_weight_g": 311.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0161
+    },
+    {
+      "id": "1787359850302016",
+      "name": "Peppers, bell, red, raw",
+      "price": 1.49,
+      "serving_size": 100.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.9,
+        "calories": 31.3,
+        "carbs_g": 6.7,
+        "fat_g": 0.1
+      },
+      "macros_per_100g": {
+        "protein_g": 0.9,
+        "calories": 31.3,
+        "carbs_g": 6.7,
+        "fat_g": 0.1
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-21",
+      "last_price": 1.49,
+      "updated_at_ms": 1787884168175,
+      "category": "Pantry",
+      "total_weight_g": 240.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0062
     },
     {
       "id": "1784681050401909",
@@ -2252,10 +2252,10 @@
       "expiring_soon": false,
       "date_added": "2026-09-14",
       "last_price": 5.99,
-      "updated_at_ms": 1789428564336,
+      "updated_at_ms": 1789437158405,
       "category": "Pantry",
       "total_weight_g": 2264.4,
-      "remaining_weight_g": 2264.4,
+      "remaining_weight_g": 1793.4,
       "price_per_gram": 0.0026
     },
     {
@@ -2992,10 +2992,10 @@
       "expiring_soon": false,
       "date_added": "2026-09-03",
       "last_price": 5.0,
-      "updated_at_ms": 1789428884819,
+      "updated_at_ms": 1789437158419,
       "category": "Pantry",
       "total_weight_g": 3136.0,
-      "remaining_weight_g": 3136.0,
+      "remaining_weight_g": 2741.0,
       "price_per_gram": 0.0016
     },
     {
@@ -3241,10 +3241,10 @@
       "expiring_soon": false,
       "date_added": "2026-09-14",
       "last_price": 4.99,
-      "updated_at_ms": 1789428800357,
+      "updated_at_ms": 1789437158429,
       "category": "Pantry",
       "total_weight_g": 358.0,
-      "remaining_weight_g": 358.0,
+      "remaining_weight_g": 332.4,
       "price_per_gram": 0.0139
     },
     {
