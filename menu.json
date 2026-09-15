@@ -1,6 +1,156 @@
 {
-  "updated_at_ms": 1789437158727,
-  "meals": [],
+  "updated_at_ms": 1789483738062,
+  "meals": [
+    {
+      "createdAtMs": 1789483737715,
+      "servings": 2,
+      "checked": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "recipe": {
+        "title": "Greek Pastitsio Bake with Tomato-Onion Salad",
+        "description": "Cinnamon-scented lean beef and tomato under whole wheat pasta, topped with a thin ultra-filtered milk custard that browns in blistered patches. The butter béchamel is gone — a milk-and-egg custard with a dusting of parmesan does the same job. Alongside: a sharp red wine vinegar tomato and onion salad.",
+        "ingredients": [
+          {
+            "item": "Ground Beef 93% (new buy)",
+            "amount": "250 g"
+          },
+          {
+            "item": "Whole wheat penne or ziti (new buy)",
+            "amount": "140 g dry"
+          },
+          {
+            "item": "Tomatoes, raw",
+            "amount": "300 g"
+          },
+          {
+            "item": "Tomato Paste Sunny Select (new buy)",
+            "amount": "40 g"
+          },
+          {
+            "item": "Onions, white, raw",
+            "amount": "120 g"
+          },
+          {
+            "item": "Minced California Garlic (Kirkland)",
+            "amount": "1 tbsp"
+          },
+          {
+            "item": "Ground cinnamon (new buy)",
+            "amount": "3/4 tsp"
+          },
+          {
+            "item": "Italian Seasoning",
+            "amount": "1 tsp"
+          },
+          {
+            "item": "Extra virgin olive oil (new buy)",
+            "amount": "20 g"
+          },
+          {
+            "item": "Reduced Fat ultra-filtered milk (fairlife) (new buy)",
+            "amount": "200 g"
+          },
+          {
+            "item": "Egg (Costco)",
+            "amount": "1"
+          },
+          {
+            "item": "Parmesan Freshly Grated (BelGioioso) (new buy)",
+            "amount": "20 g"
+          },
+          {
+            "item": "Salt and pepper",
+            "amount": "to taste"
+          },
+          {
+            "item": "Tomatoes, raw (salad)",
+            "amount": "250 g"
+          },
+          {
+            "item": "Onions, red, raw (new buy)",
+            "amount": "60 g"
+          },
+          {
+            "item": "Vinegar, red wine",
+            "amount": "15 g"
+          },
+          {
+            "item": "Extra virgin olive oil for salad (new buy)",
+            "amount": "8 g"
+          },
+          {
+            "item": "Parsley, fresh (new buy)",
+            "amount": "10 g"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Heat oven, start pasta water",
+            "content": "Set the oven to 200C/400F. Put a pot of salted water on high heat for the pasta.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Brown the beef",
+            "content": "Chop the white onion fine. Heat 12 g olive oil in a skillet over medium-high (7/10). Add beef, break it up and let it sit undisturbed 3 minutes for a real brown crust, then stir and cook 3 more. Drain off any rendered fat. Add onion and garlic, cook 3 minutes.",
+            "timerSeconds": 540
+          },
+          {
+            "title": "Cinnamon tomato sauce",
+            "content": "Stir in cinnamon, Italian seasoning and tomato paste; cook 1 minute to toast. Add the 300 g tomatoes, chopped, plus a splash of water. Drop to a simmer (3-4/10) and cook 10 minutes until thick and glossy. Salt and pepper to taste.",
+            "timerSeconds": 600
+          },
+          {
+            "title": "Cook the pasta",
+            "content": "While the sauce simmers, boil the pasta 2 minutes shy of package time. Drain and toss with the remaining 8 g olive oil so it doesn't clump.",
+            "timerSeconds": 480
+          },
+          {
+            "title": "Custard top",
+            "content": "Whisk the milk, egg, 10 g of the parmesan, salt and pepper in a bowl until smooth. Pro tip: keep it thin — it should pour like cream, not batter.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Layer and bake",
+            "content": "Spread the meat sauce in a small baking dish (about 20x20 cm). Layer the pasta over it evenly, pour the custard over so it seeps between the pasta, and dust with the remaining 10 g parmesan. Bake 25 minutes at 200C/400F, until set and browned in blistered patches. If it's pale, broil 2 minutes.",
+            "timerSeconds": 1500
+          },
+          {
+            "title": "Make the salad",
+            "content": "With 10 minutes left on the bake: slice the 250 g tomatoes into wedges and the red onion paper-thin. Toss with the red wine vinegar, 8 g olive oil, chopped parsley, salt and pepper. Let it sit — the onion softens and the tomatoes give up juice for the dressing.",
+            "timerSeconds": 600
+          },
+          {
+            "title": "Rest and serve",
+            "content": "Let the bake rest 8 minutes off the heat so it slices cleanly. Cut in squares, spoon the salad and its juices alongside.",
+            "timerSeconds": 480
+          }
+        ],
+        "notes": "Per serving: ~38 g protein, ~615 cal, ~4.5 g saturated fat, 0 g added sugar, ~10 g fiber. New buys: 93% ground beef, whole wheat penne, tomato paste, ultra-filtered milk, parmesan, extra virgin olive oil, ground cinnamon, red onion, fresh parsley. Leftovers keep 3 days; reheat on Steam in the Tovala so the custard stays soft, then 1 minute Broil to re-crisp the top. Pro tip: the undisturbed 3 minutes on the beef is where the flavor is — don't stir early. Liver note: the classic butter-and-flour béchamel (easily 15 g saturated fat a serving) is replaced by a thin ultra-filtered milk and egg custard, the pasta is whole wheat, and lean 93% beef is drained — same dish, a fraction of the saturated fat.",
+        "baseServings": 2,
+        "estCostTotal": 11.64,
+        "estCostPerServing": 5.82,
+        "estGroceryCost": 11.05
+      }
+    }
+  ],
   "removed": [
     1789407429117
   ]
