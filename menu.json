@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1789483738062,
+  "updated_at_ms": 1789501563371,
   "meals": [
     {
       "createdAtMs": 1789483737715,
@@ -148,6 +148,150 @@
         "estCostTotal": 11.64,
         "estCostPerServing": 5.82,
         "estGroceryCost": 11.05
+      }
+    },
+    {
+      "createdAtMs": 1789501562776,
+      "servings": 2,
+      "checked": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "recipe": {
+        "title": "Greek Baked Beef & Zucchini Pastitsio-Style",
+        "description": "Soft whole wheat pasta under a cinnamon-scented tomato-beef and zucchini layer, topped with a light milk-and-egg custard that browns golden. All the comfort of pastitsio with the butter béchamel swapped for a milk custard. Served with a sharp tomato-onion salad.",
+        "ingredients": [
+          {
+            "item": "Ground beef 93% lean",
+            "amount": "250 g (new buy)"
+          },
+          {
+            "item": "Whole wheat penne or ziti",
+            "amount": "80 g (new buy)"
+          },
+          {
+            "item": "Zucchini",
+            "amount": "300 g (new buy)"
+          },
+          {
+            "item": "Tomatoes, raw (for the sauce)",
+            "amount": "250 g"
+          },
+          {
+            "item": "Onions, white, raw",
+            "amount": "100 g"
+          },
+          {
+            "item": "Minced garlic",
+            "amount": "1 tbsp"
+          },
+          {
+            "item": "Tomato paste",
+            "amount": "30 g (new buy)"
+          },
+          {
+            "item": "Ground cinnamon",
+            "amount": "1/2 tsp (new buy)"
+          },
+          {
+            "item": "Dried oregano",
+            "amount": "1 1/2 tsp total (new buy)"
+          },
+          {
+            "item": "Extra virgin olive oil",
+            "amount": "20 g total (new buy)"
+          },
+          {
+            "item": "Reduced fat ultra-filtered milk",
+            "amount": "200 g (new buy)"
+          },
+          {
+            "item": "Egg",
+            "amount": "1"
+          },
+          {
+            "item": "Parmesan, freshly grated",
+            "amount": "15 g (new buy)"
+          },
+          {
+            "item": "Salt and pepper",
+            "amount": "to taste"
+          },
+          {
+            "item": "Tomatoes, raw (for the salad)",
+            "amount": "250 g"
+          },
+          {
+            "item": "Onions, white, raw (for the salad)",
+            "amount": "50 g"
+          },
+          {
+            "item": "Red wine vinegar",
+            "amount": "15 g"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Heat the oven and boil water",
+            "content": "Heat the oven to 200C/400F. Put a pot of salted water on high heat for the pasta.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Cook the pasta short",
+            "content": "Boil the 80 g whole wheat pasta 2 minutes less than the package says — it finishes in the oven. Drain and toss with 5 g of the olive oil so it doesn't clump.",
+            "timerSeconds": 480
+          },
+          {
+            "title": "Brown the beef",
+            "content": "Meanwhile, heat 10 g olive oil in a large skillet over medium-high (7/10). Add the diced onion and cook 3 minutes, then the beef. Break it up and let it brown properly, 5-6 minutes — don't stir constantly, you want colour. Drain off any fat. Pro tip: the browning is the flavour here, there's no butter to hide behind.",
+            "timerSeconds": 540
+          },
+          {
+            "title": "Build the tomato layer",
+            "content": "Stir in the garlic, cinnamon, 1 tsp oregano, tomato paste, chopped tomatoes and the diced zucchini. Season with salt and pepper. Simmer at 3-4/10 for 10 minutes until thick and just barely saucy, not wet.",
+            "timerSeconds": 600
+          },
+          {
+            "title": "Custard top",
+            "content": "Whisk the milk, egg, parmesan, a pinch of salt and plenty of pepper in a bowl until smooth.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Assemble and bake",
+            "content": "Spread the pasta in a small baking dish (about 20x20 cm), spoon the beef mixture over it evenly, then pour the milk-egg mixture over the top. Bake at 200C/400F for 25-30 minutes, until set and golden-spotted on top. If it's pale at the end, broil 2 minutes.",
+            "timerSeconds": 1800
+          },
+          {
+            "title": "Make the salad while it bakes",
+            "content": "Cut the salad tomatoes into wedges and slice the 50 g onion thin. Toss with the red wine vinegar, the last 5 g olive oil, 1/2 tsp oregano, salt and pepper. Let it sit until dinner — the onion softens and the tomatoes give up juice for the dressing.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Rest and serve",
+            "content": "Let the bake rest 8-10 minutes out of the oven so the custard firms and cuts cleanly. Cut in two, serve with the salad alongside.",
+            "timerSeconds": 540
+          }
+        ],
+        "notes": "Per serving: ~38 g protein, ~570 cal, ~5.5 g saturated fat, 0 g added sugar, ~9 g fiber. New buys: 93% ground beef, whole wheat pasta, zucchini, tomato paste, ground cinnamon, dried oregano, olive oil, reduced fat milk, parmesan. Leftovers keep 3 days; reheat on Tovala Steam so the custard doesn't dry out. Pro tips: undercook the pasta, drain the beef fat, and rest before cutting. Liver note: the classic butter-and-flour béchamel is replaced by a milk-and-egg custard and the pasta is whole wheat, which drops the saturated fat by more than half and adds the fiber.",
+        "baseServings": 2,
+        "estCostTotal": 10.68,
+        "estCostPerServing": 5.34,
+        "estGroceryCost": 9.98
       }
     }
   ],
