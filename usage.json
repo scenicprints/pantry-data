@@ -1739,14 +1739,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788306202772940-1789001405434-3",
+      "id": "1788306258606929-1789001405434-5",
       "ts": 1789001405434,
-      "item_id": "1788306202772940",
-      "name": "Onions, white, raw",
-      "amount": 168.0,
+      "item_id": "1788306258606929",
+      "name": "Squash, summer, green, zucchini, includes skin, raw",
+      "amount": 213.0,
       "unit": "g",
-      "unit_price": 0.0024,
-      "cost": 0.4,
+      "unit_price": 0.0021,
+      "cost": 0.45,
       "source": "bodycomp"
     },
     {
@@ -1761,14 +1761,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788306258606929-1789001405434-5",
+      "id": "1788306202772940-1789001405434-3",
       "ts": 1789001405434,
-      "item_id": "1788306258606929",
-      "name": "Squash, summer, green, zucchini, includes skin, raw",
-      "amount": 213.0,
+      "item_id": "1788306202772940",
+      "name": "Onions, white, raw",
+      "amount": 168.0,
       "unit": "g",
-      "unit_price": 0.0021,
-      "cost": 0.45,
+      "unit_price": 0.0024,
+      "cost": 0.4,
       "source": "bodycomp"
     },
     {
