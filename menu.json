@@ -1,0 +1,135 @@
+{
+  "updated_at_ms": 1789432846196,
+  "meals": [
+    {
+      "createdAtMs": 1789407429117,
+      "servings": 3,
+      "checked": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "recipe": {
+        "title": "Peruvian Lomo Saltado over Brown Rice",
+        "description": "The real thing, lightened: seared strips of lean sirloin with blistered onion and tomato in a tangy soy-vinegar pan sauce, tumbled with air-fried potato wedges so they stay crisp instead of deep-fried, spooned over nutty brown rice.",
+        "ingredients": [
+          {
+            "item": "Beef sirloin, lean, cut in 1cm strips (new buy)",
+            "amount": "450 g"
+          },
+          {
+            "item": "Baby gold potatoes, cut in wedges (new buy)",
+            "amount": "450 g"
+          },
+          {
+            "item": "Brown rice, dry (new buy)",
+            "amount": "210 g"
+          },
+          {
+            "item": "Onions, white, cut in thick wedges",
+            "amount": "250 g"
+          },
+          {
+            "item": "Tomatoes, raw, cut in wedges",
+            "amount": "300 g"
+          },
+          {
+            "item": "Green onion, sliced (new buy)",
+            "amount": "40 g"
+          },
+          {
+            "item": "Fresh cilantro, chopped (new buy)",
+            "amount": "15 g"
+          },
+          {
+            "item": "Minced California Garlic",
+            "amount": "15 g"
+          },
+          {
+            "item": "Low-sodium soy sauce (new buy)",
+            "amount": "30 g"
+          },
+          {
+            "item": "Red wine vinegar (new buy)",
+            "amount": "25 g"
+          },
+          {
+            "item": "Lime, juiced",
+            "amount": "1 (about 45 g)"
+          },
+          {
+            "item": "Avocado Oil",
+            "amount": "25 g"
+          },
+          {
+            "item": "Cumin, ground (new buy)",
+            "amount": "3 g"
+          },
+          {
+            "item": "Salt",
+            "amount": "to taste"
+          },
+          {
+            "item": "Pepper",
+            "amount": "to taste"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Start the rice",
+            "content": "Rinse 210 g brown rice and cook in the rice cooker with about 450 g water and a pinch of salt. It runs ~40 min on its own while you work.",
+            "timerSeconds": 2400
+          },
+          {
+            "title": "Air-fry the potato wedges",
+            "content": "Toss 450 g potato wedges with 10 g avocado oil, salt and pepper. Air fry at 200C/400F for 18-20 min, shaking halfway, until deep golden and crisp. Single layer — batch if crowded. Keep warm.",
+            "timerSeconds": 1140
+          },
+          {
+            "title": "Prep the sauce and season the beef",
+            "content": "Whisk 30 g soy sauce, 25 g red wine vinegar and the lime juice in a small bowl. Pat the beef strips very dry and season with 3 g cumin, salt and pepper. Pro tip: dry beef sears instead of steaming.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Sear the beef",
+            "content": "Heat 10 g avocado oil in a large skillet or on the griddle over high (9-10). Sear the beef in two batches, ~1.5 min per side, just until browned. Don't crowd it. Remove to a plate.",
+            "timerSeconds": 180
+          },
+          {
+            "title": "Blister the vegetables",
+            "content": "Add remaining 5 g oil to the hot pan. Add onion wedges and cook 2 min on high (9) to char the edges, then add tomato wedges and 15 g garlic, cook 1-2 min more until they just soften but hold shape.",
+            "timerSeconds": 240
+          },
+          {
+            "title": "Bring it together",
+            "content": "Return beef and any juices to the pan, pour in the sauce, and toss 30-45 seconds on high just to coat and heat through — don't let the tomatoes collapse. Kill the heat, fold in the potato wedges, green onion and cilantro.",
+            "timerSeconds": 45
+          },
+          {
+            "title": "Serve",
+            "content": "Spoon the rice onto plates and pile the lomo saltado over the top, scraping every drop of pan sauce out.",
+            "timerSeconds": 0
+          }
+        ],
+        "notes": "Per serving (of 3): ~40g protein, ~575 cal, ~4.5g saturated fat, ~1g added sugar (none added — trace from ketchup-free sauce), ~7-8g fiber. New buys: sirloin, baby gold potatoes, brown rice, green onion, cilantro, low-sodium soy sauce, red wine vinegar, ground cumin. Storage: keeps 3 days; reheat on the Tovala Steam mode or in the skillet so the beef stays tender and potatoes don't go soggy in the microwave. Pro tips: high heat and a dry pan are everything here — sear in batches or you'll boil the beef; the acid goes in at the very end so it stays bright. Fatty liver: lean sirloin instead of fatty cut, potatoes air-fried in measured oil instead of deep-fried, brown rice for the whole grain, and low-sodium soy plus vinegar and lime carry the flavor without butter or sugar.",
+        "baseServings": 3,
+        "estCostTotal": 13.4,
+        "estCostPerServing": 4.47,
+        "estGroceryCost": 12.8
+      }
+    }
+  ],
+  "removed": []
+}
