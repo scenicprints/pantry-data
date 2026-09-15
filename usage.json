@@ -1321,17 +1321,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787882035237294-1787884168175-1",
-      "ts": 1787884168175,
-      "item_id": "1787882035237294",
-      "name": "Boneless, Skinless Chicken Tenderloins (Just Bare)",
-      "amount": 382.9,
-      "unit": "g",
-      "unit_price": 0.0287,
-      "cost": 10.99,
-      "source": "bodycomp"
-    },
-    {
       "id": "1787622507012383-1787884168175-3",
       "ts": 1787884168175,
       "item_id": "1787622507012383",
@@ -1340,6 +1329,17 @@
       "unit": "g",
       "unit_price": 0.0054,
       "cost": 1.1,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1787882035237294-1787884168175-1",
+      "ts": 1787884168175,
+      "item_id": "1787882035237294",
+      "name": "Boneless, Skinless Chicken Tenderloins (Just Bare)",
+      "amount": 382.9,
+      "unit": "g",
+      "unit_price": 0.0287,
+      "cost": 10.99,
       "source": "bodycomp"
     },
     {
