@@ -21,16 +21,18 @@
           "raw_g": 471.0
         },
         {
-          "pantry_id": "1788306202772940",
+          "pantry_id": "1789428706283222",
           "name": "Brown rice, dry (new buy)",
           "group": "Rice cooker",
-          "raw_g": 210.0
+          "raw_g": 210.0,
+          "pantry_name": "Brown Whole Grain Rice (Mahatma)"
         },
         {
-          "pantry_id": "",
+          "pantry_id": "1788306202772940",
           "name": "Onions, white, cut in thick wedges",
           "group": "Skillet",
-          "raw_g": 284.8
+          "raw_g": 284.8,
+          "pantry_name": "Onions, white, raw"
         },
         {
           "pantry_id": "1788479679972461",
