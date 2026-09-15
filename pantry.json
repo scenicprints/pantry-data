@@ -588,7 +588,7 @@
       "updated_at_ms": 1789428706283,
       "category": "Pantry",
       "total_weight_g": 960.0,
-      "remaining_weight_g": 960.0,
+      "remaining_weight_g": 750.0,
       "price_per_gram": 0.0042
     },
     {
@@ -1540,7 +1540,7 @@
     },
     {
       "id": "1786751008525587",
-      "name": "Gruyère",
+      "name": "Gruy\u00e8re",
       "barcode": "820581895167",
       "price": 11.49,
       "serving_size": 28.0,
@@ -1626,7 +1626,7 @@
     },
     {
       "id": "1783990670649653",
-      "name": "Kretschmar Gruyère",
+      "name": "Kretschmar Gruy\u00e8re",
       "barcode": "2058189516",
       "price": 11.49,
       "serving_size": 28.0,
@@ -1936,7 +1936,7 @@
       "updated_at_ms": 1789437158413,
       "category": "Pantry",
       "total_weight_g": 1683.0,
-      "remaining_weight_g": 1005.0,
+      "remaining_weight_g": 1215.0,
       "price_per_gram": 0.0024
     },
     {
@@ -3027,7 +3027,7 @@
     },
     {
       "id": "1784845940686636",
-      "name": "Traditional Sauce (RAGÚ Simply)",
+      "name": "Traditional Sauce (RAG\u00da Simply)",
       "barcode": "036200430972",
       "price": 3.99,
       "serving_size": 125.0,
