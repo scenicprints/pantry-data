@@ -1,11 +1,10 @@
 {
-  "updated_at_ms": 1790012016044,
+  "updated_at_ms": 1790012261142,
   "meals": [
     {
-      "createdAtMs": 1789501562776,
-      "servings": 3,
+      "createdAtMs": 1790012260605,
+      "servings": 2,
       "checked": [
-        true,
         false,
         false,
         false,
@@ -16,138 +15,135 @@
         false,
         false,
         false,
-        true,
         false,
-        true,
+        false,
+        false,
         false,
         false,
         false
       ],
       "recipe": {
-        "title": "Greek Baked Beef & Zucchini Pastitsio-Style",
-        "description": "Soft whole wheat pasta under a cinnamon-scented tomato-beef and zucchini layer, topped with a light milk-and-egg custard that browns golden. All the comfort of pastitsio with the butter béchamel swapped for a milk custard. Served with a sharp tomato-onion salad.",
+        "title": "Siniyet Kafta — Lebanese Baked Kafta with Potatoes",
+        "description": "Herby parsley-and-onion beef kafta patties baked in a tray under sliced potatoes and tomatoes, everything browned at the edges and soaked in garlicky tomato juices. Lightened with 93% lean beef and olive oil instead of the usual fatty mince and butter.",
         "ingredients": [
           {
-            "item": "Ground beef 93% lean",
-            "amount": "250 g (new buy)"
-          },
-          {
-            "item": "Whole wheat penne or ziti",
-            "amount": "80 g (new buy)"
-          },
-          {
-            "item": "Zucchini",
-            "amount": "300 g (new buy)"
-          },
-          {
-            "item": "Tomatoes, raw (for the sauce)",
-            "amount": "250 g"
+            "item": "Ground Beef 93% lean (new buy)",
+            "amount": "400 g"
           },
           {
             "item": "Onions, white, raw",
-            "amount": "100 g"
+            "amount": "120 g (half finely grated/minced, half sliced)"
           },
           {
-            "item": "Minced garlic",
-            "amount": "1 tbsp"
+            "item": "Parsley, fresh (new buy)",
+            "amount": "40 g, finely chopped"
           },
           {
-            "item": "Tomato paste",
-            "amount": "30 g (new buy)"
+            "item": "Minced California Garlic (Kirkland)",
+            "amount": "2 tsp"
           },
           {
-            "item": "Ground cinnamon",
-            "amount": "1/2 tsp (new buy)"
+            "item": "Ground allspice (new buy)",
+            "amount": "3/4 tsp"
           },
           {
-            "item": "Dried oregano",
-            "amount": "1 1/2 tsp total (new buy)"
+            "item": "Ground cumin (new buy)",
+            "amount": "1/2 tsp"
           },
           {
-            "item": "Extra virgin olive oil",
-            "amount": "20 g total (new buy)"
-          },
-          {
-            "item": "Reduced fat ultra-filtered milk",
-            "amount": "200 g (new buy)"
-          },
-          {
-            "item": "Egg",
-            "amount": "1"
-          },
-          {
-            "item": "Parmesan, freshly grated",
-            "amount": "15 g (new buy)"
+            "item": "Ground cinnamon (new buy)",
+            "amount": "1/4 tsp"
           },
           {
             "item": "Salt and pepper",
             "amount": "to taste"
           },
           {
-            "item": "Tomatoes, raw (for the salad)",
-            "amount": "250 g"
+            "item": "Potato (Bushman's Inc)",
+            "amount": "500 g, scrubbed, skin on, sliced 5 mm"
           },
           {
-            "item": "Onions, white, raw (for the salad)",
-            "amount": "50 g"
+            "item": "Tomatoes, raw",
+            "amount": "300 g, sliced 5 mm"
           },
           {
-            "item": "Red wine vinegar",
-            "amount": "15 g"
+            "item": "Extra virgin olive oil (new buy)",
+            "amount": "25 g"
+          },
+          {
+            "item": "Tomato Paste Sunny Select",
+            "amount": "30 g"
+          },
+          {
+            "item": "Chicken broth (new buy)",
+            "amount": "180 g"
+          },
+          {
+            "item": "Lemon, raw (new buy)",
+            "amount": "1 (juice of half, wedges to serve)"
+          },
+          {
+            "item": "Paprika",
+            "amount": "1 tsp"
+          },
+          {
+            "item": "Spices, oregano, dried",
+            "amount": "1 tsp"
           }
         ],
         "steps": [
           {
-            "title": "Heat the oven and boil water",
-            "content": "Heat the oven to 200C/400F. Put a pot of salted water on high heat for the pasta.",
+            "title": "Heat the oven",
+            "content": "Heat the main oven to 220C/425F. Use a 9x13-inch baking dish or similar tray.",
             "timerSeconds": 0
           },
           {
-            "title": "Cook the pasta short",
-            "content": "Boil the 80 g whole wheat pasta 2 minutes less than the package says — it finishes in the oven. Drain and toss with 5 g of the olive oil so it doesn't clump.",
-            "timerSeconds": 480
+            "title": "Mix the kafta",
+            "content": "Grate or very finely mince 60 g of the onion and squeeze out excess liquid. Mix it into the beef with the parsley, 1 tsp of the garlic, allspice, cumin, cinnamon, salt and pepper. Knead 1 minute until tacky — that binds it without egg.",
+            "timerSeconds": 60
           },
           {
-            "title": "Brown the beef",
-            "content": "Meanwhile, heat 10 g olive oil in a large skillet over medium-high (7/10). Add the diced onion and cook 3 minutes, then the beef. Break it up and let it brown properly, 5-6 minutes — don't stir constantly, you want colour. Drain off any fat. Pro tip: the browning is the flavour here, there's no butter to hide behind.",
-            "timerSeconds": 540
-          },
-          {
-            "title": "Build the tomato layer",
-            "content": "Stir in the garlic, cinnamon, 1 tsp oregano, tomato paste, chopped tomatoes and the diced zucchini. Season with salt and pepper. Simmer at 3-4/10 for 10 minutes until thick and just barely saucy, not wet.",
-            "timerSeconds": 600
-          },
-          {
-            "title": "Custard top",
-            "content": "Whisk the milk, egg, parmesan, a pinch of salt and plenty of pepper in a bowl until smooth.",
+            "title": "Shape and lay in the tray",
+            "content": "Form 6 flattened oval patties about 1.5 cm thick and lay them in a single layer in the tray with a little space between. Brush with 5 g of the olive oil.",
             "timerSeconds": 0
           },
           {
-            "title": "Assemble and bake",
-            "content": "Spread the pasta in a small baking dish (about 20x20 cm), spoon the beef mixture over it evenly, then pour the milk-egg mixture over the top. Bake at 200C/400F for 25-30 minutes, until set and golden-spotted on top. If it's pale at the end, broil 2 minutes.",
+            "title": "Slice and season the potatoes and tomatoes",
+            "content": "Slice the potatoes 5 mm thick (skin on), the tomatoes 5 mm, and the remaining 60 g onion thin. Toss potatoes and onion with 15 g olive oil, paprika, oregano, salt and pepper.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Build the tray",
+            "content": "Shingle the potatoes and onion over and around the kafta, then tuck the tomato slices between them. Whisk the tomato paste, broth, remaining 1 tsp garlic and a pinch of salt and pour it around the edges of the tray — not over the top, so the potatoes can brown.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Bake covered",
+            "content": "Cover tightly with foil and bake at 220C/425F for 30 minutes, until the potatoes are tender when pierced.",
             "timerSeconds": 1800
           },
           {
-            "title": "Make the salad while it bakes",
-            "content": "Cut the salad tomatoes into wedges and slice the 50 g onion thin. Toss with the red wine vinegar, the last 5 g olive oil, 1/2 tsp oregano, salt and pepper. Let it sit until dinner — the onion softens and the tomatoes give up juice for the dressing.",
-            "timerSeconds": 0
+            "title": "Uncover and brown",
+            "content": "Remove the foil, brush the potato tops with the last 5 g olive oil, and bake 18-22 more minutes until the potato edges are crisp and browned and the juices are thick and bubbling. Pro tip: if the tops are still pale, broil 2-3 minutes, watching closely.",
+            "timerSeconds": 1200
           },
           {
-            "title": "Rest and serve",
-            "content": "Let the bake rest 8-10 minutes out of the oven so the custard firms and cuts cleanly. Cut in two, serve with the salad alongside.",
-            "timerSeconds": 540
+            "title": "Rest and finish",
+            "content": "Rest 5 minutes off the heat, squeeze over the juice of half the lemon, scatter any leftover parsley, and serve with lemon wedges. Spoon the pan juices over each plate.",
+            "timerSeconds": 300
           }
         ],
-        "notes": "Per serving: ~38 g protein, ~570 cal, ~5.5 g saturated fat, 0 g added sugar, ~9 g fiber. New buys: 93% ground beef, whole wheat pasta, zucchini, tomato paste, ground cinnamon, dried oregano, olive oil, reduced fat milk, parmesan. Leftovers keep 3 days; reheat on Tovala Steam so the custard doesn't dry out. Pro tips: undercook the pasta, drain the beef fat, and rest before cutting. Liver note: the classic butter-and-flour béchamel is replaced by a milk-and-egg custard and the pasta is whole wheat, which drops the saturated fat by more than half and adds the fiber.",
+        "notes": "Per serving (of 2): ~44 g protein, ~610 cal, ~6 g saturated fat, 0 g added sugar, ~9 g fiber. New buys: 93% lean ground beef, fresh parsley, extra virgin olive oil, chicken broth, lemon, ground allspice, cumin, cinnamon (the spices last months and show up again). Storage: keeps 3 days covered; reheat in the Tovala on Steam 6 min then Broil Lo 2 min so the potatoes crisp again instead of going soggy. Pro tips: squeeze the grated onion dry or the patties steam instead of browning; keep potato slices an even 5 mm so they finish together; don't pour the sauce over the potatoes. Liver note: lean 93% beef, olive oil instead of butter or ghee, skin-on potatoes for fiber, and acid from lemon and tomato instead of a sugary sauce — the dish is already Mediterranean, just lightened at the fat.",
         "baseServings": 2,
-        "estCostTotal": 10.68,
-        "estCostPerServing": 5.34,
-        "estGroceryCost": 9.98
+        "estCostTotal": 13.6,
+        "estCostPerServing": 6.8,
+        "estGroceryCost": 11.9
       }
     }
   ],
   "removed": [
     1789407429117,
-    1789483737715
+    1789483737715,
+    1789501562776
   ]
 }
