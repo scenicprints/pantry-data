@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1790012325593,
+  "updated_at_ms": 1790032679482,
   "meals": [
     {
       "createdAtMs": 1790012260605,
@@ -7,7 +7,7 @@
       "checked": [
         true,
         true,
-        false,
+        true,
         true,
         false,
         true,
@@ -20,7 +20,7 @@
         false,
         false,
         true,
-        false
+        true
       ],
       "recipe": {
         "title": "Siniyet Kafta — Lebanese Baked Kafta with Potatoes",
