@@ -595,6 +595,13 @@
       "unit_price": 0.0139,
       "unit": "g",
       "ts": 1790034833989
+    },
+    {
+      "name": "Olive oil (Sunny Select)",
+      "barcode": "717544118916",
+      "unit_price": 0.0262,
+      "unit": "g",
+      "ts": 1790034946252
     }
   ]
 }
