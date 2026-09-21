@@ -602,6 +602,13 @@
       "unit_price": 0.0262,
       "unit": "g",
       "ts": 1790035021196
+    },
+    {
+      "name": "Extra Virgin Olive Oil (Sunny Select)",
+      "barcode": "717544118916",
+      "unit_price": 0.0263,
+      "unit": "g",
+      "ts": 1790035057081
     }
   ]
 }
