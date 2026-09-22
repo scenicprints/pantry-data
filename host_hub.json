@@ -1,6 +1,135 @@
 {
-  "updated_at_ms": 1790111497273,
-  "events": [],
+  "updated_at_ms": 1790113195764,
+  "events": [
+    {
+      "createdAtMs": 1790113162287,
+      "name": "",
+      "guests": 16,
+      "eventDate": "2026-09-26",
+      "dishes": [
+        {
+          "text": "Delicious burgers with caramelized onion, Gruyère cheese and optional fried egg and special sauce",
+          "course": "Main"
+        },
+        {
+          "text": "Oven cooked fries",
+          "course": "Side",
+          "recipe": {
+            "title": "Crispy Oven Fries with Garlic, Parsley and Parmesan",
+            "description": "Shatteringly crisp, deep-golden russet fries with a fluffy, steamy interior, tossed hot off the pan with minced garlic, fresh parsley and a snowfall of real Parmesan.",
+            "ingredients": [
+              {
+                "item": "Russet potatoes, scrubbed (new buy)",
+                "amount": "3600 g"
+              },
+              {
+                "item": "Water, for parboiling (new buy)",
+                "amount": "5000 g (5 L)"
+              },
+              {
+                "item": "Baking soda (new buy)",
+                "amount": "1 tbsp"
+              },
+              {
+                "item": "Salt",
+                "amount": "to taste (plus 2 tbsp for the parboil water)"
+              },
+              {
+                "item": "Avocado Oil",
+                "amount": "120 g"
+              },
+              {
+                "item": "Garlic salt (Gel Spice Co.)",
+                "amount": "2 tsp"
+              },
+              {
+                "item": "Paprika",
+                "amount": "2 tsp"
+              },
+              {
+                "item": "Pepper",
+                "amount": "to taste"
+              },
+              {
+                "item": "Minced California Garlic (Kirkland), from the jar",
+                "amount": "2 tsp"
+              },
+              {
+                "item": "Parsley, fresh, leaves finely chopped, stems discarded (new buy)",
+                "amount": "30 g"
+              },
+              {
+                "item": "Parmesan Freshly Grated (BelGioioso) (new buy)",
+                "amount": "60 g"
+              },
+              {
+                "item": "No Sugar Added Ketchup (Sunny Select), for serving",
+                "amount": "200 g"
+              }
+            ],
+            "steps": [
+              {
+                "title": "Heat the oven and the pans",
+                "content": "Set the oven to 230C / 450F on conventional bake with two racks in the upper-middle and lower-middle positions. Slide three rimmed half-sheet pans into the oven, empty, to preheat while you work — hot metal is what gives the fries their first crust.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Cut the potatoes",
+                "content": "Leave the skins on. Cut each scrubbed russet lengthwise into slabs about 1.2 cm thick, then cut the slabs into batons about 1.2 cm wide. Keep them as uniform as you can so they cook evenly, and drop them into a bowl of cold water as you go so they don't brown.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Parboil with baking soda",
+                "content": "Drain the cut potatoes. In a large stockpot on the stove, bring the 5 L water to a hard boil over high heat (9-10 on the dial), then stir in 2 tbsp salt and 1 tbsp baking soda — it will foam, so add it slowly. Add the potatoes, return to a boil, then drop the heat to a simmer (3-4 on the dial) and cook 8-10 minutes, until a baton's edge crumbles slightly when scraped with a knife but the center still holds.",
+                "timerSeconds": 600
+              },
+              {
+                "title": "Drain and steam-dry",
+                "content": "Drain the potatoes carefully in a colander and let them sit 3-4 minutes to steam off surface moisture. Dry surfaces are non-negotiable for crisp fries.",
+                "timerSeconds": 240
+              },
+              {
+                "title": "Rough up and season",
+                "content": "Tip the drained potatoes into a large bowl. Add the avocado oil, 2 tsp garlic salt, 2 tsp paprika, and pepper to taste. Toss firmly with a rubber spatula for about 30 seconds — you want the exteriors scuffed into a starchy paste, which is exactly what fries into crust.",
+                "timerSeconds": 30
+              },
+              {
+                "title": "First roast",
+                "content": "Pull the hot pans from the oven and spread the potatoes over all three in a single layer with space between the batons — crowding steams them instead of crisping them. They should sizzle on contact. Roast at 230C / 450F for 25 minutes without touching them.",
+                "timerSeconds": 1500
+              },
+              {
+                "title": "Flip and rotate",
+                "content": "Pull the pans out, flip the fries with a thin metal spatula, and swap the pans between racks front-to-back and top-to-bottom. Return to the oven and roast another 15-20 minutes, until deep golden brown and audibly crisp when tapped.",
+                "timerSeconds": 1080
+              },
+              {
+                "title": "Finish and serve",
+                "content": "Slide the hot fries into a wide bowl. Immediately add the 2 tsp minced garlic, the chopped parsley, the grated Parmesan and salt to taste, and toss for 15-20 seconds — the residual heat blooms the garlic and melts the cheese onto the fries. Pile onto a warm platter and serve right away with the ketchup alongside.",
+                "timerSeconds": 20
+              }
+            ],
+            "notes": "Protein per serving: about 6 g. Calories per serving: about 260. New buys: russet potatoes, baking soda, fresh parsley, freshly grated Parmesan (everything else — avocado oil, jarred minced garlic, paprika, garlic salt, salt, pepper, ketchup — is already on hand). Make-ahead: you can cut and parboil the potatoes up to 6 hours ahead; drain, spread on a tray, and hold uncovered at room temperature, then oil, season and roast at serving time. Pro tips: the baking soda in the parboil water is the whole trick — it breaks down the potato surface into the starchy slurry that fries into glass-like crust, so don't skip it. Never cover the fries once they're out of the oven; trapped steam softens them in minutes. If your oven runs crowded, roast two pans at a time and hold the first batch on a rack in the oven at 95C / 200F rather than stacking them.",
+            "baseServings": 16,
+            "estCostTotal": 18.32,
+            "estCostPerServing": 1.15,
+            "estGroceryCost": 13.94
+          }
+        },
+        {
+          "text": "Onion rings",
+          "course": "Side"
+        },
+        {
+          "text": "Dipping sauces for fries and onion rings",
+          "course": "Other"
+        }
+      ],
+      "guestNotes": "No pineapple",
+      "prepDays": [],
+      "checked": []
+    }
+  ],
   "removed": [
     1790109694356,
     1790111350632
