@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1790110201423,
+  "updated_at_ms": 1790110205103,
   "events": [
     {
       "createdAtMs": 1790109694356,
@@ -11,24 +11,32 @@
           "text": "Delicious smash burgers with an optional egg",
           "course": "Main",
           "recipe": {
-            "title": "Double Smash Burgers with Onion Crust, Burger Sauce and an Optional Fried Egg",
-            "description": "Two lacy-edged, deeply browned beef patties per bun with melted American cheese, sweet griddled onion, cold crisp lettuce and tomato, tangy burger sauce and a buttered toasted brioche bun — with a runny-yolked fried egg on top if you want one.",
+            "title": "Double Smash Burgers with Crispy Onion Edges and an Optional Fried Egg",
+            "description": "Two craggy, lace-edged beef patties per bun, each draped in melted American cheese, stacked on a butter-toasted bun with cold lettuce, tomato, pickles and a tangy house burger sauce — with a runny-yolk fried egg on top for anyone who wants it.",
             "ingredients": [
               {
-                "item": "Ground beef chuck, 80/20, cold (new buy)",
-                "amount": "1000 g"
+                "item": "Ground beef, 80/20 chuck (new buy)",
+                "amount": "1080 g"
               },
               {
-                "item": "Brioche burger buns (new buy)",
+                "item": "Potato burger buns (new buy)",
                 "amount": "6"
               },
               {
                 "item": "American cheese slices (new buy)",
-                "amount": "12 slices"
+                "amount": "12"
               },
               {
                 "item": "Unsalted butter, softened (new buy)",
                 "amount": "60 g"
+              },
+              {
+                "item": "Iceberg lettuce, outer leaves removed, 6 large inner leaves (new buy)",
+                "amount": "1 head"
+              },
+              {
+                "item": "Dill pickle chips (new buy)",
+                "amount": "120 g"
               },
               {
                 "item": "Mayonnaise (new buy)",
@@ -36,15 +44,7 @@
               },
               {
                 "item": "Yellow mustard (new buy)",
-                "amount": "15 g"
-              },
-              {
-                "item": "Green leaf lettuce, leaves separated, washed and dried (new buy)",
-                "amount": "6 large leaves"
-              },
-              {
-                "item": "Dill pickle chips, drained (new buy)",
-                "amount": "100 g"
+                "amount": "20 g"
               },
               {
                 "item": "No Sugar Added Ketchup (Sunny Select)",
@@ -56,31 +56,31 @@
               },
               {
                 "item": "Onions, white, peeled and sliced paper-thin",
-                "amount": "150 g"
+                "amount": "200 g"
               },
               {
-                "item": "Tomatoes, raw, cored and cut into 6 mm slices",
-                "amount": "250 g"
+                "item": "Tomatoes, cored and cut into 6 mm slices",
+                "amount": "300 g"
               },
               {
-                "item": "Egg (Costco) — optional topper",
-                "amount": "6"
+                "item": "Egg (Costco)",
+                "amount": "6 (optional, one per guest)"
               },
               {
                 "item": "Avocado Oil",
                 "amount": "2 tbsp"
               },
               {
+                "item": "Onion powder",
+                "amount": "1 tsp"
+              },
+              {
                 "item": "Paprika",
                 "amount": "1/2 tsp"
               },
               {
-                "item": "Onion powder",
-                "amount": "1/2 tsp"
-              },
-              {
                 "item": "Garlic Salt (Gel Spice Co. Inc.)",
-                "amount": "1/4 tsp"
+                "amount": "1/2 tsp"
               },
               {
                 "item": "Salt",
@@ -93,61 +93,56 @@
             ],
             "steps": [
               {
-                "title": "Portion the raw beef",
-                "content": "Divide the cold raw ground chuck into 12 loose balls of about 80 g each. Roll them just enough to hold together — do not compact them, and do not season them yet; salt on raw beef ahead of time tightens the texture and kills the crust. Set the balls on a plate and return them to the refrigerator until you're ready to cook.",
-                "timerSeconds": 0
-              },
-              {
                 "title": "Mix the burger sauce",
-                "content": "In a bowl, whisk together the mayonnaise, ketchup, yellow mustard, sweet relish, paprika, onion powder and garlic salt until smooth and pale orange. Taste and adjust with salt and pepper. Cover and refrigerate — it gets better after 20 minutes.",
+                "content": "In a small bowl, stir together the mayonnaise, ketchup, yellow mustard, sweet relish, onion powder, paprika and garlic salt until smooth and evenly pink. Taste and adjust with salt and pepper. Cover and refrigerate until serving — it gets better as it sits.",
                 "timerSeconds": 0
               },
               {
-                "title": "Set up the garnish tray",
-                "content": "Lay out the paper-thin sliced onion, the sliced tomato (season the slices with salt and pepper to taste), the drained pickle chips and the lettuce leaves on a tray. Have everything within arm's reach of the stove — smash burgers cook in under 4 minutes and you will not have time to chop later.",
+                "title": "Set up the cold garnishes",
+                "content": "Arrange the 6 large lettuce leaves, the sliced tomatoes and the drained pickle chips on a platter. Season the tomato slices lightly with salt and pepper. Keep the thinly sliced white onion in a separate small bowl — it goes onto the raw patties, not onto the platter. Refrigerate the platter so the lettuce and tomato stay cold and crisp against the hot patties.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Portion the raw beef",
+                "content": "Divide the raw ground beef into 12 loose balls of about 90 g each. Roll them just enough to hold together — do not pack or knead them; compressed meat will not spread into those crisp lace edges. Set the balls on a tray, cover, and keep refrigerated until the pan is screaming hot. Do not salt them yet.",
                 "timerSeconds": 0
               },
               {
                 "title": "Butter and toast the buns",
-                "content": "Split the buns and spread the softened butter over all 12 cut faces. Heat a large skillet on the stove over medium (5 of 10) and toast the buns cut-side down in batches, 60–90 seconds, until deep golden. Stack them on a plate and wipe the skillet clean.",
+                "content": "Split the 6 buns and spread the softened butter over all 12 cut faces. Heat a large heavy skillet over medium (5 on the dial) and toast the buns cut-side down in batches, 60–90 seconds each, until deep golden. Set them on a sheet pan, cut side up, and keep them near the stove.",
                 "timerSeconds": 90
               },
               {
                 "title": "Get the pan ripping hot",
-                "content": "Set a heavy cast-iron or carbon-steel skillet (or two, to move faster) on the stove over high heat (9–10 of 10) for 5 full minutes. Add 1 tbsp avocado oil and swirl — it should shimmer and just barely smoke. Turn on your hood or crack a window; this is a smoky cook and that smoke is the flavor.",
+                "content": "Wipe the skillet clean and set it over high heat (9–10) for a full 5 minutes until it is just beginning to smoke. Add 1 tablespoon of the avocado oil and swirl to coat. A properly overheated pan is the entire secret to a smash burger crust — if it is not smoking, wait.",
                 "timerSeconds": 300
               },
               {
                 "title": "Smash the first batch",
-                "content": "Place 3 or 4 raw beef balls in the dry-hot pan, spaced well apart — do not crowd or they'll steam instead of crust. Immediately smash each one flat with a stiff spatula or a burger press backed by a second spatula, pressing hard for about 10 seconds until roughly 12 cm wide and thin enough to see the lacy edges. Season the tops with salt and pepper to taste, then press a small pile of the thin-sliced onion into each patty. Cook undisturbed 90–120 seconds, until the edges are dark brown and crisp.",
-                "timerSeconds": 110
+                "content": "Place 3 or 4 raw beef balls in the dry-hot pan, well spaced, and immediately press each one flat and thin with a sturdy metal spatula (back it with a second spatula or a heavy pan lid for leverage), holding the press for 10 seconds. Season the tops with salt and pepper and scatter a small pinch of the thin-sliced onion onto each patty, pressing it in lightly. Cook undisturbed 90 seconds to 2 minutes, until the edges are dark brown and lacy. Do not crowd the pan.",
+                "timerSeconds": 120
               },
               {
-                "title": "Flip, cheese, and pull",
-                "content": "Scrape under each patty with the spatula edge so the whole browned crust lifts with it, and flip onion-side down. Lay a slice of American cheese on each and cook 45–60 seconds more, until the cheese is slumping and the onion is caramelized. Stack the patties in cheesed pairs on a warm plate and tent loosely with foil.",
-                "timerSeconds": 55
-              },
-              {
-                "title": "Repeat for the remaining batches",
-                "content": "Scrape the pan clean between rounds, add a touch more avocado oil if it looks dry, let it come back to full heat for 30–45 seconds, and repeat the smash-season-onion-flip-cheese sequence until all 12 patties are done. Six stacks of two, cheese between and on top.",
-                "timerSeconds": 45
+                "title": "Flip, cheese and stack",
+                "content": "Scrape hard under each patty with the spatula so the entire crust lifts, flip, and lay a slice of American cheese on each. Cook 45–60 seconds more, then stack one patty on top of another right in the pan so the cheese welds them together. Transfer each double to a waiting toasted bun bottom. Repeat steps 6 and 7 with the remaining beef in two more batches, adding the second tablespoon of avocado oil only if the pan looks dry.",
+                "timerSeconds": 60
               },
               {
                 "title": "Fry the optional eggs",
-                "content": "Wipe the skillet, lower the heat to medium-low (4 of 10) and add the remaining 1 tbsp avocado oil. Crack in the eggs, season with salt and pepper to taste, and fry 2–3 minutes until the whites are fully set and the edges are crisp but the yolks are still runny. Cook in two batches if your pan is crowded.",
-                "timerSeconds": 165
+                "content": "Pour off all but a thin film of the beef fat, lower the heat to medium-low (3–4), and crack in the eggs one per guest who wants one. Season with salt and pepper and fry 2–3 minutes until the whites are fully set and the yolks are still liquid. Slide one egg onto each burger that is getting one.",
+                "timerSeconds": 180
               },
               {
-                "title": "Build and serve",
-                "content": "Spread burger sauce generously on both toasted bun faces. Bottom bun, lettuce, tomato slices, pickle chips, then the double cheesed patty stack, then a fried egg if you're using one, then the top bun. Press gently, serve immediately while the cheese is still molten — smash burgers wait for nobody.",
+                "title": "Build and serve immediately",
+                "content": "Spread a heavy spoonful of burger sauce on each toasted bun top. Top the stacked patties with a lettuce leaf, tomato slices and pickle chips, crown with the bun top, and press gently. Serve right away while the crust is still crisp and the yolk is still running — smash burgers wait for nobody.",
                 "timerSeconds": 0
               }
             ],
-            "notes": "Protein per serving: about 56 g (with the egg). Calories per serving: about 1180 (with the egg). New buys: ground beef chuck 80/20, brioche buns, American cheese, butter, mayonnaise, yellow mustard, green leaf lettuce, dill pickle chips — everything else comes from your pantry. Make-ahead: the burger sauce holds 5 days covered in the fridge and improves overnight; slice the onion, tomato and portion the beef balls up to 4 hours ahead and keep covered in the refrigerator. Pro tips: the beef must go into the pan COLD and unseasoned for the best crust; smash within the first 10 seconds of contact or the patty won't spread; use a firm metal spatula and scrape, never lift, so the crust comes with the meat; never press a patty after the flip or you'll squeeze out the fat that makes it taste like a smash burger. Leftover patties reheat well in the Tovala on Reheat for 4 minutes, then 1 minute on Broil to re-crisp the edges.",
+            "notes": "Protein per serving: about 53 g (with the egg). Calories per serving: about 1140 (with the egg); about 1070 without. New buys: 80/20 ground chuck, potato buns, American cheese, butter, iceberg lettuce, dill pickle chips, mayonnaise, yellow mustard. Make-ahead: the burger sauce can be made up to 3 days ahead and actually improves overnight; slice the onion, tomato and lettuce a few hours ahead and keep them chilled and covered. Pro tips — keep the beef balls cold right up to the moment they hit the pan so they smash thin without sticking to the spatula; press each patty only once, in the first 10 seconds, or you squeeze out the juice with no crust to show for it; scrape with a stiff metal spatula at a low angle so the browned crust comes up with the meat instead of staying in the pan; work in three batches and never crowd the skillet, or the patties steam instead of searing. Leftovers: keep patties and buns separate in the fridge up to 2 days and revive the patties in the Tovala on Steam 3 minutes then Broil 1 minute; toast the buns fresh.",
             "baseServings": 6,
-            "estCostTotal": 25.67,
-            "estCostPerServing": 4.28,
-            "estGroceryCost": 22.95
+            "estCostTotal": 44.1,
+            "estCostPerServing": 7.35,
+            "estGroceryCost": 41.0
           }
         },
         {
