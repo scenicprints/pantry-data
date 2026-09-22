@@ -1,3 +1,70 @@
 {
-  "meals": []
+  "meals": [
+    {
+      "id": "1790042527244",
+      "recipe": "Siniyet Kafta — Lebanese Baked Kafta with Potatoes",
+      "servings": 3,
+      "cooked_at_ms": 1790042527244,
+      "pantry_settled": true,
+      "lines": [
+        {
+          "pantry_id": "1788392881186362",
+          "name": "Ground Beef 93% lean (new buy)",
+          "group": "Baking tray",
+          "raw_g": 469.0
+        },
+        {
+          "pantry_id": "1788306202772940",
+          "name": "Onions, white, raw",
+          "group": "Baking tray",
+          "raw_g": 154.7
+        },
+        {
+          "pantry_id": "",
+          "name": "Minced California Garlic (Kirkland)",
+          "group": "Baking tray",
+          "raw_g": 17.9
+        },
+        {
+          "pantry_id": "1788997431039591",
+          "name": "Potato (Bushman's Inc)",
+          "barcode": "629307042546",
+          "group": "Baking tray",
+          "raw_g": 761.0
+        },
+        {
+          "pantry_id": "1787704460130745",
+          "name": "Tomatoes, raw",
+          "group": "Baking tray",
+          "raw_g": 574.0
+        },
+        {
+          "pantry_id": "1790034946247821",
+          "name": "Extra virgin olive oil (new buy)",
+          "barcode": "717544118916",
+          "group": "Baking tray",
+          "raw_g": 41.5
+        },
+        {
+          "pantry_id": "1789167931446777",
+          "name": "Tomato Paste Sunny Select",
+          "barcode": "717544103592",
+          "group": "Baking tray",
+          "raw_g": 45.9
+        },
+        {
+          "pantry_id": "1783640443764992",
+          "name": "Chicken broth (new buy)",
+          "barcode": "717544108726",
+          "group": "Baking tray",
+          "raw_g": 286.0
+        },
+        {
+          "pantry_id": "1788306106435513",
+          "name": "Lemon, raw (new buy)",
+          "raw_g": 13.9
+        }
+      ]
+    }
+  ]
 }
