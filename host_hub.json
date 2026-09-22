@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1790113195764,
+  "updated_at_ms": 1790113514747,
   "events": [
     {
       "createdAtMs": 1790113162287,
@@ -9,7 +9,167 @@
       "dishes": [
         {
           "text": "Delicious burgers with caramelized onion, Gruyère cheese and optional fried egg and special sauce",
-          "course": "Main"
+          "course": "Main",
+          "recipe": {
+            "title": "Grilled Gruyère Burgers with Slow-Caramelized Onions, Special Sauce and Optional Fried Egg",
+            "description": "Thick, charred-edged chuck patties under a blanket of melted nutty Gruyère, piled with jammy dark-gold caramelized onions, a tangy pink special sauce and a runny fried egg on a buttery griddled brioche bun.",
+            "ingredients": [
+              {
+                "item": "Ground chuck beef, 80/20, fresh (new buy)",
+                "amount": "2720 g"
+              },
+              {
+                "item": "Gruyère cheese, sliced into 16 slices (new buy)",
+                "amount": "480 g"
+              },
+              {
+                "item": "Brioche burger buns, split (new buy)",
+                "amount": "16 buns"
+              },
+              {
+                "item": "Onions, white, raw (pantry), peeled and sliced 3 mm thick",
+                "amount": "850 g"
+              },
+              {
+                "item": "Yellow onions, peeled and sliced 3 mm thick (new buy)",
+                "amount": "1150 g"
+              },
+              {
+                "item": "Unsalted butter (new buy)",
+                "amount": "200 g"
+              },
+              {
+                "item": "Extra Virgin Olive Oil (Sunny Select)",
+                "amount": "30 g"
+              },
+              {
+                "item": "Vinegar, red wine",
+                "amount": "20 g"
+              },
+              {
+                "item": "Honey (Essential Everyday)",
+                "amount": "20 g"
+              },
+              {
+                "item": "Mayonnaise, full-fat (new buy)",
+                "amount": "400 g"
+              },
+              {
+                "item": "No Sugar Added Ketchup (Sunny Select)",
+                "amount": "150 g"
+              },
+              {
+                "item": "Sweet Relish (Mt. Olive)",
+                "amount": "120 g"
+              },
+              {
+                "item": "Dijon mustard (new buy)",
+                "amount": "30 g"
+              },
+              {
+                "item": "Minced California Garlic (Kirkland)",
+                "amount": "1 tsp"
+              },
+              {
+                "item": "Onion powder",
+                "amount": "1 tsp"
+              },
+              {
+                "item": "Paprika",
+                "amount": "1 tsp"
+              },
+              {
+                "item": "Garlic Salt (Gel Spice Co. Inc.)",
+                "amount": "1/2 tsp"
+              },
+              {
+                "item": "Egg (Costco), for the optional fried egg",
+                "amount": "16 eggs"
+              },
+              {
+                "item": "Tomatoes, raw, cored and cut into 5 mm slices",
+                "amount": "800 g"
+              },
+              {
+                "item": "Butter lettuce, leaves separated, washed and dried (new buy)",
+                "amount": "2 heads"
+              },
+              {
+                "item": "Dill pickle chips, drained (new buy)",
+                "amount": "300 g"
+              },
+              {
+                "item": "Salt",
+                "amount": "to taste"
+              },
+              {
+                "item": "Pepper",
+                "amount": "to taste"
+              }
+            ],
+            "steps": [
+              {
+                "title": "Caramelize the onions",
+                "content": "Put the olive oil and 60 g of the butter in your largest heavy pot or skillet over medium heat (6). When the butter foams, add all 2000 g of sliced onions (pantry white plus yellow) with a big pinch of salt. Cook 10 minutes, stirring, until they collapse and release their liquid.",
+                "timerSeconds": 600
+              },
+              {
+                "title": "Cook them down low and slow",
+                "content": "Drop the heat to 3-4 (a lazy sizzle, not a fry). Cook 40-45 minutes, stirring every 5 minutes and scraping the brown film off the bottom of the pan each time. They're done when they're deep amber, jammy and reduced to about a quarter of their volume. Stir in the red wine vinegar and honey, cook 2 more minutes, season with salt and pepper to taste, and set aside. Pro tip: if the bottom ever looks like it's about to scorch, splash in 2 tbsp water and scrape — that fond is pure flavor.",
+                "timerSeconds": 2700
+              },
+              {
+                "title": "Mix the special sauce",
+                "content": "In a bowl whisk the mayonnaise, ketchup, sweet relish, Dijon mustard, minced garlic, onion powder, paprika and garlic salt until smooth and uniformly pink. Season with pepper to taste. Cover and refrigerate at least 30 minutes so the flavors marry — it can be made up to 3 days ahead.",
+                "timerSeconds": 1800
+              },
+              {
+                "title": "Form the raw patties",
+                "content": "Divide the raw ground chuck into 16 portions of 170 g each. Handle it lightly — press each portion into a patty about 12 cm wide and 1.5 cm thick, wider than the bun since they shrink. Press a shallow thumb dimple in the center of each so they don't dome on the grill. Lay them on parchment-lined trays, cover, and refrigerate until you're ready to cook. Do NOT salt them yet.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Set up the toppings station",
+                "content": "Arrange the sliced tomatoes, lettuce leaves, drained pickle chips, sliced Gruyère, the caramelized onions and the chilled special sauce in bowls near the grill. Season the tomato slices with a little salt and pepper. Melt 80 g of the butter in the microwave in 20-second bursts for the buns.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Fire the grill",
+                "content": "Heat the outdoor grill on high, lid down, for 10-12 minutes until the grates are ripping hot (about 230C/450F). Scrape the grates clean and wipe them with an oiled cloth.",
+                "timerSeconds": 720
+              },
+              {
+                "title": "Grill the patties",
+                "content": "Season both sides of the raw patties generously with salt and pepper right before they hit the fire. Grill in batches over direct high heat, dimple-side up first, 3-4 minutes until a hard crust forms. Flip once — only once — and grill 2 minutes more. Don't crowd the grate and never press the patties; you're squeezing out the fat that makes them good.",
+                "timerSeconds": 360
+              },
+              {
+                "title": "Melt the Gruyère",
+                "content": "Lay a 30 g slice of Gruyère on each patty, close the lid and cook 60-90 seconds until it's slumped and glossy. Move the finished burgers to a tray and let them rest 3-5 minutes while you finish the rest. Resting keeps the juice in the burger instead of in the bun.",
+                "timerSeconds": 300
+              },
+              {
+                "title": "Griddle the buns",
+                "content": "Brush the cut sides of the split brioche buns with the melted butter and toast them cut-side down over the cooler edge of the grill for 45-60 seconds, until golden with light grill marks. Watch them — brioche goes from toasted to burnt fast.",
+                "timerSeconds": 60
+              },
+              {
+                "title": "Fry the eggs (optional)",
+                "content": "Set two large nonstick skillets on the stove over medium heat (5) and divide the remaining 60 g butter between them. Crack in the eggs, 3-4 per pan, season with salt and pepper, and fry 2-3 minutes until the whites are set and the yolks still loose. Slide onto a warm plate and repeat with the remaining eggs.",
+                "timerSeconds": 180
+              },
+              {
+                "title": "Build and serve",
+                "content": "Swipe special sauce on both toasted bun halves. Bottom bun: lettuce, tomato slice, pickle chips, then the Gruyère-topped patty, then a heap of caramelized onions, then a fried egg if the guest wants one. Crown, press gently, and serve immediately with extra sauce on the table.",
+                "timerSeconds": 0
+              }
+            ],
+            "notes": "Protein per serving: about 52 g. Calories per serving: about 1130 (with the fried egg). New buys: ground chuck 80/20, Gruyère, brioche buns, yellow onions, unsalted butter, mayonnaise, Dijon mustard, butter lettuce, dill pickle chips. Make-ahead: the caramelized onions and special sauce are both better made a day ahead — cool the onions, refrigerate airtight, and rewarm on the stove over heat 3 with a splash of water. Patties can be formed up to 8 hours ahead and kept covered in the fridge; take them out 15 minutes before grilling so they cook evenly. Leftover cooked patties reheat well in the Tovala on Steam 4 minutes then Broil 1 minute — they stay juicy instead of drying out. Pro tips: salt the patties only at the moment they hit the grill or the surface turns springy and sausage-like; one flip only for the best crust; and let the burgers rest a few minutes before building or the juices end up in the bun.",
+            "baseServings": 16,
+            "estCostTotal": 92.4,
+            "estCostPerServing": 5.78,
+            "estGroceryCost": 82.6
+          }
         },
         {
           "text": "Oven cooked fries",
@@ -118,7 +278,163 @@
         },
         {
           "text": "Onion rings",
-          "course": "Side"
+          "course": "Side",
+          "recipe": {
+            "title": "Beer-Battered Onion Rings with Comeback Dipping Sauce",
+            "description": "Towering golden rings with a shattering, craggy beer-batter crust and sweet, steamy onion inside, showered with salt straight out of the oil and served with a tangy pink dipping sauce.",
+            "ingredients": [
+              {
+                "item": "Onions, white, raw (pantry) — peeled",
+                "amount": "850 g"
+              },
+              {
+                "item": "Yellow onions, large (new buy) — peeled",
+                "amount": "2000 g"
+              },
+              {
+                "item": "Buttermilk, whole (new buy)",
+                "amount": "1400 g"
+              },
+              {
+                "item": "Egg (Costco, pantry)",
+                "amount": "4"
+              },
+              {
+                "item": "Unbleached All-purpose Flour (King Arthur, pantry) — for the dry dredge",
+                "amount": "284 g"
+              },
+              {
+                "item": "Unbleached All-purpose Flour (King Arthur, pantry) — for the batter",
+                "amount": "500 g"
+              },
+              {
+                "item": "Cornstarch (new buy) — for the dry dredge",
+                "amount": "50 g"
+              },
+              {
+                "item": "Cornstarch (new buy) — for the batter",
+                "amount": "150 g"
+              },
+              {
+                "item": "Baking powder (new buy)",
+                "amount": "2 tsp"
+              },
+              {
+                "item": "Lager beer, cold (new buy)",
+                "amount": "700 g"
+              },
+              {
+                "item": "Paprika (pantry)",
+                "amount": "1 tbsp"
+              },
+              {
+                "item": "Onion powder (pantry)",
+                "amount": "1 tbsp"
+              },
+              {
+                "item": "Garlic salt (pantry)",
+                "amount": "2 tsp"
+              },
+              {
+                "item": "Salt (pantry)",
+                "amount": "to taste"
+              },
+              {
+                "item": "Pepper (pantry)",
+                "amount": "to taste"
+              },
+              {
+                "item": "Peanut or canola frying oil (new buy)",
+                "amount": "3000 g"
+              },
+              {
+                "item": "Mayonnaise (new buy)",
+                "amount": "300 g"
+              },
+              {
+                "item": "No Sugar Added Ketchup (Sunny Select, pantry)",
+                "amount": "150 g"
+              },
+              {
+                "item": "Sweet Relish (Mt. Olive, pantry)",
+                "amount": "90 g"
+              },
+              {
+                "item": "Vinegar, red wine (pantry)",
+                "amount": "15 g"
+              },
+              {
+                "item": "Onion powder (pantry) — for the sauce",
+                "amount": "1 tsp"
+              },
+              {
+                "item": "Paprika (pantry) — for the sauce",
+                "amount": "1 tsp"
+              }
+            ],
+            "steps": [
+              {
+                "title": "Cut the onions",
+                "content": "Trim the root and stem ends off all the peeled onions (850 g white + 2000 g yellow). Lay each onion on its side and slice crosswise into rounds a generous 1.5 cm thick — thinner than that and the onion disappears into the crust. Pop the rounds apart into individual rings with your fingers and pile them into a large bowl; save the tiny center rings for another use or fry them as cook's treats. Pro tip: keep the rings big and uniform so they fry at the same rate.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Soak in buttermilk",
+                "content": "In a second large bowl whisk 1400 g buttermilk with 4 eggs until smooth. Pour over the rings, press them down so they're submerged, cover, and let them soak at room temperature for 45 minutes. This softens the onion and gives the batter something to grip.",
+                "timerSeconds": 2700
+              },
+              {
+                "title": "Mix the dry dredge",
+                "content": "While the onions soak, whisk together 284 g flour, 50 g cornstarch, 1 tbsp paprika, 1 tbsp onion powder, 2 tsp garlic salt and a good few grinds of pepper in a wide shallow dish or roasting pan. Set it next to the stove.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Make the comeback sauce",
+                "content": "In a medium bowl stir together 300 g mayonnaise, 150 g ketchup, 90 g sweet relish, 15 g red wine vinegar, 1 tsp onion powder and 1 tsp paprika until evenly pink. Season with salt and pepper to taste, cover and refrigerate until serving — it's better after 30 minutes in the cold.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Heat the frying oil",
+                "content": "Pour 3000 g frying oil into a large heavy pot — it should come no more than halfway up the sides. Set the burner to medium-high (about 7 on a 0–10 dial) and bring the oil to 190°C / 375°F on a deep-fry thermometer, about 12–15 minutes. Set a wire rack over a sheet pan beside the stove for draining.",
+                "timerSeconds": 900
+              },
+              {
+                "title": "Preheat the holding oven",
+                "content": "Set the oven to 95°C / 200°F and slide in a second wire rack set over a sheet pan. Fried rings go here to stay hot and crisp while you work through the batches.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Mix the beer batter last minute",
+                "content": "Just before frying, whisk 500 g flour, 150 g cornstarch and 2 tsp baking powder in a large bowl. Pour in 700 g cold lager and whisk only until it comes together into a batter about the thickness of heavy cream — a few lumps are good. Pro tip: mix it at the last second and keep it cold; the carbonation is what makes the crust light.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Dredge and batter a batch",
+                "content": "Lift a handful of rings out of the buttermilk and let the excess drip off for a few seconds. Toss them in the seasoned dry dredge until fully chalky-white, shake off the loose flour, then drop them into the beer batter and turn to coat. Work one batch at a time so nothing sits in the batter and goes soggy.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Fry in batches",
+                "content": "Lift each ring out of the batter, let it drip for a second, and lower it into the 190°C / 375°F oil. Fry 6–8 rings at a time — never crowd the pot or the oil temperature crashes and the crust turns greasy. Fry 3 to 4 minutes, turning once with a spider or tongs, until deep golden and crackly. Adjust the burner between batches to hold 185–190°C / 365–375°F.",
+                "timerSeconds": 210
+              },
+              {
+                "title": "Drain, salt, hold",
+                "content": "Move the finished rings to the wire rack by the stove and salt them immediately while the oil is still glossy — salt only sticks in the first few seconds. Transfer to the rack in the 95°C / 200°F oven and repeat dredging, battering and frying until all the rings are done, about 6–8 batches total.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Serve",
+                "content": "Pile the rings high on a warm platter or in paper-lined baskets, hit them with one last pinch of salt and pepper, and serve straight away with the chilled comeback sauce in bowls alongside. They are at their best within 10 minutes of the last batch.",
+                "timerSeconds": 0
+              }
+            ],
+            "notes": "Protein: about 11 g per serving. Calories: about 690 per serving (16 servings). New buys: yellow onions, buttermilk, cornstarch, baking powder, lager beer, peanut or canola frying oil, mayonnaise. Make-ahead: the comeback sauce holds 5 days covered in the fridge, and the onions can sit in the buttermilk soak, covered and refrigerated, up to 4 hours. The dry dredge can be mixed a day ahead; the beer batter cannot — mix it only when the oil is at temperature. Reheating: spread leftover rings in a single layer in the air fryer at 200°C/400°F for 3–4 minutes to bring the crust back; never microwave them. Pro tips: a thermometer is not optional here — temperature is the whole dish; strain and cool the frying oil and it's good for one more use; and fry the smaller inner rings first as a test batch to check your seasoning.",
+            "baseServings": 16,
+            "estCostTotal": 34.85,
+            "estCostPerServing": 2.18,
+            "estGroceryCost": 23.8
+          }
         },
         {
           "text": "Dipping sauces for fries and onion rings",
