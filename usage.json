@@ -881,14 +881,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787274147117817-1787361609599-5",
+      "id": "1787274126378301-1787361609599-4",
       "ts": 1787361609599,
-      "item_id": "1787274147117817",
-      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
-      "amount": 32.0,
+      "item_id": "1787274126378301",
+      "name": "Oaxaca part skim milk cheese (Cacique)",
+      "amount": 78.0,
       "unit": "g",
-      "unit_price": 0.0178,
-      "cost": 0.57,
+      "unit_price": 0.0203,
+      "cost": 1.58,
       "source": "bodycomp"
     },
     {
@@ -914,14 +914,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787274126378301-1787361609599-4",
+      "id": "1787274147117817-1787361609599-5",
       "ts": 1787361609599,
-      "item_id": "1787274126378301",
-      "name": "Oaxaca part skim milk cheese (Cacique)",
-      "amount": 78.0,
+      "item_id": "1787274147117817",
+      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
+      "amount": 32.0,
       "unit": "g",
-      "unit_price": 0.0203,
-      "cost": 1.58,
+      "unit_price": 0.0178,
+      "cost": 0.57,
       "source": "bodycomp"
     },
     {
@@ -1596,17 +1596,6 @@
       "source": "manual"
     },
     {
-      "id": "1788306202772940-1788483858799-1",
-      "ts": 1788483858799,
-      "item_id": "1788306202772940",
-      "name": "Onions, white, raw",
-      "amount": 156.0,
-      "unit": "g",
-      "unit_price": 0.0024,
-      "cost": 0.37,
-      "source": "bodycomp"
-    },
-    {
       "id": "1788392582726771-1788483858799-3",
       "ts": 1788483858799,
       "item_id": "1788392582726771",
@@ -1615,6 +1604,17 @@
       "unit": "g",
       "unit_price": 0.0079,
       "cost": 0.26,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788306202772940-1788483858799-1",
+      "ts": 1788483858799,
+      "item_id": "1788306202772940",
+      "name": "Onions, white, raw",
+      "amount": 156.0,
+      "unit": "g",
+      "unit_price": 0.0024,
+      "cost": 0.37,
       "source": "bodycomp"
     },
     {
@@ -2055,6 +2055,17 @@
       "unit": "g",
       "unit_price": 0.0036,
       "cost": 1.69,
+      "source": "manual"
+    },
+    {
+      "id": "1788215484326416-1790051189974",
+      "ts": 1790051189974,
+      "item_id": "1788215484326416",
+      "name": "Avocado, raw",
+      "amount": 802.0,
+      "unit": "g",
+      "unit_price": 0.005,
+      "cost": 4.0,
       "source": "manual"
     }
   ]
