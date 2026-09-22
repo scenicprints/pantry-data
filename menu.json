@@ -1,6 +1,131 @@
 {
-  "updated_at_ms": 1790042528869,
-  "meals": [],
+  "updated_at_ms": 1790097768796,
+  "meals": [
+    {
+      "createdAtMs": 1790097768364,
+      "servings": 3,
+      "checked": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "recipe": {
+        "title": "French Dip Sandwiches with Onion Jus",
+        "description": "Seared sirloin sliced thin and piled into toasted whole wheat rolls with slow-browned onions, with a little cup of hot garlicky jus for dunking and a sharp red wine vinegar salad alongside. Same sandwich you'd order out, built lean: no butter on the roll, olive oil for the onions, and the jus gets its body from browned onion and a hit of vinegar instead of pan drippings.",
+        "ingredients": [
+          {
+            "item": "Beef top sirloin steak, 510 g, trimmed of all visible fat, patted dry",
+            "amount": "510 g"
+          },
+          {
+            "item": "White onions, halved and sliced thin",
+            "amount": "400 g"
+          },
+          {
+            "item": "Extra Virgin Olive Oil (Sunny Select)",
+            "amount": "30 g total (15 g onions, 5 g sear, 10 g vinaigrette)"
+          },
+          {
+            "item": "Minced California Garlic (Kirkland)",
+            "amount": "2 tsp"
+          },
+          {
+            "item": "Beef broth, low sodium (new buy)",
+            "amount": "480 g"
+          },
+          {
+            "item": "Red wine vinegar",
+            "amount": "30 g total (10 g jus, 20 g vinaigrette)"
+          },
+          {
+            "item": "Whole wheat sandwich rolls, about 85 g each, split (new buy)",
+            "amount": "3 rolls"
+          },
+          {
+            "item": "Baby spring mix (organic girl) (new buy)",
+            "amount": "150 g"
+          },
+          {
+            "item": "Tomatoes, raw, cut into wedges",
+            "amount": "200 g"
+          },
+          {
+            "item": "Italian Seasoning",
+            "amount": "1/2 tsp"
+          },
+          {
+            "item": "Pepper",
+            "amount": "to taste"
+          },
+          {
+            "item": "Salt",
+            "amount": "to taste"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Brown the onions",
+            "content": "Heat 15 g olive oil in a large skillet over medium-low (about 4). Add the sliced onions and a pinch of salt and cook 20 minutes, stirring every few minutes, until deep golden and soft. If they catch, add a splash of water and scrape the pan. Scoop half the onions into a bowl for the sandwiches and leave the rest in the pan.",
+            "timerSeconds": 1200
+          },
+          {
+            "title": "Season the steak",
+            "content": "While the onions cook, season the trimmed sirloin all over with salt and pepper and leave it on the counter. Do this now so it isn't fridge-cold when it hits the pan — that's how you get a crust without overcooking the middle.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Build the jus",
+            "content": "To the onions still in the skillet, add 1 tsp of the minced garlic and stir 30 seconds over medium-low. Pour in the beef broth, raise to a simmer (3-4 on the dial), and let it go 10 minutes uncovered to concentrate. Stir in 10 g red wine vinegar and plenty of black pepper, taste, and pour the jus into a bowl. Wipe the skillet dry — you're searing in it next.",
+            "timerSeconds": 600
+          },
+          {
+            "title": "Mix the vinaigrette",
+            "content": "In a small bowl whisk 10 g olive oil, 20 g red wine vinegar, the remaining 1 tsp minced garlic, 1/2 tsp Italian seasoning, salt and pepper. Set aside; don't dress the greens yet.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Sear the sirloin",
+            "content": "Set the same skillet over high heat with 5 g olive oil until it just smokes. Lay the steak in and sear 3-4 minutes per side for medium-rare (a thick piece may want a minute or two more per side). Move it to a board to rest 8 minutes. Pro tip: don't move it while the first side sears — the crust is most of the flavor here.",
+            "timerSeconds": 480
+          },
+          {
+            "title": "Toast the rolls",
+            "content": "Set the oven broiler to high. Put the split rolls cut side up on a sheet pan and broil 1-2 minutes, until the cut faces are toasted and dry. Watch them — they go from golden to burnt fast.",
+            "timerSeconds": 120
+          },
+          {
+            "title": "Slice the beef",
+            "content": "Slice the rested sirloin as thin as you can, cutting against the grain, and tip the juices from the board into the jus bowl. Warm the jus back up in the microwave for about 1 minute if it's cooled off, and divide it into three small cups.",
+            "timerSeconds": 60
+          },
+          {
+            "title": "Dress the salad",
+            "content": "Toss the spring mix and tomato wedges with the vinaigrette right before serving, then season with a little more salt and pepper. Dress it last so the greens stay crisp.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Build and serve",
+            "content": "Pile the sliced beef onto the toasted roll bottoms, top with the reserved browned onions, close the sandwiches and cut each in half. Serve with the cup of hot jus for dunking and the salad alongside.",
+            "timerSeconds": 0
+          }
+        ],
+        "notes": "Per serving: about 40 g protein, 590 calories, 4.5 g saturated fat, under 2 g added sugar (only what's in the roll), about 9 g fiber. New buys: beef broth, whole wheat sandwich rolls, baby spring mix. Everything else — sirloin, onions, tomatoes, olive oil, red wine vinegar, garlic, spices — is on hand. Leftovers: keep sliced beef and jus in separate containers up to 3 days; reheat the beef gently in the jus on the stove (about 3 on the dial) rather than the microwave so it doesn't go gray and tough, and toast a fresh roll. Pro tips: trim the sirloin hard before seasoning — that fat cap is where the saturated fat hides; slice against the grain and thin, since thin slices are what make a French dip feel generous without more meat; and don't skip the vinegar in the jus, it's what keeps 480 g of broth from tasting flat. Fatty liver: this is the classic sandwich lightened in three places — no butter on the roll and no drippings in the jus (olive oil and browned onion do that work), a whole wheat roll instead of white, and lean trimmed sirloin instead of fatty deli-style beef, with a big vinegar-dressed salad carrying the fiber.",
+        "baseServings": 3,
+        "estCostTotal": 25.8,
+        "estCostPerServing": 8.6,
+        "estGroceryCost": 8.52
+      }
+    }
+  ],
   "removed": [
     1789407429117,
     1789483737715,
