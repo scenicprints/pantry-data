@@ -1,9 +1,9 @@
 {
-  "updated_at_ms": 1790113514747,
+  "updated_at_ms": 1790113853620,
   "events": [
     {
       "createdAtMs": 1790113162287,
-      "name": "",
+      "name": "Book Club",
       "guests": 16,
       "eventDate": "2026-09-26",
       "dishes": [
