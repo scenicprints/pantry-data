@@ -1,0 +1,34 @@
+{
+  "briefs": [
+    {
+      "createdAtMs": 1790117230504,
+      "name": "Book Club Lunch",
+      "guests": 8,
+      "eventDate": "2026-09-26",
+      "guestNotes": "No pineapple for this group.",
+      "notes": "Book club lunch. Chopping and prep can be done the day before, but all cooking happens the day of — everything should be fresh. Make enough for seconds (burgers are counted at 1.5 per person). The menu is exactly these four dishes and is hearty on purpose — do not add a salad, vegetable side or anything else. Equipment: oven, stovetop, microwave, rice cooker, blender and waffle iron are all free; the air fryer, Tovala, griddle and slow cooker can only run one at a time. The stovetop is the crunch point: fry the onion rings first and hold them crisp in the oven with the fries, so the burners are free for burgers and eggs. Caramelize the onions early and just rewarm them.",
+      "dishes": [
+        {
+          "text": "Thick smashed burgers",
+          "course": "Main",
+          "notes": "12 burgers (1.5 per person). Smash-burger technique — hard press on a hot surface for a crust — but a thicker patty than a true smash burger, which is too thin. Cooked through, no pink. Cook in skillets on the stovetop, not on the griddle. Gruyère melted onto the patty. Toasted potato buns (toast in a skillet). Toppings go on the side so everyone builds their own: caramelized chopped onion, pickles, tomato, lettuce. Fried egg optional, cooked to order. Special sauce on the burger (the Special sauce dish)."
+        },
+        {
+          "text": "Oven fries",
+          "course": "Side",
+          "notes": "Baked in the oven on sheet pans — not fried in oil and not in the air fryer. Enough for seconds for 8."
+        },
+        {
+          "text": "Onion rings",
+          "course": "Side",
+          "notes": "Fried in oil. Fry them first, before the burgers, and hold them crisp in the oven with the fries so the burners are free for burgers and eggs."
+        },
+        {
+          "text": "Special sauce",
+          "course": "Side",
+          "notes": "In-N-Out-style special sauce — tangy, a little sweet, with pickle. Absolutely no mayo in any form: no mayonnaise, aioli, Miracle Whip or mayo-based dressing. Base is full-fat sour cream. One sauce does double duty: on the burgers and as the dipping sauce for fries and onion rings, so make enough for both. Ketchup, mustard and other bottled condiments are just squeezed from the bottle — don't make them."
+        }
+      ]
+    }
+  ]
+}
