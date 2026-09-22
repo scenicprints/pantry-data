@@ -95,3 +95,78 @@ on a specific weight.
   are derived by the app so you don't recompute them.
 - `updated_at_ms` is sync bookkeeping — ignore it.
 - Prioritize items with `expiring_soon: true`.
+
+---
+
+# `host_brief.json` — a dinner planned in conversation
+
+**`host_brief.json`** is the other direction: not what the kitchen holds, but
+what the cook wants made. It is written by **Claude**, read by the Pantry app's
+**Host Hub**, and cooked from by the app's own chef.
+
+Planning a dinner is a conversation — this dish but with short rib instead of
+mince, no cream in anything, the starter cold because the oven is busy. The
+app's planner is one box and one shot, so a brief is where that back-and-forth
+lands once it's settled.
+
+**The chef still cooks.** A brief carries no recipes. The app writes the
+recipes, the prep timeline and the dinner-day run sheet on the device, from
+this brief plus the pantry and the prices it already knows.
+
+```json
+{
+  "briefs": [
+    {
+      "createdAtMs": 1764201600000,
+      "name": "Sarah's Birthday",
+      "guests": 6,
+      "eventDate": "2026-10-03",
+      "guestNotes": "One guest has a tree-nut allergy.",
+      "notes": "They sit down at 7. Keep the oven free after 6 — the main is in it.",
+      "dishes": [
+        {
+          "text": "Lasagna",
+          "course": "Main",
+          "notes": "Short rib, not mince. No cream sauce — keep it red."
+        },
+        { "text": "Charred broccolini", "course": "Side" }
+      ]
+    }
+  ]
+}
+```
+
+## Fields
+
+- **`createdAtMs`** — ms since epoch; the brief's id. Leave it out and the app
+  assigns one when the brief is pasted rather than synced.
+- **`name`** — what the dinner is called. Optional.
+- **`guests`** — head count. Everything is scaled to it.
+- **`eventDate`** — `YYYY-MM-DD`. Optional, but the prep timeline is counted
+  back from it, so without one there is no schedule to build.
+- **`dishes[]`** — at least one. Each has:
+  - **`text`** — what to cook, in the words it was agreed in.
+  - **`course`** — `Starter` | `Main` | `Side` | `Dessert` | `Drink` | `Other`.
+  - **`notes`** — everything decided about *this* dish. This is the half the
+    app had no way to accept: substitutions, what to leave out, how it should
+    turn out. The chef is told these are decided, not suggested, and that
+    ruling something out rules it out in every form — "no cream sauce" must not
+    come back as a béchamel.
+- **`guestNotes`** — restrictions for the people at this table, this once.
+  Stacked on top of the user's permanent avoid list, never replacing it.
+- **`notes`** — anything about the dinner as a whole: the occasion, what time
+  people sit down, what the oven is already doing, how much should be done in
+  advance.
+- **`builtAtMs`** — written by the app once it has built the menu. A stamped
+  brief stops showing, so the inbox doesn't fill with dinners that already
+  happened. Don't set it yourself.
+
+## Writing one
+
+Append to `briefs` rather than replacing the file, and leave stamped briefs
+where they are. The app pulls on open and on resume, so a brief written now
+shows up the next time the Host Hub is opened.
+
+An agent that can't reach this repo — Claude on a phone or in a browser — can
+just hand the JSON to the user: Host Hub → **Paste a plan from Claude** takes
+it, fence and all.
