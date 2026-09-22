@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1790097845501,
+  "updated_at_ms": 1790120376016,
   "meals": [
     {
       "createdAtMs": 1790097768364,
@@ -12,11 +12,11 @@
         false,
         true,
         false,
-        false,
         true,
         true,
-        false,
-        false
+        true,
+        true,
+        true
       ],
       "recipe": {
         "title": "French Dip Sandwiches with Onion Jus",
