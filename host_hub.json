@@ -1,0 +1,127 @@
+{
+  "updated_at_ms": 1790109840898,
+  "events": [
+    {
+      "createdAtMs": 1790109694356,
+      "name": "",
+      "guests": 6,
+      "eventDate": "2026-09-26",
+      "dishes": [
+        {
+          "text": "Delicious smash burgers with an optional egg",
+          "course": "Main"
+        },
+        {
+          "text": "Fries",
+          "course": "Side"
+        },
+        {
+          "text": "Either you can think of something, or nothing",
+          "course": "Side",
+          "recipe": {
+            "title": "Either You Can Think of Something, or Nothing",
+            "description": "Craggy smashed baby potatoes roasted until the edges shatter like chips, drenched in garlic butter, blistered under parmesan, and finished with lemon and parsley so every piece tastes like the crispy corner of the pan.",
+            "ingredients": [
+              {
+                "item": "Baby potatoes (The Little Potato Co.), scrubbed, left whole",
+                "amount": "1300 g"
+              },
+              {
+                "item": "Salt (for the boiling water and for seasoning)",
+                "amount": "to taste"
+              },
+              {
+                "item": "Unsalted butter (new buy)",
+                "amount": "115 g"
+              },
+              {
+                "item": "Extra Virgin Olive Oil (Sunny Select)",
+                "amount": "45 g, plus a little extra for the pan"
+              },
+              {
+                "item": "Minced California Garlic (Kirkland)",
+                "amount": "2 tablespoons"
+              },
+              {
+                "item": "Parmesan Freshly Grated (BelGioioso) (new buy)",
+                "amount": "60 g"
+              },
+              {
+                "item": "Parsley, fresh, leaves finely chopped, stems discarded (new buy)",
+                "amount": "15 g"
+              },
+              {
+                "item": "Lemon, raw — zested, then halved for juice (new buy)",
+                "amount": "1"
+              },
+              {
+                "item": "Pepper",
+                "amount": "to taste"
+              },
+              {
+                "item": "Dried oregano",
+                "amount": "1 teaspoon"
+              }
+            ],
+            "steps": [
+              {
+                "title": "Boil the potatoes",
+                "content": "Put the scrubbed whole baby potatoes in a large pot, cover with cold water by 5 cm, and salt the water heavily (it should taste like a good soup). Bring to a boil over high heat (9–10), then drop to a simmer (3–4) and cook 18–20 minutes, until a paring knife slides into the biggest potato with zero resistance. Underboiled potatoes will not smash — they crumble or bounce, so err on the tender side.",
+                "timerSeconds": 1200
+              },
+              {
+                "title": "Drain and steam-dry",
+                "content": "Drain the potatoes in a colander and let them sit, uncovered, for 5 minutes. The surface moisture flashes off and that dry skin is what turns crisp later. Meanwhile, heat the oven to 230°C / 450°F and lightly oil a large sheet pan with olive oil.",
+                "timerSeconds": 300
+              },
+              {
+                "title": "Make the garlic butter",
+                "content": "In a small saucepan over low heat (2–3), melt the 115 g butter with the 45 g olive oil and the 2 tablespoons minced garlic. Warm gently 2–3 minutes, swirling, just until the garlic smells sweet and the butter is fully liquid — do not let the garlic take on color or it will turn bitter in the oven. Stir in the 1 teaspoon dried oregano and pull off the heat.",
+                "timerSeconds": 180
+              },
+              {
+                "title": "Smash",
+                "content": "Arrange the warm potatoes on the oiled sheet pan with space between each one. Press each potato flat with the bottom of a heavy glass or a measuring cup until it's about 1.5 cm thick and the edges split and fray — those ragged edges are the crispy part, so don't chase neat discs. Work in a single layer; use two pans if they crowd.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Butter and season",
+                "content": "Spoon or brush about half the garlic butter over the smashed potatoes, getting it into the cracks. Season generously with salt and pepper on top.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Roast",
+                "content": "Roast on the oven's upper-middle rack at 230°C / 450°F for 25 minutes, until the undersides are deep gold and the edges are visibly crisp. Rotate the pan front-to-back once at the halfway mark for even color. Don't flip them — the flat bottom is doing the work.",
+                "timerSeconds": 1500
+              },
+              {
+                "title": "Butter again, then parmesan",
+                "content": "Pull the pan out. Spoon the remaining garlic butter over the potatoes, scraping in all the garlic solids from the pan, then scatter the 60 g grated parmesan evenly over the top.",
+                "timerSeconds": 0
+              },
+              {
+                "title": "Broil to finish",
+                "content": "Switch the oven to broil and return the pan to the top rack for 3–4 minutes, until the parmesan is melted and browned in patches. Stand at the oven and watch it — at this distance it goes from golden to burnt in under a minute.",
+                "timerSeconds": 240
+              },
+              {
+                "title": "Dress and serve",
+                "content": "Slide the potatoes onto a warm platter. Zest the lemon over the top, then squeeze about half the lemon's juice over everything. Shower with the chopped parsley, add a final pinch of salt and a few grinds of pepper, and serve immediately while the edges are still shattering-crisp.",
+                "timerSeconds": 0
+              }
+            ],
+            "notes": "Protein per serving: about 8 g. Calories per serving: about 405. New buys: unsalted butter, freshly grated parmesan, fresh parsley, 1 lemon. Make-ahead: boil and smash the potatoes up to 6 hours ahead, leave them buttered on the sheet pan at room temperature, then roast right before guests sit down — the second half of the butter, the parmesan and the broil all happen à la minute. Pro tips: salt the boiling water aggressively, since it's the only chance to season the inside of the potato; give each potato breathing room on the pan, because a crowded pan steams instead of crisping; and add the lemon juice only at the table — do it early and the crust softens. Leftovers keep 3 days covered in the fridge and come back to life in the air fryer at 200°C / 400°F for 5–6 minutes in a single layer.",
+            "baseServings": 6,
+            "estCostTotal": 13.15,
+            "estCostPerServing": 2.19,
+            "estGroceryCost": 5.75
+          }
+        }
+      ],
+      "guestNotes": "",
+      "prepDays": [],
+      "checked": []
+    }
+  ],
+  "removed": []
+}
