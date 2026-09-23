@@ -609,6 +609,13 @@
       "unit_price": 0.0263,
       "unit": "g",
       "ts": 1790122613764
+    },
+    {
+      "name": "Swanson broth beef (Swanson)",
+      "barcode": "051000024213",
+      "unit_price": 0.0061,
+      "unit": "g",
+      "ts": 1790122655445
     }
   ]
 }
