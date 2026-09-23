@@ -1,6 +1,156 @@
 {
-  "updated_at_ms": 1790127035224,
-  "meals": [],
+  "updated_at_ms": 1790184044328,
+  "meals": [
+    {
+      "createdAtMs": 1790184043937,
+      "servings": 2,
+      "checked": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "recipe": {
+        "title": "Air Fryer Mini Meatloaves with Ketchup Glaze, Smashed Potatoes & Charred Broccoli",
+        "description": "Two little meatloaves that come out of the air fryer with dark, sticky tangy-glazed tops and a juicy middle, next to craggy smashed baby potatoes and broccoli charred until the edges are almost black and finished with garlic and lime.",
+        "ingredients": [
+          {
+            "item": "Ground Beef 93% lean (new buy)",
+            "amount": "260 g"
+          },
+          {
+            "item": "Whole wheat panko breadcrumbs (new buy)",
+            "amount": "30 g"
+          },
+          {
+            "item": "Egg",
+            "amount": "1"
+          },
+          {
+            "item": "White onion, grated on the coarse side of a box grater",
+            "amount": "60 g"
+          },
+          {
+            "item": "Minced California Garlic (Kirkland)",
+            "amount": "15 g total (10 g for the meatloaf, 5 g for the broccoli)"
+          },
+          {
+            "item": "Italian Seasoning",
+            "amount": "1 tsp"
+          },
+          {
+            "item": "Paprika",
+            "amount": "1 1/2 tsp total (1 tsp for the meat, 1/2 tsp for the glaze)"
+          },
+          {
+            "item": "Onion powder",
+            "amount": "1/2 tsp"
+          },
+          {
+            "item": "Salt",
+            "amount": "to taste"
+          },
+          {
+            "item": "Pepper",
+            "amount": "to taste"
+          },
+          {
+            "item": "No Sugar Added Ketchup (Sunny Select)",
+            "amount": "50 g"
+          },
+          {
+            "item": "Red wine vinegar",
+            "amount": "8 g"
+          },
+          {
+            "item": "Baby potatoes (The Little Potato Co.), any larger than a golf ball halved",
+            "amount": "300 g"
+          },
+          {
+            "item": "Broccoli (new buy), cut into flat-sided florets about 4 cm",
+            "amount": "350 g"
+          },
+          {
+            "item": "Extra Virgin Olive Oil (Sunny Select)",
+            "amount": "22 g total (14 g for the potatoes, 8 g for the broccoli)"
+          },
+          {
+            "item": "Garlic Salt (Gel Spice Co.)",
+            "amount": "1/2 tsp"
+          },
+          {
+            "item": "Lime",
+            "amount": "1/2, for juicing at the end"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Boil the potatoes",
+            "content": "Put the baby potatoes in a pot, cover with cold water, add a good pinch of salt and bring to a boil on high. Drop to a simmer (3-4 on the dial) and cook 15 minutes, until a fork slides in with no resistance. Drain and leave them in the colander to steam dry.",
+            "timerSeconds": 900
+          },
+          {
+            "title": "Mix the raw meatloaf",
+            "content": "While the potatoes boil, in a bowl combine the grated onion, panko, egg, 10 g of the minced garlic, the Italian seasoning, 1 tsp paprika, the onion powder, salt and pepper. Add the RAW ground beef and mix with your hands just until it holds together — stop as soon as it comes together or the loaves turn dense.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Shape the loaves",
+            "content": "Divide the raw mixture in two and shape each half into a compact loaf about 10 cm long and 4 cm tall. Press the tops flat-ish so the glaze has somewhere to sit.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Air fry the meatloaves",
+            "content": "Preheat the air fryer to 190C/380F. Set both raw loaves in the basket with space between them — they go in raw and cook through in there. Air fry 15 minutes.",
+            "timerSeconds": 900
+          },
+          {
+            "title": "Smash and season the potatoes",
+            "content": "While the loaves cook, lay the drained potatoes on the Tovala tray and press each one flat with the bottom of a glass until it cracks open, about 1.5 cm thick. Drizzle over 14 g olive oil, sprinkle with the garlic salt and pepper, and turn them gently so the craggy edges are coated. Keep them in a single layer — batch if the tray is crowded.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Potatoes into the Tovala",
+            "content": "Run the Tovala on Air Fry at 200C/400F for 12 minutes, until the edges are deep brown and brittle. When it beeps, leave them inside with the door shut to stay hot.",
+            "timerSeconds": 720
+          },
+          {
+            "title": "Mix the glaze and finish the meatloaves",
+            "content": "Stir the ketchup, red wine vinegar and 1/2 tsp paprika together. At the 15-minute mark, spoon the glaze thickly over the tops of the meatloaves, bump the air fryer to 200C/400F and cook 6 more minutes, until the glaze is dark and tacky at the edges.",
+            "timerSeconds": 360
+          },
+          {
+            "title": "Char the broccoli",
+            "content": "As the glaze goes on, set a large skillet or the griddle over high heat for 2 minutes. Add 8 g olive oil and the broccoli florets, cut sides down, and leave them completely alone for 4 minutes to take a hard char. Toss and cook 3 more minutes, then add the remaining 5 g garlic, salt and pepper and toss for 30 seconds.",
+            "timerSeconds": 450
+          },
+          {
+            "title": "Rest, acid, plate",
+            "content": "Pull the meatloaves out and let them rest 5 minutes — cutting straight away spills the juice. Off the heat, squeeze the half lime over the broccoli and toss. Plate a meatloaf per person with the smashed potatoes and broccoli alongside.",
+            "timerSeconds": 300
+          }
+        ],
+        "notes": "Per serving: ~40 g protein, ~590 calories, ~5 g saturated fat, under 1 g added sugar, ~9 g fiber. New buys: 93% lean ground beef, whole wheat panko, broccoli — everything else is pantry. Fatty liver: this is the classic meatloaf dinner lightened in three places — 93% lean beef instead of chuck, whole wheat panko instead of white bread and milk, and the brown-sugar glaze rebuilt as no-sugar-added ketchup sharpened with red wine vinegar and paprika, so the top still goes dark and sticky with essentially no added sugar. Nothing is fried; the crust comes from the air fryer and the char comes from a dry hot pan. Pro tips: grate the onion rather than chop it — it melts in and keeps the lean beef juicy; don't move the broccoli for that first 4 minutes, the black edges are the point; press the potatoes until they actually crack, the broken edges are what crisp. Leftovers: meatloaf keeps 3 days and reheats best in the Tovala on Steam 4 minutes then Broil Hi 2 minutes — it comes back juicy instead of rubbery. Reheat the potatoes on Air Fry 5 minutes at 200C/400F; the broccoli is best eaten the night of.",
+        "baseServings": 2,
+        "estCostTotal": 11.88,
+        "estCostPerServing": 5.94,
+        "estGroceryCost": 11.73
+      }
+    }
+  ],
   "removed": [
     1789407429117,
     1789483737715,
