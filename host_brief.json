@@ -6,32 +6,32 @@
       "guests": 8,
       "eventDate": "2026-09-26",
       "guestNotes": "No pineapple for this group.",
-      "notes": "Book club lunch. Guests order from a menu on their phones and every burger is cooked to order, built exactly as that guest ordered it — there is no self-serve topping bar. Guests pick single or double patties and can come back for seconds; the host will make sure there's enough, so plan generously rather than one burger each. Chopping and prep can be done the day before, but all cooking happens the day of — everything should be fresh. The menu is exactly these dishes and hearty on purpose — do not add a salad, vegetable side or anything else. Equipment: oven, stovetop, microwave, rice cooker, blender and waffle iron are all free; the air fryer, Tovala, griddle and slow cooker can only run one at a time. The stovetop is the crunch point: fry the onion rings first and hold them crisp in the oven with the fries, so the burners are free for burgers and eggs. Caramelize the onions early and just rewarm them.",
+      "notes": "Book club lunch. Guests order from a menu on their phones (single or double patty, their choice of cheeses, egg, toppings and sauces) and every burger is cooked to order and built exactly as ordered. There is no self-serve topping bar. Guests can come back for seconds; the host will make sure there's enough, so plan generously. Chopping and prep can be done the day before, but all cooking happens the day of, and everything should be fresh. The menu is exactly these dishes and hearty on purpose: do not add a salad, vegetable side or anything else. Where things cook: fries in the oven; onion rings in a countertop deep fryer that runs all lunch; burger patties and fried eggs in skillets on the stovetop burners; buns toasted on the griddle built into the middle of the stovetop. The countertop electric griddle, air fryer, Tovala and slow cooker are NOT used: the deep fryer and the electric griddle together trip the breaker. The oven stays at fry-roasting heat the whole lunch, so nothing is held warm in it; onion rings are fried as orders come in.",
       "dishes": [
         {
           "text": "Thick smashed burgers",
           "course": "Main",
-          "notes": "Cooked to order, one ticket at a time, built exactly as the guest ordered. Smash-burger technique — hard press on a hot surface for a crust — but a thicker patty than a true smash burger, which is too thin. Cooked through, no pink. Cook in skillets on the stovetop, not on the griddle. Guests choose single or double patty. Cheese: Gruyère and/or American, or none — melted onto the patty; extra cheese is an option, so have plenty of both. Toasted potato buns (toast in a skillet). Toppings guests can choose (none, regular or extra): caramelized chopped onion, pickles, tomato, lettuce. Fried egg optional — runny or hard, guest's choice, cooked to order. Sauces guests can choose: the special sauce (see the Special sauce dish) plus bottled ketchup, mayo and mustard."
+          "notes": "Cooked to order, built exactly as the guest ordered. Smash-burger technique (hard press in a hot skillet for a crust) but a thicker patty than a true smash burger, which is too thin. Cooked in skillets on the stovetop burners, not on a griddle or grill. Cooked through to 160°F, no pink. Guests choose single or double patty. Cheese: Gruyère and/or American, or none, melted onto the patty. One slice per patty: a double with both cheeses gets Gruyère on one patty and American on the other; a double with one cheese gets it on both patties; extra cheese means one more slice. Plan plenty of both cheeses. Toasted potato buns, toasted on the stovetop's center griddle. Toppings guests can choose (none, regular or extra): caramelized chopped onion, pickles, tomato, lettuce. Fried egg optional, runny or hard, cooked to order in a skillet on the stovetop. Sauces guests can choose: the special sauce (see the Special sauce dish) plus bottled ketchup, mayo and mustard."
         },
         {
           "text": "Oven fries",
           "course": "Side",
-          "notes": "Baked in the oven on sheet pans — not fried in oil and not in the air fryer. Enough for seconds for 8."
+          "notes": "Fresh-cut potatoes, not frozen. Parboiled on the stovetop, then roasted in the oven on sheet pans. Not deep-fried and not in the air fryer. They cook in batches all lunch, so seconds come out fresh. Enough for seconds for 8."
         },
         {
           "text": "Onion rings",
           "course": "Side",
-          "notes": "Fried in oil. Fry them first, before the burgers, and hold them crisp in the oven with the fries so the burners are free for burgers and eggs."
+          "notes": "Fresh onions, beer-battered, fried in the countertop deep fryer. The fryer runs the whole lunch and rings are fried as orders come in. Do not fry them ahead and hold them in the oven (the oven is busy with fries at high heat). The special sauce is their dip; no separate dipping sauce."
         },
         {
           "text": "Special sauce",
           "course": "Side",
-          "notes": "In-N-Out-style special sauce — tangy, a little sweet, with pickle. Absolutely no mayo in any form: no mayonnaise, aioli, Miracle Whip or mayo-based dressing. Base is full-fat sour cream. One sauce does double duty: on the burgers and as the dipping sauce for fries and onion rings, so make enough for both. Ketchup, mayo and mustard are offered to guests straight from the bottle — don't make them, and the bottled mayo is for guests only; it never goes into this sauce."
+          "notes": "In-N-Out-style special sauce: tangy, a little sweet, with pickle. Absolutely no mayo in any form: no mayonnaise, aioli, Miracle Whip or mayo-based dressing. Base is full-fat sour cream. One sauce does double duty: on the burgers and as the dipping sauce for fries and onion rings, so make enough for both. Ketchup, mayo and mustard are offered to guests straight from the bottle; don't make them. The bottled mayo is for guests only and never goes into this sauce."
         },
         {
           "text": "Milkshakes",
           "course": "Dessert",
-          "notes": "Two flavors for guests to choose from: vanilla and Oreo. Made in the blender."
+          "notes": "Two flavors for guests to choose from: vanilla and Oreo. Made to order in the blender."
         }
       ]
     }
