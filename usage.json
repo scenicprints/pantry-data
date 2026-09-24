@@ -1189,14 +1189,14 @@
       "source": "manual"
     },
     {
-      "id": "1787359850302016-1787707512064-4",
+      "id": "1783468342307182-1787707512064-3",
       "ts": 1787707512064,
-      "item_id": "1787359850302016",
-      "name": "Peppers, bell, red, raw",
-      "amount": 69.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 133.0,
       "unit": "g",
-      "unit_price": 0.0062,
-      "cost": 0.43,
+      "unit_price": 0.0018,
+      "cost": 0.24,
       "source": "bodycomp"
     },
     {
@@ -1233,14 +1233,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1787707512064-3",
+      "id": "1787359850302016-1787707512064-4",
       "ts": 1787707512064,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 133.0,
+      "item_id": "1787359850302016",
+      "name": "Peppers, bell, red, raw",
+      "amount": 69.0,
       "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.24,
+      "unit_price": 0.0062,
+      "cost": 0.43,
       "source": "bodycomp"
     },
     {
@@ -1662,14 +1662,14 @@
       "source": "manual"
     },
     {
-      "id": "1787704460130745-1788913962763-3",
+      "id": "1783468342307182-1788913962763-1",
       "ts": 1788913962763,
-      "item_id": "1787704460130745",
-      "name": "Tomatoes, raw",
-      "amount": 289.0,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 168.0,
       "unit": "g",
-      "unit_price": 0.0065,
-      "cost": 1.88,
+      "unit_price": 0.0018,
+      "cost": 0.3,
       "source": "bodycomp"
     },
     {
@@ -1684,14 +1684,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1788913962763-1",
+      "id": "1787704460130745-1788913962763-3",
       "ts": 1788913962763,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 168.0,
+      "item_id": "1787704460130745",
+      "name": "Tomatoes, raw",
+      "amount": 289.0,
       "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.3,
+      "unit_price": 0.0065,
+      "cost": 1.88,
       "source": "bodycomp"
     },
     {
@@ -1926,17 +1926,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1789167956040243-1789355198977-4",
-      "ts": 1789355198977,
-      "item_id": "1789167956040243",
-      "name": "Gruyere Cheese (Emmi)",
-      "amount": 54.0,
-      "unit": "g",
-      "unit_price": 0.0892,
-      "cost": 4.82,
-      "source": "bodycomp"
-    },
-    {
       "id": "1786575236958341-1789355198977-2",
       "ts": 1789355198977,
       "item_id": "1786575236958341",
@@ -1945,6 +1934,17 @@
       "unit": "g",
       "unit_price": 0.0043,
       "cost": 0.92,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1789167956040243-1789355198977-4",
+      "ts": 1789355198977,
+      "item_id": "1789167956040243",
+      "name": "Gruyere Cheese (Emmi)",
+      "amount": 54.0,
+      "unit": "g",
+      "unit_price": 0.0892,
+      "cost": 4.82,
       "source": "bodycomp"
     },
     {
