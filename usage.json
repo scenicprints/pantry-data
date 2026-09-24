@@ -1200,14 +1200,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1787707512064-3",
+      "id": "1786751008525587-1787707512064-5",
       "ts": 1787707512064,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 133.0,
+      "item_id": "1786751008525587",
+      "name": "Gruyère",
+      "amount": 72.8,
       "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.24,
+      "unit_price": 0.0684,
+      "cost": 4.98,
       "source": "bodycomp"
     },
     {
@@ -1233,14 +1233,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786751008525587-1787707512064-5",
+      "id": "1783468342307182-1787707512064-3",
       "ts": 1787707512064,
-      "item_id": "1786751008525587",
-      "name": "Gruyère",
-      "amount": 72.8,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 133.0,
       "unit": "g",
-      "unit_price": 0.0684,
-      "cost": 4.98,
+      "unit_price": 0.0018,
+      "cost": 0.24,
       "source": "bodycomp"
     },
     {
@@ -1662,14 +1662,14 @@
       "source": "manual"
     },
     {
-      "id": "1788392582726771-1788913962763-4",
+      "id": "1787704460130745-1788913962763-3",
       "ts": 1788913962763,
-      "item_id": "1788392582726771",
-      "name": "Sunny Select Tomato Paste",
-      "amount": 32.0,
+      "item_id": "1787704460130745",
+      "name": "Tomatoes, raw",
+      "amount": 289.0,
       "unit": "g",
-      "unit_price": 0.0079,
-      "cost": 0.25,
+      "unit_price": 0.0065,
+      "cost": 1.88,
       "source": "bodycomp"
     },
     {
@@ -1695,14 +1695,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787704460130745-1788913962763-3",
+      "id": "1788392582726771-1788913962763-4",
       "ts": 1788913962763,
-      "item_id": "1787704460130745",
-      "name": "Tomatoes, raw",
-      "amount": 289.0,
+      "item_id": "1788392582726771",
+      "name": "Sunny Select Tomato Paste",
+      "amount": 32.0,
       "unit": "g",
-      "unit_price": 0.0065,
-      "cost": 1.88,
+      "unit_price": 0.0079,
+      "cost": 0.25,
       "source": "bodycomp"
     },
     {
