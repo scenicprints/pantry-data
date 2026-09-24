@@ -1,6 +1,136 @@
 {
-  "updated_at_ms": 1790215256084,
-  "meals": [],
+  "updated_at_ms": 1790282052425,
+  "meals": [
+    {
+      "createdAtMs": 1790282052095,
+      "servings": 2,
+      "checked": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "recipe": {
+        "title": "Hungarian Goulash with Chuck Tender Steak",
+        "description": "A deep red paprika broth gone silky around fall-apart cubes of beef, sweet peppers and baby potatoes. Slow simmered on the stove, finished with red wine vinegar and parsley — a bowl you eat with a spoon and nothing else.",
+        "ingredients": [
+          {
+            "item": "Chuck Tender Steak (Hormel) (new buy), trimmed of visible fat and cut into 3 cm cubes",
+            "amount": "360 g"
+          },
+          {
+            "item": "Extra Virgin Olive Oil (Sunny Select)",
+            "amount": "20 g"
+          },
+          {
+            "item": "Onions, white, halved and thinly sliced",
+            "amount": "250 g"
+          },
+          {
+            "item": "Minced California Garlic (Kirkland)",
+            "amount": "12 g"
+          },
+          {
+            "item": "Paprika (sweet)",
+            "amount": "2 tbsp"
+          },
+          {
+            "item": "Ground caraway (new buy)",
+            "amount": "1 tsp"
+          },
+          {
+            "item": "Tomatoes, raw, cored and roughly chopped",
+            "amount": "250 g"
+          },
+          {
+            "item": "Swanson beef broth (new buy)",
+            "amount": "500 g"
+          },
+          {
+            "item": "Baby potatoes (The Little Potato Co.), halved (quartered if larger than a walnut)",
+            "amount": "260 g"
+          },
+          {
+            "item": "Red bell pepper (new buy), seeded and cut into 2 cm strips",
+            "amount": "250 g"
+          },
+          {
+            "item": "Vinegar, red wine",
+            "amount": "10 g"
+          },
+          {
+            "item": "Parsley, fresh (new buy), chopped",
+            "amount": "10 g"
+          },
+          {
+            "item": "Salt",
+            "amount": "to taste"
+          },
+          {
+            "item": "Pepper",
+            "amount": "to taste"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Season the raw beef",
+            "content": "Pat the raw beef cubes dry with paper towel — wet meat steams instead of browning. Season them all over with salt and pepper. Pro tip: dry surface plus a hot pan is where the whole colour of this stew comes from.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Sear the beef in two batches",
+            "content": "Heat a heavy pot on the stove over high (8-9 of 10) with the olive oil, 20 g. Add half the beef in a single layer and leave it alone 2 minutes, then turn and give it 2 more, until deeply browned on two sides. Move it to a plate and sear the second half the same way. Don't crowd the pot — that's what makes it grey.",
+            "timerSeconds": 480
+          },
+          {
+            "title": "Soften the onions",
+            "content": "Drop the heat to medium (5 of 10). Add the sliced onions to the pot with a pinch of salt and cook 8 minutes, scraping the browned bits off the bottom as they release, until soft and golden at the edges.",
+            "timerSeconds": 480
+          },
+          {
+            "title": "Bloom the paprika",
+            "content": "Pull the pot OFF the heat. Stir in the garlic, 12 g, the paprika, 2 tbsp, and the ground caraway, 1 tsp, and stir for about 30 seconds in the residual heat. Pro tip: paprika scorches and turns bitter in seconds over a live flame — off the heat is not optional here.",
+            "timerSeconds": 30
+          },
+          {
+            "title": "Build the braise",
+            "content": "Return the pot to the stove over medium. Add the chopped tomatoes and the beef broth, 500 g, and scrape the bottom clean. Return the seared beef and any juices from the plate. Bring to a gentle simmer (3-4 of 10 — small bubbles, not a boil).",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Simmer the beef tender",
+            "content": "Cover and simmer at 3-4 for 75 minutes, stirring once or twice. The beef should be starting to give when pressed with a spoon.",
+            "timerSeconds": 4500
+          },
+          {
+            "title": "Add potatoes and peppers",
+            "content": "Stir in the halved potatoes and the pepper strips. Re-cover and simmer another 30 minutes, until the potatoes are fully tender and the beef pulls apart under a spoon.",
+            "timerSeconds": 1800
+          },
+          {
+            "title": "Thicken and finish",
+            "content": "Crush 3 or 4 potato halves against the side of the pot with the back of the spoon and stir — that starch is what turns the broth silky, no flour needed. Stir in the red wine vinegar, 10 g, then taste and correct the salt and pepper. Scatter the chopped parsley over the bowls at the table.",
+            "timerSeconds": 0
+          }
+        ],
+        "notes": "Per serving: protein ~39 g | calories ~535 | saturated fat ~5 g | added sugar 0 g | fiber ~9 g. New buys: chuck tender steak, red bell pepper, beef broth, fresh parsley, ground caraway (the caraway jar is the signature flavour of real goulash and keeps for a year). Storage: better on day two — cool and refrigerate up to 4 days; reheat on Steam in the Tovala or on the stove at 3-4, adding a splash of water if it has tightened. Freezes well for 3 months. Pro tips: cut the beef into even 3 cm cubes so they finish together; if you want it hands-off, do steps 1-5 in the morning, then move everything to the slow cooker on LOW 6 hours, adding potatoes and peppers for the last 90 minutes. Fatty liver: this is the classic dish, not a diet version — goulash was never made with butter or cream, so it only needed lean chuck tender instead of fatty chuck roast, a measured 20 g of olive oil, and potatoes and peppers doing half the plate. Vinegar at the end does what wine would have.",
+        "baseServings": 2,
+        "estCostTotal": 21.45,
+        "estCostPerServing": 10.73,
+        "estGroceryCost": 21.63
+      }
+    }
+  ],
   "removed": [
     1789407429117,
     1789483737715,
