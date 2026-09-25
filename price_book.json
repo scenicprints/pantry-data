@@ -672,6 +672,13 @@
       "unit_price": 0.0013,
       "unit": "g",
       "ts": 1790378988699
+    },
+    {
+      "name": "Sweet Relish (Best Yet)",
+      "barcode": "042187407838",
+      "unit_price": 0.0073,
+      "unit": "g",
+      "ts": 1790379011549
     }
   ]
 }
