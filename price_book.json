@@ -720,6 +720,13 @@
       "unit_price": 0.0062,
       "unit": "g",
       "ts": 1790379466042
+    },
+    {
+      "name": "Corn Starch (Best Yet)",
+      "barcode": "042187421285",
+      "unit_price": 0.0061,
+      "unit": "g",
+      "ts": 1790379493383
     }
   ]
 }
