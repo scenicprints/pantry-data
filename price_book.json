@@ -700,6 +700,13 @@
       "unit_price": 0.0173,
       "unit": "g",
       "ts": 1790379303544
+    },
+    {
+      "name": "BULGARIAN CULTURED BUTTERMILK (Crystal Creamery)",
+      "barcode": "070910002098",
+      "unit_price": 0.0082,
+      "unit": "g",
+      "ts": 1790379328799
     }
   ]
 }
