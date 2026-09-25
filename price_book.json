@@ -644,6 +644,13 @@
       "unit_price": 0.0009,
       "unit": "g",
       "ts": 1790378535203
+    },
+    {
+      "name": "Yellow Mustard (Heinz)",
+      "barcode": "013000000987",
+      "unit_price": 0.0019,
+      "unit": "g",
+      "ts": 1790378583413
     }
   ]
 }
