@@ -707,6 +707,13 @@
       "unit_price": 0.0082,
       "unit": "g",
       "ts": 1790379328799
+    },
+    {
+      "name": "Sour Cream (Daisy)",
+      "barcode": "073420000110",
+      "unit_price": 0.006,
+      "unit": "g",
+      "ts": 1790379370261
     }
   ]
 }
