@@ -623,6 +623,13 @@
       "unit_price": 0.0027,
       "unit": "g",
       "ts": 1790378277077
+    },
+    {
+      "name": "Sweet Onion (Bland Farms)",
+      "barcode": "717311002073",
+      "unit_price": 0.0051,
+      "unit": "g",
+      "ts": 1790378309094
     }
   ]
 }
