@@ -714,6 +714,12 @@
       "unit_price": 0.006,
       "unit": "g",
       "ts": 1790379370261
+    },
+    {
+      "name": "Onions, yellow, raw",
+      "unit_price": 0.0062,
+      "unit": "g",
+      "ts": 1790379434417
     }
   ]
 }
