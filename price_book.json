@@ -651,6 +651,13 @@
       "unit_price": 0.0019,
       "unit": "g",
       "ts": 1790378610723
+    },
+    {
+      "name": "Classic Mayo (Chosen Foods)",
+      "barcode": "815074022809",
+      "unit_price": 0.0051,
+      "unit": "g",
+      "ts": 1790378636043
     }
   ]
 }
