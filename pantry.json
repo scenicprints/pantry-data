@@ -277,6 +277,21 @@
       "price_per_gram": 0.0038
     },
     {
+      "id": "1790035086291600",
+      "name": "Baby potatoes (The Little Potato Co.)",
+      "barcode": "629307042546",
+      "price": 0.0,
+      "expiring_soon": false,
+      "date_added": "2026-09-21",
+      "last_price": 0.0,
+      "updated_at_ms": 1790035086291,
+      "category": "Pantry",
+      "quantity_unknown": true,
+      "total_weight_g": 0.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0
+    },
+    {
       "id": "1788306149249766",
       "name": "baby spring mix (organic girl)",
       "barcode": "895203001172",
@@ -802,34 +817,6 @@
       "price_per_gram": 0.0044
     },
     {
-      "id": "1784845982169213",
-      "name": "Chicken Broth (Swanson)",
-      "barcode": "051000024299",
-      "price": 1.89,
-      "serving_size": 411.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 4.0,
-        "calories": 20.0,
-        "carbs_g": 1.0,
-        "fat_g": 0.0
-      },
-      "macros_per_100g": {
-        "protein_g": 1.0,
-        "calories": 4.9,
-        "carbs_g": 0.2,
-        "fat_g": 0.0
-      },
-      "expiring_soon": false,
-      "date_added": "2026-07-23",
-      "last_price": 1.89,
-      "updated_at_ms": 1784853937558,
-      "category": "Pantry",
-      "total_weight_g": 411.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0046
-    },
-    {
       "id": "1787187025693813",
       "name": "Chicken Broth (Swanson)",
       "barcode": "051000224637",
@@ -856,6 +843,34 @@
       "total_weight_g": 960.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0052
+    },
+    {
+      "id": "1784845982169213",
+      "name": "Chicken Broth (Swanson)",
+      "barcode": "051000024299",
+      "price": 1.89,
+      "serving_size": 411.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 4.0,
+        "calories": 20.0,
+        "carbs_g": 1.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 1.0,
+        "calories": 4.9,
+        "carbs_g": 0.2,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-07-23",
+      "last_price": 1.89,
+      "updated_at_ms": 1784853937558,
+      "category": "Pantry",
+      "total_weight_g": 411.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0046
     },
     {
       "id": "1784161678917270",
@@ -2641,6 +2656,33 @@
       "price_per_gram": 0.0
     },
     {
+      "id": "1787186860697456",
+      "name": "Spices, oregano, dried",
+      "price": 3.99,
+      "serving_size": 100.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 9.0,
+        "calories": 265.0,
+        "carbs_g": 68.9,
+        "fat_g": 4.3
+      },
+      "macros_per_100g": {
+        "protein_g": 9.0,
+        "calories": 265.0,
+        "carbs_g": 68.9,
+        "fat_g": 4.3
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-19",
+      "last_price": 3.99,
+      "updated_at_ms": 1787188750849,
+      "category": "Pantry",
+      "total_weight_g": 7.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.57
+    },
+    {
       "id": "1788215163940188",
       "name": "Spices, oregano, dried",
       "price": 3.99,
@@ -2680,33 +2722,6 @@
       "total_weight_g": 0.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0
-    },
-    {
-      "id": "1787186860697456",
-      "name": "Spices, oregano, dried",
-      "price": 3.99,
-      "serving_size": 100.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 9.0,
-        "calories": 265.0,
-        "carbs_g": 68.9,
-        "fat_g": 4.3
-      },
-      "macros_per_100g": {
-        "protein_g": 9.0,
-        "calories": 265.0,
-        "carbs_g": 68.9,
-        "fat_g": 4.3
-      },
-      "expiring_soon": false,
-      "date_added": "2026-08-19",
-      "last_price": 3.99,
-      "updated_at_ms": 1787188750849,
-      "category": "Pantry",
-      "total_weight_g": 7.0,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.57
     },
     {
       "id": "1786750879286074",
@@ -3099,34 +3114,6 @@
       "price_per_gram": 0.0104
     },
     {
-      "id": "1786575354324192",
-      "name": "Tomato Sauce (Hunt's)",
-      "barcode": "027000390146",
-      "price": 3.29,
-      "serving_size": 62.0,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 0.5,
-        "calories": 20.0,
-        "carbs_g": 4.0,
-        "fat_g": 0.0
-      },
-      "macros_per_100g": {
-        "protein_g": 0.8,
-        "calories": 32.3,
-        "carbs_g": 6.5,
-        "fat_g": 0.0
-      },
-      "expiring_soon": false,
-      "date_added": "2026-08-12",
-      "last_price": 3.29,
-      "updated_at_ms": 1788398595075,
-      "category": "Pantry",
-      "total_weight_g": 427.8,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0077
-    },
-    {
       "id": "1788392607255250",
       "name": "Tomato Sauce (Hunt's)",
       "barcode": "027000390146",
@@ -3153,6 +3140,34 @@
       "total_weight_g": 434.0,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0076
+    },
+    {
+      "id": "1786575354324192",
+      "name": "Tomato Sauce (Hunt's)",
+      "barcode": "027000390146",
+      "price": 3.29,
+      "serving_size": 62.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 0.5,
+        "calories": 20.0,
+        "carbs_g": 4.0,
+        "fat_g": 0.0
+      },
+      "macros_per_100g": {
+        "protein_g": 0.8,
+        "calories": 32.3,
+        "carbs_g": 6.5,
+        "fat_g": 0.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-12",
+      "last_price": 3.29,
+      "updated_at_ms": 1788398595075,
+      "category": "Pantry",
+      "total_weight_g": 427.8,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0077
     },
     {
       "id": "1786575483288052",
