@@ -727,6 +727,13 @@
       "unit_price": 0.0061,
       "unit": "g",
       "ts": 1790379517995
+    },
+    {
+      "name": "Farm Fresh Milk (Crystal)",
+      "barcode": "070910000148",
+      "unit_price": 0.0017,
+      "unit": "g",
+      "ts": 1790379564253
     }
   ]
 }
