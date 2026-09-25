@@ -665,6 +665,13 @@
       "unit_price": 0.0018,
       "unit": "g",
       "ts": 1790378925995
+    },
+    {
+      "name": "Premium Sized Russet Potatoes (Cream of the Crop)",
+      "barcode": "033383530505",
+      "unit_price": 0.0013,
+      "unit": "g",
+      "ts": 1790378935640
     }
   ]
 }
