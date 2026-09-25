@@ -658,6 +658,13 @@
       "unit_price": 0.0051,
       "unit": "g",
       "ts": 1790378750487
+    },
+    {
+      "name": "Hamburger Buns (Bimbo)",
+      "barcode": "074323737851",
+      "unit_price": 0.0018,
+      "unit": "g",
+      "ts": 1790378788414
     }
   ]
 }
