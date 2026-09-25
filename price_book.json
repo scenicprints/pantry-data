@@ -686,6 +686,13 @@
       "unit_price": 0.0137,
       "unit": "g",
       "ts": 1790379072883
+    },
+    {
+      "name": "Unsalted Butter (Crystal Creamery)",
+      "barcode": "070910003019",
+      "unit_price": 0.0016,
+      "unit": "g",
+      "ts": 1790379116370
     }
   ]
 }
