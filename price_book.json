@@ -693,6 +693,13 @@
       "unit_price": 0.0016,
       "unit": "g",
       "ts": 1790379205271
+    },
+    {
+      "name": "Baking Powder (Clabber Girl)",
+      "barcode": "019900003202",
+      "unit_price": 0.0173,
+      "unit": "g",
+      "ts": 1790379221249
     }
   ]
 }
