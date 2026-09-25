@@ -679,6 +679,13 @@
       "unit_price": 0.0073,
       "unit": "g",
       "ts": 1790379023173
+    },
+    {
+      "name": "Sandwich Dill Chips (vlasic)",
+      "barcode": "054100117502",
+      "unit_price": 0.0137,
+      "unit": "g",
+      "ts": 1790379072883
     }
   ]
 }
