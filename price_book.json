@@ -630,6 +630,13 @@
       "unit_price": 0.0051,
       "unit": "g",
       "ts": 1790378338611
+    },
+    {
+      "name": "MEDIUM CHEDDAR (Tillamook)",
+      "barcode": "072830006118",
+      "unit_price": 0.0101,
+      "unit": "g",
+      "ts": 1790378372789
     }
   ]
 }
