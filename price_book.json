@@ -616,6 +616,13 @@
       "unit_price": 0.0061,
       "unit": "g",
       "ts": 1790378197555
+    },
+    {
+      "name": "Canola Oil (Kirkland)",
+      "barcode": "096619710102",
+      "unit_price": 0.0027,
+      "unit": "g",
+      "ts": 1790378233049
     }
   ]
 }
