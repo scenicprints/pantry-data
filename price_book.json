@@ -637,6 +637,13 @@
       "unit_price": 0.0101,
       "unit": "g",
       "ts": 1790378440808
+    },
+    {
+      "name": "Tomato Ketchup Simply (Heinz)",
+      "barcode": "013000004640",
+      "unit_price": 0.0009,
+      "unit": "g",
+      "ts": 1790378461188
     }
   ]
 }
