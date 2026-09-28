@@ -980,14 +980,14 @@
       "source": "manual"
     },
     {
-      "id": "1787622383319300-1787625077301-1",
+      "id": "1787186767028298-1787625077301-9",
       "ts": 1787625077301,
-      "item_id": "1787622383319300",
-      "name": "Lemon, raw",
-      "amount": 62.8,
+      "item_id": "1787186767028298",
+      "name": "Chicken Breast Fillets (Co-op)",
+      "amount": 409.0,
       "unit": "g",
-      "unit_price": 0.0067,
-      "cost": 0.42,
+      "unit_price": 0.0125,
+      "cost": 5.11,
       "source": "bodycomp"
     },
     {
@@ -1002,14 +1002,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787186767028298-1787625077301-9",
+      "id": "1787622383319300-1787625077301-1",
       "ts": 1787625077301,
-      "item_id": "1787186767028298",
-      "name": "Chicken Breast Fillets (Co-op)",
-      "amount": 409.0,
+      "item_id": "1787622383319300",
+      "name": "Lemon, raw",
+      "amount": 62.8,
       "unit": "g",
-      "unit_price": 0.0125,
-      "cost": 5.11,
+      "unit_price": 0.0067,
+      "cost": 0.42,
       "source": "bodycomp"
     },
     {
@@ -1475,14 +1475,14 @@
       "source": "manual"
     },
     {
-      "id": "1786575325801012-1788397789664-3",
+      "id": "1786144321746508-1788397789664-2",
       "ts": 1788397789664,
-      "item_id": "1786575325801012",
-      "name": "Parmesan Freshly Grated (BelGioioso)",
-      "amount": 32.0,
+      "item_id": "1786144321746508",
+      "name": "Egg (Costco)",
+      "amount": 51.0,
       "unit": "g",
-      "unit_price": 0.0478,
-      "cost": 1.53,
+      "unit_price": 0.0024,
+      "cost": 0.12,
       "source": "bodycomp"
     },
     {
@@ -1508,14 +1508,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786144321746508-1788397789664-2",
+      "id": "1786575325801012-1788397789664-3",
       "ts": 1788397789664,
-      "item_id": "1786144321746508",
-      "name": "Egg (Costco)",
-      "amount": 51.0,
+      "item_id": "1786575325801012",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 32.0,
       "unit": "g",
-      "unit_price": 0.0024,
-      "cost": 0.12,
+      "unit_price": 0.0478,
+      "cost": 1.53,
       "source": "bodycomp"
     },
     {
@@ -1717,14 +1717,14 @@
       "source": "manual"
     },
     {
-      "id": "1786153214153587-1789001405434-8",
+      "id": "1788392881186362-1789001405434-6",
       "ts": 1789001405434,
-      "item_id": "1786153214153587",
-      "name": "No Sugar Added Ketchup (Sunny select)",
-      "amount": 100.0,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 464.0,
       "unit": "g",
-      "unit_price": 0.0104,
-      "cost": 1.04,
+      "unit_price": 0.0036,
+      "cost": 1.67,
       "source": "bodycomp"
     },
     {
@@ -1761,14 +1761,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788392881186362-1789001405434-6",
+      "id": "1786153214153587-1789001405434-8",
       "ts": 1789001405434,
-      "item_id": "1788392881186362",
-      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
-      "amount": 464.0,
+      "item_id": "1786153214153587",
+      "name": "No Sugar Added Ketchup (Sunny select)",
+      "amount": 100.0,
       "unit": "g",
-      "unit_price": 0.0036,
-      "cost": 1.67,
+      "unit_price": 0.0104,
+      "cost": 1.04,
       "source": "bodycomp"
     },
     {
@@ -2221,6 +2221,17 @@
       "unit_price": 0.0446,
       "cost": 1.96,
       "source": "bodycomp"
+    },
+    {
+      "id": "1790200566163848-1790565186683",
+      "ts": 1790565186683,
+      "item_id": "1790200566163848",
+      "name": "Baby potatoes (The Little Potato Co.)",
+      "amount": 1320.0,
+      "unit": "g",
+      "unit_price": 0.0038,
+      "cost": 4.99,
+      "source": "manual"
     }
   ]
 }
