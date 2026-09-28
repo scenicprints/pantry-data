@@ -734,6 +734,13 @@
       "unit_price": 0.0017,
       "unit": "g",
       "ts": 1790635237543
+    },
+    {
+      "name": "Garbanzos Chick Peas (S&W)",
+      "barcode": "072273393134",
+      "unit_price": 0.0061,
+      "unit": "g",
+      "ts": 1790635248636
     }
   ]
 }
