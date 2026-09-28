@@ -980,14 +980,14 @@
       "source": "manual"
     },
     {
-      "id": "1787622383319300-1787625077301-1",
+      "id": "1787186767028298-1787625077301-9",
       "ts": 1787625077301,
-      "item_id": "1787622383319300",
-      "name": "Lemon, raw",
-      "amount": 62.8,
+      "item_id": "1787186767028298",
+      "name": "Chicken Breast Fillets (Co-op)",
+      "amount": 409.0,
       "unit": "g",
-      "unit_price": 0.0067,
-      "cost": 0.42,
+      "unit_price": 0.0125,
+      "cost": 5.11,
       "source": "bodycomp"
     },
     {
@@ -1002,14 +1002,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787186767028298-1787625077301-9",
+      "id": "1787622383319300-1787625077301-1",
       "ts": 1787625077301,
-      "item_id": "1787186767028298",
-      "name": "Chicken Breast Fillets (Co-op)",
-      "amount": 409.0,
+      "item_id": "1787622383319300",
+      "name": "Lemon, raw",
+      "amount": 62.8,
       "unit": "g",
-      "unit_price": 0.0125,
-      "cost": 5.11,
+      "unit_price": 0.0067,
+      "cost": 0.42,
       "source": "bodycomp"
     },
     {
@@ -1497,17 +1497,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788306258606929-1788397789664-5",
-      "ts": 1788397789664,
-      "item_id": "1788306258606929",
-      "name": "Squash, summer, green, zucchini, includes skin, raw",
-      "amount": 211.0,
-      "unit": "g",
-      "unit_price": 0.0021,
-      "cost": 0.44,
-      "source": "bodycomp"
-    },
-    {
       "id": "1788392881186362-1788397789664-1",
       "ts": 1788397789664,
       "item_id": "1788392881186362",
@@ -1516,6 +1505,17 @@
       "unit": "g",
       "unit_price": 0.0145,
       "cost": 6.76,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788306258606929-1788397789664-5",
+      "ts": 1788397789664,
+      "item_id": "1788306258606929",
+      "name": "Squash, summer, green, zucchini, includes skin, raw",
+      "amount": 211.0,
+      "unit": "g",
+      "unit_price": 0.0021,
+      "cost": 0.44,
       "source": "bodycomp"
     },
     {
@@ -1717,14 +1717,14 @@
       "source": "manual"
     },
     {
-      "id": "1788306202772940-1789001405434-3",
+      "id": "1786153214153587-1789001405434-8",
       "ts": 1789001405434,
-      "item_id": "1788306202772940",
-      "name": "Onions, white, raw",
-      "amount": 168.0,
+      "item_id": "1786153214153587",
+      "name": "No Sugar Added Ketchup (Sunny select)",
+      "amount": 100.0,
       "unit": "g",
-      "unit_price": 0.0024,
-      "cost": 0.4,
+      "unit_price": 0.0104,
+      "cost": 1.04,
       "source": "bodycomp"
     },
     {
@@ -1761,14 +1761,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786153214153587-1789001405434-8",
+      "id": "1788306202772940-1789001405434-3",
       "ts": 1789001405434,
-      "item_id": "1786153214153587",
-      "name": "No Sugar Added Ketchup (Sunny select)",
-      "amount": 100.0,
+      "item_id": "1788306202772940",
+      "name": "Onions, white, raw",
+      "amount": 168.0,
       "unit": "g",
-      "unit_price": 0.0104,
-      "cost": 1.04,
+      "unit_price": 0.0024,
+      "cost": 0.4,
       "source": "bodycomp"
     },
     {
@@ -2242,6 +2242,17 @@
       "unit": "g",
       "unit_price": 0.0082,
       "cost": 3.29,
+      "source": "manual"
+    },
+    {
+      "id": "1790379370256410-1790565270216",
+      "ts": 1790565270216,
+      "item_id": "1790379370256410",
+      "name": "Sour Cream (Daisy)",
+      "amount": 450.0,
+      "unit": "g",
+      "unit_price": 0.006,
+      "cost": 2.69,
       "source": "manual"
     }
   ]
