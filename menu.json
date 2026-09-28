@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1790282136523,
+  "updated_at_ms": 1790620733887,
   "meals": [
     {
       "createdAtMs": 1790282052095,
@@ -17,8 +17,8 @@
         false,
         true,
         true,
-        false,
-        false
+        true,
+        true
       ],
       "recipe": {
         "title": "Hungarian Goulash with Chuck Tender Steak",
@@ -128,6 +128,140 @@
         "estCostTotal": 21.45,
         "estCostPerServing": 10.73,
         "estGroceryCost": 21.63
+      }
+    },
+    {
+      "createdAtMs": 1790620733537,
+      "servings": 3,
+      "checked": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "recipe": {
+        "title": "Moroccan Lamb & Chickpea Stew",
+        "description": "Lean lamb leg braised until it gives way, in a cumin-and-cinnamon tomato broth with sweet carrots and chickpeas. It reduces down thick enough to coat the spoon, then gets a fistful of fresh cilantro and a hard squeeze of lime right at the table. Serves 3.",
+        "ingredients": [
+          {
+            "item": "Boneless lamb leg, trimmed of all visible fat and cut into 2.5 cm cubes (new buy)",
+            "amount": "450 g"
+          },
+          {
+            "item": "Extra virgin olive oil (Sunny Select)",
+            "amount": "25 g"
+          },
+          {
+            "item": "Yellow onion, diced",
+            "amount": "180 g"
+          },
+          {
+            "item": "Carrots, peeled and cut into 2 cm chunks (new buy)",
+            "amount": "300 g"
+          },
+          {
+            "item": "Minced California garlic (Kirkland)",
+            "amount": "18 g"
+          },
+          {
+            "item": "Ground cumin (new buy)",
+            "amount": "2 tsp"
+          },
+          {
+            "item": "Ground cinnamon (new buy)",
+            "amount": "3/4 tsp"
+          },
+          {
+            "item": "Paprika",
+            "amount": "1 tsp"
+          },
+          {
+            "item": "Tomato paste (new buy)",
+            "amount": "70 g"
+          },
+          {
+            "item": "Tomatoes, raw, cored and roughly chopped",
+            "amount": "300 g"
+          },
+          {
+            "item": "Chicken broth (new buy)",
+            "amount": "600 g"
+          },
+          {
+            "item": "Canned chickpeas, drained and rinsed (new buy)",
+            "amount": "480 g drained"
+          },
+          {
+            "item": "Fresh cilantro, leaves and tender stems, roughly chopped (new buy)",
+            "amount": "20 g"
+          },
+          {
+            "item": "Lime, cut into wedges",
+            "amount": "1"
+          },
+          {
+            "item": "Salt",
+            "amount": "to taste"
+          },
+          {
+            "item": "Pepper",
+            "amount": "to taste"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Season the raw lamb",
+            "content": "Pat the raw lamb cubes dry with paper towel and season them all over with salt and pepper. Dry meat is the whole difference between a sear and a steam.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Sear the lamb in batches",
+            "content": "Heat 15 g of the olive oil in a heavy pot over high heat (8-9) until it shimmers. Sear the lamb in two batches, about 4 minutes per batch, turning the cubes once they release from the pot, until deeply browned on two sides. Don't crowd the pot. Move the seared lamb to a plate — it is still raw in the middle and finishes in the braise.",
+            "timerSeconds": 480
+          },
+          {
+            "title": "Soften the onion and carrot",
+            "content": "Turn the heat down to medium (5) and add the remaining 10 g olive oil. Add the diced onion and the carrot chunks and cook 6-7 minutes, stirring and scraping up the browned bits from the bottom, until the onion is translucent and the pot is deglazed by the vegetable moisture.",
+            "timerSeconds": 400
+          },
+          {
+            "title": "Bloom the spices and paste",
+            "content": "Add the minced garlic, cumin, cinnamon and paprika and stir for 45 seconds until fragrant. Add the tomato paste and cook it another 1-2 minutes, stirring constantly, until it darkens to a brick red — that's where the depth comes from.",
+            "timerSeconds": 120
+          },
+          {
+            "title": "Build the braise",
+            "content": "Add the chopped tomatoes and the chicken broth, then return the lamb and any juices from the plate. Stir, bring to a boil over high heat, then drop to a simmer (3-4 on the dial — small bubbles, never a rolling boil). Cover and cook 90 minutes, stirring every 30 minutes, until the lamb is fork-tender.",
+            "timerSeconds": 5400
+          },
+          {
+            "title": "Add chickpeas and thicken",
+            "content": "Stir in the drained chickpeas. Uncover, raise to a strong simmer (4-5) and cook 15-20 minutes, stirring now and then, until the broth reduces and coats the back of a spoon. Crush a few chickpeas against the side of the pot with your spoon to thicken it further.",
+            "timerSeconds": 1080
+          },
+          {
+            "title": "Finish with cilantro and lime",
+            "content": "Off the heat, taste and adjust salt and pepper. Stir in half the chopped cilantro, scatter the rest over the top, and serve with the lime wedges to squeeze over each bowl. The acid at the end wakes the whole pot up — don't skip it.",
+            "timerSeconds": 0
+          }
+        ],
+        "notes": "Per serving: ~43 g protein, ~570 calories, ~5 g saturated fat, 0 g added sugar, ~13 g fiber. New buys: lamb leg, carrots, tomato paste, chicken broth, canned chickpeas, fresh cilantro, ground cumin, ground cinnamon (the spices are long-life jars you'll use again). Everything else came from your shelf — onion, tomatoes, garlic, olive oil, paprika, lime. Storage: it's better on day two; keeps 4 days covered in the fridge and freezes well for 3 months. Reheat in the Tovala on Steam for 8-10 minutes so the lamb stays tender instead of drying out in the microwave. Pro tips: buy leg rather than shoulder and trim it hard — shoulder carries the fat that would blow the saturated fat budget. If you'd rather come home to it, do the sear and the spice/paste step on the stove, then move everything to the slow cooker on LOW for 6 hours and add the chickpeas for the last 30 minutes with the lid off. Fatty liver: this is the classic tagine minus the butter, the honey and the dried fruit — the sweetness comes from carrots and cooked-down onion instead, the fat is 25 g of measured olive oil, and the chickpeas carry the fiber so no bread or couscous is needed to make it a full dinner.",
+        "baseServings": 3,
+        "estCostTotal": 21.86,
+        "estCostPerServing": 7.29,
+        "estGroceryCost": 27.31
       }
     }
   ],
