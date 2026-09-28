@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1790619011801,
+  "updated_at_ms": 1790625233862,
   "model": "opus",
   "equipment": [
     "Air fryer",
@@ -12,7 +12,8 @@
     "Slow cooker (Crock-Pot)",
     "Blender",
     "Microwave",
-    "Griddle / flat top"
+    "Griddle / flat top",
+    "Mandolin"
   ],
   "avoids": [
     "Pork",
