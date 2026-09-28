@@ -980,14 +980,14 @@
       "source": "manual"
     },
     {
-      "id": "1787186767028298-1787625077301-9",
+      "id": "1787622383319300-1787625077301-1",
       "ts": 1787625077301,
-      "item_id": "1787186767028298",
-      "name": "Chicken Breast Fillets (Co-op)",
-      "amount": 409.0,
+      "item_id": "1787622383319300",
+      "name": "Lemon, raw",
+      "amount": 62.8,
       "unit": "g",
-      "unit_price": 0.0125,
-      "cost": 5.11,
+      "unit_price": 0.0067,
+      "cost": 0.42,
       "source": "bodycomp"
     },
     {
@@ -1002,14 +1002,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622383319300-1787625077301-1",
+      "id": "1787186767028298-1787625077301-9",
       "ts": 1787625077301,
-      "item_id": "1787622383319300",
-      "name": "Lemon, raw",
-      "amount": 62.8,
+      "item_id": "1787186767028298",
+      "name": "Chicken Breast Fillets (Co-op)",
+      "amount": 409.0,
       "unit": "g",
-      "unit_price": 0.0067,
-      "cost": 0.42,
+      "unit_price": 0.0125,
+      "cost": 5.11,
       "source": "bodycomp"
     },
     {
@@ -1486,14 +1486,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788392881186362-1788397789664-1",
+      "id": "1786575325801012-1788397789664-3",
       "ts": 1788397789664,
-      "item_id": "1788392881186362",
-      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
-      "amount": 466.0,
+      "item_id": "1786575325801012",
+      "name": "Parmesan Freshly Grated (BelGioioso)",
+      "amount": 32.0,
       "unit": "g",
-      "unit_price": 0.0145,
-      "cost": 6.76,
+      "unit_price": 0.0478,
+      "cost": 1.53,
       "source": "bodycomp"
     },
     {
@@ -1508,14 +1508,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786575325801012-1788397789664-3",
+      "id": "1788392881186362-1788397789664-1",
       "ts": 1788397789664,
-      "item_id": "1786575325801012",
-      "name": "Parmesan Freshly Grated (BelGioioso)",
-      "amount": 32.0,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 466.0,
       "unit": "g",
-      "unit_price": 0.0478,
-      "cost": 1.53,
+      "unit_price": 0.0145,
+      "cost": 6.76,
       "source": "bodycomp"
     },
     {
@@ -1717,14 +1717,14 @@
       "source": "manual"
     },
     {
-      "id": "1788392881186362-1789001405434-6",
+      "id": "1788306202772940-1789001405434-3",
       "ts": 1789001405434,
-      "item_id": "1788392881186362",
-      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
-      "amount": 464.0,
+      "item_id": "1788306202772940",
+      "name": "Onions, white, raw",
+      "amount": 168.0,
       "unit": "g",
-      "unit_price": 0.0036,
-      "cost": 1.67,
+      "unit_price": 0.0024,
+      "cost": 0.4,
       "source": "bodycomp"
     },
     {
@@ -1750,14 +1750,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788306202772940-1789001405434-3",
+      "id": "1788392881186362-1789001405434-6",
       "ts": 1789001405434,
-      "item_id": "1788306202772940",
-      "name": "Onions, white, raw",
-      "amount": 168.0,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 464.0,
       "unit": "g",
-      "unit_price": 0.0024,
-      "cost": 0.4,
+      "unit_price": 0.0036,
+      "cost": 1.67,
       "source": "bodycomp"
     },
     {
@@ -2231,6 +2231,17 @@
       "unit": "g",
       "unit_price": 0.0038,
       "cost": 4.99,
+      "source": "manual"
+    },
+    {
+      "id": "1790379328793755-1790565206264",
+      "ts": 1790565206264,
+      "item_id": "1790379328793755",
+      "name": "BULGARIAN CULTURED BUTTERMILK (Crystal Creamery)",
+      "amount": 400.0,
+      "unit": "g",
+      "unit_price": 0.0082,
+      "cost": 3.29,
       "source": "manual"
     }
   ]
