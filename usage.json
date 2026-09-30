@@ -980,14 +980,14 @@
       "source": "manual"
     },
     {
-      "id": "1787274147117817-1787625077301-8",
+      "id": "1787622383319300-1787625077301-1",
       "ts": 1787625077301,
-      "item_id": "1787274147117817",
-      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
-      "amount": 39.4,
+      "item_id": "1787622383319300",
+      "name": "Lemon, raw",
+      "amount": 62.8,
       "unit": "g",
-      "unit_price": 0.0178,
-      "cost": 0.7,
+      "unit_price": 0.0067,
+      "cost": 0.42,
       "source": "bodycomp"
     },
     {
@@ -1024,14 +1024,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787622383319300-1787625077301-1",
+      "id": "1787274147117817-1787625077301-8",
       "ts": 1787625077301,
-      "item_id": "1787622383319300",
-      "name": "Lemon, raw",
-      "amount": 62.8,
+      "item_id": "1787274147117817",
+      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
+      "amount": 39.4,
       "unit": "g",
-      "unit_price": 0.0067,
-      "cost": 0.42,
+      "unit_price": 0.0178,
+      "cost": 0.7,
       "source": "bodycomp"
     },
     {
@@ -1519,17 +1519,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788392582726771-1788398595075-3",
-      "ts": 1788398595075,
-      "item_id": "1788392582726771",
-      "name": "Sunny Select Tomato Paste",
-      "amount": 42.8,
-      "unit": "g",
-      "unit_price": 0.0078,
-      "cost": 0.33,
-      "source": "bodycomp"
-    },
-    {
       "id": "1783468342307182-1788398595075-1",
       "ts": 1788398595075,
       "item_id": "1783468342307182",
@@ -1538,6 +1527,17 @@
       "unit": "g",
       "unit_price": 0.0018,
       "cost": 0.3,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788392582726771-1788398595075-3",
+      "ts": 1788398595075,
+      "item_id": "1788392582726771",
+      "name": "Sunny Select Tomato Paste",
+      "amount": 42.8,
+      "unit": "g",
+      "unit_price": 0.0078,
+      "cost": 0.33,
       "source": "bodycomp"
     },
     {
