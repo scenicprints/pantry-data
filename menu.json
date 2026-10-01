@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1790821579305,
+  "updated_at_ms": 1790877367242,
   "meals": [
     {
       "createdAtMs": 1790282052095,
@@ -128,6 +128,160 @@
         "estCostTotal": 21.45,
         "estCostPerServing": 10.73,
         "estGroceryCost": 21.63
+      }
+    },
+    {
+      "createdAtMs": 1790877366739,
+      "servings": 3,
+      "checked": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "recipe": {
+        "title": "Turkey Keftedes Meatballs in Fresh Tomato Sauce over Brown Rice",
+        "description": "Oregano-and-onion turkey meatballs browned then simmered in a bright scratch tomato sauce, spooned over nutty brown rice with a scatter of fresh cilantro.",
+        "ingredients": [
+          {
+            "item": "Brown whole grain rice (Mahatma)",
+            "amount": "165 g"
+          },
+          {
+            "item": "Water (for rice)",
+            "amount": "360 g"
+          },
+          {
+            "item": "Extra lean ground turkey breast (Jennie-O 1%) (new buy)",
+            "amount": "450 g"
+          },
+          {
+            "item": "Egg",
+            "amount": "1"
+          },
+          {
+            "item": "Whole wheat panko (new buy)",
+            "amount": "45 g"
+          },
+          {
+            "item": "Yellow onion, grated (for meatballs)",
+            "amount": "60 g"
+          },
+          {
+            "item": "Yellow onion, finely chopped (for sauce)",
+            "amount": "120 g"
+          },
+          {
+            "item": "Minced garlic (for meatballs)",
+            "amount": "10 g"
+          },
+          {
+            "item": "Minced garlic (for sauce)",
+            "amount": "12 g"
+          },
+          {
+            "item": "Tomatoes, raw, coarsely grated or chopped",
+            "amount": "850 g"
+          },
+          {
+            "item": "Tomato paste (Sunny Select)",
+            "amount": "30 g"
+          },
+          {
+            "item": "Red wine vinegar",
+            "amount": "10 g"
+          },
+          {
+            "item": "Extra virgin olive oil (for browning meatballs)",
+            "amount": "10 g"
+          },
+          {
+            "item": "Extra virgin olive oil (for sauce)",
+            "amount": "15 g"
+          },
+          {
+            "item": "Extra virgin olive oil (for rice)",
+            "amount": "5 g"
+          },
+          {
+            "item": "Cilantro, raw, chopped",
+            "amount": "30 g"
+          },
+          {
+            "item": "Dried oregano",
+            "amount": "2.5 tsp total (1.5 tsp meatballs, 1 tsp sauce)"
+          },
+          {
+            "item": "Salt",
+            "amount": "to taste"
+          },
+          {
+            "item": "Pepper",
+            "amount": "to taste"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Start the rice",
+            "content": "Rinse the brown rice, add it to the rice cooker with 360 g water, the 5 g olive oil and a pinch of salt. Start it on the standard/brown setting — it takes the longest (about 40-45 min), so get it going before anything else.",
+            "timerSeconds": 2700
+          },
+          {
+            "title": "Mix the meatballs",
+            "content": "In a bowl combine the RAW ground turkey breast, egg, whole wheat panko, the 60 g grated onion, 10 g garlic, 1.5 tsp oregano, and salt and pepper to taste. Mix with your hands just until combined — don't overwork it. Roll into about 15 even balls (roughly golf-ball size).",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Brown the meatballs",
+            "content": "Heat 10 g olive oil in a large skillet over medium-high. Add the meatballs and sear, turning, for about 6-7 minutes until browned on all sides. They don't need to cook through here — they finish in the sauce. Lift them out to a plate.",
+            "timerSeconds": 420
+          },
+          {
+            "title": "Build the sauce base",
+            "content": "Lower the heat to medium, add the 15 g olive oil and the 120 g chopped onion to the same skillet. Cook 4-5 minutes until soft, then stir in the 12 g garlic and 1 tsp oregano and cook 30 seconds until fragrant.",
+            "timerSeconds": 300
+          },
+          {
+            "title": "Make the tomato sauce",
+            "content": "Stir in the tomato paste and cook 1 minute to deepen it, then add the grated tomatoes. Season with salt and pepper, bring to a gentle bubble, then drop to a simmer (3-4 on the dial) and let it cook 10 minutes to thicken and sweeten.",
+            "timerSeconds": 600
+          },
+          {
+            "title": "Simmer the meatballs through",
+            "content": "Nestle the meatballs back into the sauce along with any resting juices. Cover loosely and simmer 12-14 minutes, spooning sauce over them once or twice, until cooked through (no pink in the center).",
+            "timerSeconds": 840
+          },
+          {
+            "title": "Finish with acid",
+            "content": "Stir the 10 g red wine vinegar into the sauce off the heat and taste for salt and pepper. The vinegar brightens the whole pan — don't skip it.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Plate it up",
+            "content": "Fluff the rice and fold in about a third of the chopped cilantro. Spoon rice onto each plate, top with meatballs and plenty of sauce, and scatter the remaining cilantro over the top.",
+            "timerSeconds": 0
+          }
+        ],
+        "notes": "Per serving (of 3): ~36 g protein, ~540 cal, ~3 g saturated fat, ~3 g added sugar (none added — trace from tomato paste), ~8 g fiber. New buys: extra lean ground turkey breast, whole wheat panko. Everything else is from your pantry or always-on-hand spices. Storage: meatballs and sauce keep 3 days in the fridge and freeze well; store rice separately and revive it with a splash of water in the Tovala on Steam so it doesn't dry out. Pro tips: grate the tomatoes on the large holes of a box grater and discard the skins for a smoother scratch sauce; don't overwork the turkey or the meatballs turn dense; brown hard for color, then let the sauce finish the cooking so they stay tender. Fatty-liver note: this is a naturally light dish — extra lean turkey breast, olive oil as the only fat, a scratch tomato sauce with no sugar, and whole-grain brown rice kept to a modest portion, with the tomatoes and onion carrying the fiber.",
+        "baseServings": 3,
+        "estCostTotal": 14.62,
+        "estCostPerServing": 4.87,
+        "estGroceryCost": 9.75
       }
     }
   ],
