@@ -1,3 +1,94 @@
 {
-  "meals": []
+  "meals": [
+    {
+      "id": "1790821577520",
+      "recipe": "Moroccan Lamb & Chickpea Stew",
+      "servings": 3,
+      "cooked_at_ms": 1790821577520,
+      "pantry_settled": true,
+      "lines": [
+        {
+          "pantry_id": "1789428671583978",
+          "pantry_name": "Beef, top sirloin steak, raw",
+          "name": "Boneless lamb leg, trimmed of all visible fat and cut into 2.5 cm cubes (new buy)",
+          "group": "Braising pot",
+          "raw_g": 307.0
+        },
+        {
+          "pantry_id": "1790034946247821",
+          "pantry_name": "Extra Virgin Olive Oil (Sunny Select)",
+          "name": "Extra virgin olive oil (Sunny Select)",
+          "barcode": "717544118916",
+          "group": "Braising pot",
+          "raw_g": 15.0
+        },
+        {
+          "pantry_id": "1790034946247821",
+          "pantry_name": "Extra Virgin Olive Oil (Sunny Select)",
+          "name": "Extra virgin olive oil (Sunny Select)",
+          "barcode": "717544118916",
+          "group": "Braising pot",
+          "raw_g": 11.2
+        },
+        {
+          "pantry_id": "1790379434408041",
+          "pantry_name": "Onions, yellow, raw",
+          "name": "Yellow onion, diced",
+          "group": "Braising pot",
+          "raw_g": 165.0
+        },
+        {
+          "pantry_id": "",
+          "name": "Carrots, peeled and cut into 2 cm chunks (new buy)",
+          "group": "Braising pot",
+          "raw_g": 297.0
+        },
+        {
+          "pantry_id": "1783349372256642",
+          "pantry_name": "Minced California Garlic (Kirkland)",
+          "name": "Minced California garlic (Kirkland)",
+          "barcode": "096619581870",
+          "group": "Braising pot",
+          "raw_g": 18.1
+        },
+        {
+          "pantry_id": "1790635307249279",
+          "pantry_name": "Tomato Paste Sunny Select",
+          "name": "Tomato paste (new buy)",
+          "barcode": "717544103592",
+          "group": "Braising pot",
+          "raw_g": 73.4
+        },
+        {
+          "pantry_id": "1788479679972461",
+          "pantry_name": "Tomatoes, raw",
+          "name": "Tomatoes, raw, cored and roughly chopped",
+          "group": "Braising pot",
+          "raw_g": 295.0
+        },
+        {
+          "pantry_id": "1790635272372317",
+          "pantry_name": "Chicken broth",
+          "name": "Chicken broth (new buy)",
+          "barcode": "717544108726",
+          "group": "Braising pot",
+          "raw_g": 415.0
+        },
+        {
+          "pantry_id": "1790635248631936",
+          "pantry_name": "Garbanzos Chick Peas (S&W)",
+          "name": "Canned chickpeas, drained and rinsed (new buy)",
+          "barcode": "072273393134",
+          "group": "Braising pot",
+          "raw_g": 270.9
+        },
+        {
+          "pantry_id": "",
+          "name": "Fresh cilantro, leaves and tender stems, roughly chopped (new buy)",
+          "group": "Braising pot",
+          "raw_g": 24.0
+        }
+      ]
+    }
+  ]
 }
