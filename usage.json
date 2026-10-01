@@ -980,14 +980,14 @@
       "source": "manual"
     },
     {
-      "id": "1787622383319300-1787625077301-1",
+      "id": "1787274147117817-1787625077301-8",
       "ts": 1787625077301,
-      "item_id": "1787622383319300",
-      "name": "Lemon, raw",
-      "amount": 62.8,
+      "item_id": "1787274147117817",
+      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
+      "amount": 39.4,
       "unit": "g",
-      "unit_price": 0.0067,
-      "cost": 0.42,
+      "unit_price": 0.0178,
+      "cost": 0.7,
       "source": "bodycomp"
     },
     {
@@ -1024,14 +1024,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1787274147117817-1787625077301-8",
+      "id": "1787622383319300-1787625077301-1",
       "ts": 1787625077301,
-      "item_id": "1787274147117817",
-      "name": "COTIJA PART SKIM MILK CHEESE (Cacique)",
-      "amount": 39.4,
+      "item_id": "1787622383319300",
+      "name": "Lemon, raw",
+      "amount": 62.8,
       "unit": "g",
-      "unit_price": 0.0178,
-      "cost": 0.7,
+      "unit_price": 0.0067,
+      "cost": 0.42,
       "source": "bodycomp"
     },
     {
@@ -2297,6 +2297,17 @@
       "unit": "g",
       "unit_price": 0.006,
       "cost": 2.69,
+      "source": "manual"
+    },
+    {
+      "id": "1789428671583978-1790821578888",
+      "ts": 1790821578888,
+      "item_id": "1789428671583978",
+      "name": "Beef, top sirloin steak, raw",
+      "amount": 307.0,
+      "unit": "g",
+      "unit_price": 0.0287,
+      "cost": 8.8,
       "source": "manual"
     }
   ]
