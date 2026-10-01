@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1790878062804,
+  "updated_at_ms": 1790890896037,
   "meals": [
     {
       "createdAtMs": 1790282052095,
@@ -140,19 +140,19 @@
         true,
         false,
         true,
-        false,
-        true,
-        true,
-        true,
-        false,
-        true,
-        true,
         true,
         true,
         true,
         true,
         false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "recipe": {
         "title": "Turkey Keftedes Meatballs in Fresh Tomato Sauce over Brown Rice",
