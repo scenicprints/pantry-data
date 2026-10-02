@@ -741,6 +741,13 @@
       "unit_price": 0.0061,
       "unit": "g",
       "ts": 1790900756320
+    },
+    {
+      "name": "Old Bay Season Coating Mix (Old Bay)",
+      "barcode": "070328010807",
+      "unit_price": 0.0277,
+      "unit": "g",
+      "ts": 1790900779615
     }
   ]
 }
