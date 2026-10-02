@@ -305,6 +305,21 @@
       "price_per_gram": 0.0038
     },
     {
+      "id": "1790035086291600",
+      "name": "Baby potatoes (The Little Potato Co.)",
+      "barcode": "629307042546",
+      "price": 0.0,
+      "expiring_soon": false,
+      "date_added": "2026-09-21",
+      "last_price": 0.0,
+      "updated_at_ms": 1790035086291,
+      "category": "Pantry",
+      "quantity_unknown": true,
+      "total_weight_g": 0.0,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0
+    },
+    {
       "id": "1788306149249766",
       "name": "baby spring mix (organic girl)",
       "barcode": "895203001172",
@@ -1266,6 +1281,34 @@
       "price_per_gram": 0.0013
     },
     {
+      "id": "1786144321746508",
+      "name": "Egg (Costco)",
+      "barcode": "096619102556",
+      "price": 7.09,
+      "serving_size": 50.0,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 6.0,
+        "calories": 70.0,
+        "carbs_g": 0.0,
+        "fat_g": 5.0
+      },
+      "macros_per_100g": {
+        "protein_g": 12.0,
+        "calories": 140.0,
+        "carbs_g": 0.0,
+        "fat_g": 10.0
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-07",
+      "last_price": 7.09,
+      "updated_at_ms": 1789355198977,
+      "category": "Pantry",
+      "total_weight_g": 3000.0,
+      "remaining_weight_g": 1093.0,
+      "price_per_gram": 0.0024
+    },
+    {
       "id": "1786575236958341",
       "name": "Egg Whites (Kirkland Signature)",
       "barcode": "096619106233",
@@ -1492,34 +1535,6 @@
       "price_per_gram": 0.0156
     },
     {
-      "id": "1787004801494130",
-      "name": "fresh ground turkey breast (Jennie-O)",
-      "barcode": "042222302043",
-      "price": 10.78,
-      "serving_size": 113.4,
-      "serving_unit": "g",
-      "macros_per_serving": {
-        "protein_g": 28.3,
-        "calories": 121.5,
-        "carbs_g": 0.0,
-        "fat_g": 1.0
-      },
-      "macros_per_100g": {
-        "protein_g": 25.0,
-        "calories": 107.1,
-        "carbs_g": 0.0,
-        "fat_g": 0.9
-      },
-      "expiring_soon": false,
-      "date_added": "2026-08-17",
-      "last_price": 10.78,
-      "updated_at_ms": 1788222398534,
-      "category": "Pantry",
-      "total_weight_g": 453.6,
-      "remaining_weight_g": 0.0,
-      "price_per_gram": 0.0238
-    },
-    {
       "id": "1788215055960777",
       "name": "fresh ground turkey breast (Jennie-O)",
       "barcode": "042222302043",
@@ -1546,6 +1561,34 @@
       "total_weight_g": 113.4,
       "remaining_weight_g": 0.0,
       "price_per_gram": 0.0793
+    },
+    {
+      "id": "1787004801494130",
+      "name": "fresh ground turkey breast (Jennie-O)",
+      "barcode": "042222302043",
+      "price": 10.78,
+      "serving_size": 113.4,
+      "serving_unit": "g",
+      "macros_per_serving": {
+        "protein_g": 28.3,
+        "calories": 121.5,
+        "carbs_g": 0.0,
+        "fat_g": 1.0
+      },
+      "macros_per_100g": {
+        "protein_g": 25.0,
+        "calories": 107.1,
+        "carbs_g": 0.0,
+        "fat_g": 0.9
+      },
+      "expiring_soon": false,
+      "date_added": "2026-08-17",
+      "last_price": 10.78,
+      "updated_at_ms": 1788222398534,
+      "category": "Pantry",
+      "total_weight_g": 453.6,
+      "remaining_weight_g": 0.0,
+      "price_per_gram": 0.0238
     },
     {
       "id": "1790635248631936",
