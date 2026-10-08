@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1791245584104,
+  "updated_at_ms": 1791430241171,
   "model": "opus",
   "equipment": [
     "Air fryer",
@@ -23,5 +23,6 @@
     "Curry",
     "Tofu"
   ],
-  "notes": {}
+  "notes": {},
+  "hungryroot": false
 }
