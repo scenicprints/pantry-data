@@ -1343,17 +1343,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788215542771816-1788222398534-2",
-      "ts": 1788222398534,
-      "item_id": "1788215542771816",
-      "name": "Peppers, bell, green, raw",
-      "amount": 358.0,
-      "unit": "g",
-      "unit_price": 0.004,
-      "cost": 1.43,
-      "source": "bodycomp"
-    },
-    {
       "id": "1783468342307182-1788222398534-3",
       "ts": 1788222398534,
       "item_id": "1783468342307182",
@@ -1362,6 +1351,17 @@
       "unit": "g",
       "unit_price": 0.0018,
       "cost": 0.42,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788215542771816-1788222398534-2",
+      "ts": 1788222398534,
+      "item_id": "1788215542771816",
+      "name": "Peppers, bell, green, raw",
+      "amount": 358.0,
+      "unit": "g",
+      "unit_price": 0.004,
+      "cost": 1.43,
       "source": "bodycomp"
     },
     {
@@ -2429,6 +2429,17 @@
       "unit": "g",
       "unit_price": 0.0121,
       "cost": 1.65,
+      "source": "manual"
+    },
+    {
+      "id": "1786575236958341-1791430272281",
+      "ts": 1791430272281,
+      "item_id": "1786575236958341",
+      "name": "Egg Whites (Kirkland Signature)",
+      "amount": 25.0,
+      "unit": "g",
+      "unit_price": 0.0043,
+      "cost": 0.11,
       "source": "manual"
     }
   ]
