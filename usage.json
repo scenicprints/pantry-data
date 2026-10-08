@@ -1343,17 +1343,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788215542771816-1788222398534-2",
-      "ts": 1788222398534,
-      "item_id": "1788215542771816",
-      "name": "Peppers, bell, green, raw",
-      "amount": 358.0,
-      "unit": "g",
-      "unit_price": 0.004,
-      "cost": 1.43,
-      "source": "bodycomp"
-    },
-    {
       "id": "1783468342307182-1788222398534-3",
       "ts": 1788222398534,
       "item_id": "1783468342307182",
@@ -1362,6 +1351,17 @@
       "unit": "g",
       "unit_price": 0.0018,
       "cost": 0.42,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1788215542771816-1788222398534-2",
+      "ts": 1788222398534,
+      "item_id": "1788215542771816",
+      "name": "Peppers, bell, green, raw",
+      "amount": 358.0,
+      "unit": "g",
+      "unit_price": 0.004,
+      "cost": 1.43,
       "source": "bodycomp"
     },
     {
@@ -1596,14 +1596,14 @@
       "source": "manual"
     },
     {
-      "id": "1788392582726771-1788483858799-3",
+      "id": "1788392881186362-1788483858799-4",
       "ts": 1788483858799,
-      "item_id": "1788392582726771",
-      "name": "Sunny Select Tomato Paste",
-      "amount": 33.3,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 452.0,
       "unit": "g",
-      "unit_price": 0.0079,
-      "cost": 0.26,
+      "unit_price": 0.0144,
+      "cost": 6.51,
       "source": "bodycomp"
     },
     {
@@ -1618,14 +1618,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788392881186362-1788483858799-4",
+      "id": "1788392582726771-1788483858799-3",
       "ts": 1788483858799,
-      "item_id": "1788392881186362",
-      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
-      "amount": 452.0,
+      "item_id": "1788392582726771",
+      "name": "Sunny Select Tomato Paste",
+      "amount": 33.3,
       "unit": "g",
-      "unit_price": 0.0144,
-      "cost": 6.51,
+      "unit_price": 0.0079,
+      "cost": 0.26,
       "source": "bodycomp"
     },
     {
@@ -1849,14 +1849,14 @@
       "source": "manual"
     },
     {
-      "id": "1788306202772940-1789169379370-3",
+      "id": "1789167956040243-1789169379370-5",
       "ts": 1789169379370,
-      "item_id": "1788306202772940",
-      "name": "Onions, white, raw",
-      "amount": 144.0,
+      "item_id": "1789167956040243",
+      "name": "Gruyere Cheese (Emmi)",
+      "amount": 91.0,
       "unit": "g",
-      "unit_price": 0.0024,
-      "cost": 0.35,
+      "unit_price": 0.0892,
+      "cost": 8.12,
       "source": "bodycomp"
     },
     {
@@ -1882,14 +1882,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1789167956040243-1789169379370-5",
+      "id": "1788306202772940-1789169379370-3",
       "ts": 1789169379370,
-      "item_id": "1789167956040243",
-      "name": "Gruyere Cheese (Emmi)",
-      "amount": 91.0,
+      "item_id": "1788306202772940",
+      "name": "Onions, white, raw",
+      "amount": 144.0,
       "unit": "g",
-      "unit_price": 0.0892,
-      "cost": 8.12,
+      "unit_price": 0.0024,
+      "cost": 0.35,
       "source": "bodycomp"
     },
     {
@@ -2407,6 +2407,17 @@
       "unit": "g",
       "unit_price": 0.0201,
       "cost": 9.0,
+      "source": "manual"
+    },
+    {
+      "id": "1790379564246912-1791430259709",
+      "ts": 1791430259709,
+      "item_id": "1790379564246912",
+      "name": "Farm Fresh Milk (Crystal)",
+      "amount": 3776.0,
+      "unit": "g",
+      "unit_price": 0.0017,
+      "cost": 6.29,
       "source": "manual"
     }
   ]
