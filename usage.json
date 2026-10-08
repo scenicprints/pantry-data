@@ -1629,17 +1629,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1786575236958341-1788841168273-1",
-      "ts": 1788841168273,
-      "item_id": "1786575236958341",
-      "name": "Egg Whites (Kirkland Signature)",
-      "amount": 324.0,
-      "unit": "g",
-      "unit_price": 0.0043,
-      "cost": 1.39,
-      "source": "bodycomp"
-    },
-    {
       "id": "1786575236958341-1788841168273-2",
       "ts": 1788841168273,
       "item_id": "1786575236958341",
@@ -1648,6 +1637,17 @@
       "unit": "g",
       "unit_price": 0.0043,
       "cost": 1.27,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1786575236958341-1788841168273-1",
+      "ts": 1788841168273,
+      "item_id": "1786575236958341",
+      "name": "Egg Whites (Kirkland Signature)",
+      "amount": 324.0,
+      "unit": "g",
+      "unit_price": 0.0043,
+      "cost": 1.39,
       "source": "bodycomp"
     },
     {
@@ -2451,6 +2451,17 @@
       "unit": "g",
       "unit_price": 0.0013,
       "cost": 5.99,
+      "source": "manual"
+    },
+    {
+      "id": "1788479679972461-1791430310347",
+      "ts": 1791430310347,
+      "item_id": "1788479679972461",
+      "name": "Tomatoes, raw",
+      "amount": 2015.0,
+      "unit": "g",
+      "unit_price": 0.0016,
+      "cost": 3.21,
       "source": "manual"
     }
   ]
