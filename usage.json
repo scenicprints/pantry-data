@@ -1343,17 +1343,6 @@
       "source": "bodycomp"
     },
     {
-      "id": "1783468342307182-1788222398534-3",
-      "ts": 1788222398534,
-      "item_id": "1783468342307182",
-      "name": "Vidalia Sweet Onions (Bland Farms)",
-      "amount": 236.0,
-      "unit": "g",
-      "unit_price": 0.0018,
-      "cost": 0.42,
-      "source": "bodycomp"
-    },
-    {
       "id": "1788215542771816-1788222398534-2",
       "ts": 1788222398534,
       "item_id": "1788215542771816",
@@ -1362,6 +1351,17 @@
       "unit": "g",
       "unit_price": 0.004,
       "cost": 1.43,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1783468342307182-1788222398534-3",
+      "ts": 1788222398534,
+      "item_id": "1783468342307182",
+      "name": "Vidalia Sweet Onions (Bland Farms)",
+      "amount": 236.0,
+      "unit": "g",
+      "unit_price": 0.0018,
+      "cost": 0.42,
       "source": "bodycomp"
     },
     {
@@ -1596,14 +1596,14 @@
       "source": "manual"
     },
     {
-      "id": "1788392881186362-1788483858799-4",
+      "id": "1788392582726771-1788483858799-3",
       "ts": 1788483858799,
-      "item_id": "1788392881186362",
-      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
-      "amount": 452.0,
+      "item_id": "1788392582726771",
+      "name": "Sunny Select Tomato Paste",
+      "amount": 33.3,
       "unit": "g",
-      "unit_price": 0.0144,
-      "cost": 6.51,
+      "unit_price": 0.0079,
+      "cost": 0.26,
       "source": "bodycomp"
     },
     {
@@ -1618,14 +1618,14 @@
       "source": "bodycomp"
     },
     {
-      "id": "1788392582726771-1788483858799-3",
+      "id": "1788392881186362-1788483858799-4",
       "ts": 1788483858799,
-      "item_id": "1788392582726771",
-      "name": "Sunny Select Tomato Paste",
-      "amount": 33.3,
+      "item_id": "1788392881186362",
+      "name": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",
+      "amount": 452.0,
       "unit": "g",
-      "unit_price": 0.0079,
-      "cost": 0.26,
+      "unit_price": 0.0144,
+      "cost": 6.51,
       "source": "bodycomp"
     },
     {
@@ -2397,6 +2397,17 @@
       "unit_price": 0.0043,
       "cost": 0.4,
       "source": "bodycomp"
+    },
+    {
+      "id": "1790900814188425-1791430250669",
+      "ts": 1791430250669,
+      "item_id": "1790900814188425",
+      "name": "1% Fat Ground Turkey Breast Extra Lean (Jennie-o)",
+      "amount": 448.0,
+      "unit": "g",
+      "unit_price": 0.0201,
+      "cost": 9.0,
+      "source": "manual"
     }
   ]
 }
