@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1790904472832,
+  "updated_at_ms": 1791577845194,
   "meals": [
     {
       "createdAtMs": 1790282052095,
@@ -128,6 +128,125 @@
         "estCostTotal": 21.45,
         "estCostPerServing": 10.73,
         "estGroceryCost": 21.63
+      }
+    },
+    {
+      "createdAtMs": 1791577843052,
+      "servings": 2,
+      "checked": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "recipe": {
+        "title": "Pesto Bison Burger with Melty Mozzarella",
+        "description": "A hard-seared bison patty on a toasted pretzel bun, basil pesto spread thick on top and mozzarella melted over the meat, with a sliced tomato and dill-pickle salad dressed in red wine vinegar alongside.",
+        "ingredients": [
+          {
+            "item": "Ground Bison (Great Range) (new buy)",
+            "amount": "300 g"
+          },
+          {
+            "item": "Pretzel burger buns (new buy)",
+            "amount": "2 buns"
+          },
+          {
+            "item": "Basil Pesto",
+            "amount": "30 g"
+          },
+          {
+            "item": "Mozzarella Low-Moisture Part-Skim shreds",
+            "amount": "50 g"
+          },
+          {
+            "item": "Extra Virgin Olive Oil (for the sear)",
+            "amount": "8 g"
+          },
+          {
+            "item": "Salt",
+            "amount": "to taste"
+          },
+          {
+            "item": "Pepper",
+            "amount": "to taste"
+          },
+          {
+            "item": "Tomatoes On The Vine",
+            "amount": "200 g"
+          },
+          {
+            "item": "Sandwich Dill Chips (Vlasic)",
+            "amount": "40 g"
+          },
+          {
+            "item": "Sweet Onion (Bland Farms)",
+            "amount": "50 g"
+          },
+          {
+            "item": "Vinegar, red wine",
+            "amount": "15 g"
+          },
+          {
+            "item": "Extra Virgin Olive Oil (for the salad)",
+            "amount": "8 g"
+          },
+          {
+            "item": "Dried oregano",
+            "amount": "1/2 tsp"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Shape the patties",
+            "content": "Divide the 300 g RAW ground bison into 2 equal patties, each about 1.5 cm thick and a bit wider than your buns (they shrink and dome as they cook). Press a shallow thumb-dent into the center of each so they stay flat. Season both sides generously with salt and pepper. Set aside while you build the salad.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Make the tomato-pickle salad",
+            "content": "Slice the 200 g tomatoes into rounds. Thinly slice the 50 g sweet onion (the mandolin makes quick work of it). Lay the tomato, onion and the 40 g dill pickle chips on a plate or in a bowl. Drizzle over the 15 g red wine vinegar and 8 g olive oil, sprinkle the 1/2 tsp oregano, and season with pepper and a little salt. Toss gently and leave it to sit — it only gets better while the burgers cook.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Preheat the broiler",
+            "content": "Set the Tovala to Broil Hi so it's hot and ready when the patties come out of the pan. Keep a sheet pan nearby.",
+            "timerSeconds": 0
+          },
+          {
+            "title": "Sear the patties",
+            "content": "Set the 10\" stainless pan on the stove at 6. Run the water test: flick a few drops into the DRY pan — when they bead and skitter it's ready. Add the 8 g olive oil and swirl; it should shimmer, not smoke. Lay the patties in and DON'T MOVE THEM — let the crust set. Sear 3–4 minutes until they release cleanly from the pan, then flip with the tongs and sear the second side 2 minutes.",
+            "timerSeconds": 240
+          },
+          {
+            "title": "Melt the mozzarella",
+            "content": "Transfer the seared patties to the sheet pan. Pile 25 g mozzarella shreds on each. Slide under the Tovala Broil Hi for 1–2 minutes, just until the cheese is melted and bubbling. Pull them and let them rest while you toast the buns.",
+            "timerSeconds": 120
+          },
+          {
+            "title": "Toast the buns",
+            "content": "Split the 2 pretzel buns and toast them (Tovala Toast, medium shade, or cut-side up under the broiler for about 1 minute) until warm and golden.",
+            "timerSeconds": 60
+          },
+          {
+            "title": "Assemble",
+            "content": "Spread 15 g pesto over the top half of each bun. Set a cheese-topped patty on each bottom bun, close the lid, and serve with the tomato-pickle salad alongside.",
+            "timerSeconds": 0
+          }
+        ],
+        "notes": "Per serving (approx): 43 g protein, 700 cal, 7 g saturated fat, ~1 g added sugar, ~5 g fiber. New buys: ground bison and pretzel buns — everything else is from the pantry. Subs: the card's havarti is swapped for your pantry part-skim mozzarella shreds (leaner, and they melt fast under the broiler). Pro tips: the thumb-dent keeps the patties from puffing into domes; let them release on their own before flipping — if they stick, they're not ready; rest the patties a couple of minutes so the juices stay in the burger, not on the plate. Store leftover cooked patties airtight up to 3 days and revive on Tovala Steam so they don't dry out; dress the salad fresh rather than storing it wet. Fatty-liver notes: seared in a measured 8 g olive oil rather than butter, lean bison, part-skim mozzarella as seasoning, and the acid-dressed tomato-and-onion salad carries the plate — the pretzel bun is the one refined piece, kept to one per person.",
+        "baseServings": 2,
+        "estCostTotal": 19.6,
+        "estCostPerServing": 9.8,
+        "estGroceryCost": 16.65
       }
     }
   ],
