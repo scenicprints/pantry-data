@@ -1,96 +1,6 @@
 {
   "meals": [
     {
-      "id": "1790821577520",
-      "recipe": "Moroccan Lamb & Chickpea Stew",
-      "servings": 3,
-      "cooked_at_ms": 1790821577520,
-      "pantry_settled": true,
-      "lines": [
-        {
-          "pantry_id": "1789428671583978",
-          "pantry_name": "Beef, top sirloin steak, raw",
-          "name": "Boneless lamb leg, trimmed of all visible fat and cut into 2.5 cm cubes (new buy)",
-          "group": "Braising pot",
-          "raw_g": 307.0
-        },
-        {
-          "pantry_id": "1790034946247821",
-          "pantry_name": "Extra Virgin Olive Oil (Sunny Select)",
-          "name": "Extra virgin olive oil (Sunny Select)",
-          "barcode": "717544118916",
-          "group": "Braising pot",
-          "raw_g": 15.0
-        },
-        {
-          "pantry_id": "1790034946247821",
-          "pantry_name": "Extra Virgin Olive Oil (Sunny Select)",
-          "name": "Extra virgin olive oil (Sunny Select)",
-          "barcode": "717544118916",
-          "group": "Braising pot",
-          "raw_g": 11.2
-        },
-        {
-          "pantry_id": "1790379434408041",
-          "pantry_name": "Onions, yellow, raw",
-          "name": "Yellow onion, diced",
-          "group": "Braising pot",
-          "raw_g": 165.0
-        },
-        {
-          "pantry_id": "",
-          "name": "Carrots, peeled and cut into 2 cm chunks (new buy)",
-          "group": "Braising pot",
-          "raw_g": 297.0
-        },
-        {
-          "pantry_id": "1783349372256642",
-          "pantry_name": "Minced California Garlic (Kirkland)",
-          "name": "Minced California garlic (Kirkland)",
-          "barcode": "096619581870",
-          "group": "Braising pot",
-          "raw_g": 18.1
-        },
-        {
-          "pantry_id": "1790635307249279",
-          "pantry_name": "Tomato Paste Sunny Select",
-          "name": "Tomato paste (new buy)",
-          "barcode": "717544103592",
-          "group": "Braising pot",
-          "raw_g": 73.4
-        },
-        {
-          "pantry_id": "1788479679972461",
-          "pantry_name": "Tomatoes, raw",
-          "name": "Tomatoes, raw, cored and roughly chopped",
-          "group": "Braising pot",
-          "raw_g": 295.0
-        },
-        {
-          "pantry_id": "1790635272372317",
-          "pantry_name": "Chicken broth",
-          "name": "Chicken broth (new buy)",
-          "barcode": "717544108726",
-          "group": "Braising pot",
-          "raw_g": 415.0
-        },
-        {
-          "pantry_id": "1790635248631936",
-          "pantry_name": "Garbanzos Chick Peas (S&W)",
-          "name": "Canned chickpeas, drained and rinsed (new buy)",
-          "barcode": "072273393134",
-          "group": "Braising pot",
-          "raw_g": 270.9
-        },
-        {
-          "pantry_id": "",
-          "name": "Fresh cilantro, leaves and tender stems, roughly chopped (new buy)",
-          "group": "Braising pot",
-          "raw_g": 24.0
-        }
-      ]
-    },
-    {
       "id": "1790904471063",
       "recipe": "Turkey Keftedes Meatballs in Fresh Tomato Sauce over Brown Rice",
       "servings": 3,
@@ -98,160 +8,120 @@
       "pantry_settled": true,
       "lines": [
         {
-          "pantry_id": "1789428706283222",
-          "pantry_name": "Brown Whole Grain Rice (Mahatma)",
           "name": "Brown whole grain rice (Mahatma)",
           "barcode": "017400105358",
           "group": "Rice cooker",
           "raw_g": 172.0
         },
         {
-          "pantry_id": "",
           "name": "Water (for rice)",
           "group": "Rice cooker",
           "raw_g": 410.0
         },
         {
-          "pantry_id": "1784846060464030",
-          "pantry_name": "fresh ground turkey (Jennie-O)",
           "name": "Extra lean ground turkey breast (Jennie-O 1%) (new buy)",
           "barcode": "042222302005",
           "group": "Skillet (meatballs and tomato sauce)",
           "raw_g": 446.0
         },
         {
-          "pantry_id": "1788479848814544",
-          "pantry_name": "Egg (Costco)",
           "name": "Egg",
           "barcode": "096619102556",
           "group": "Skillet (meatballs and tomato sauce)",
           "raw_g": 50.0
         },
         {
-          "pantry_id": "",
           "name": "Whole wheat panko (new buy)",
           "group": "Skillet (meatballs and tomato sauce)",
           "raw_g": 51.0
         },
         {
-          "pantry_id": "1790379434408041",
-          "pantry_name": "Onions, yellow, raw",
           "name": "Yellow onion, grated (for meatballs)",
           "group": "Skillet (meatballs and tomato sauce)",
           "raw_g": 55.0
         },
         {
-          "pantry_id": "1790379434408041",
-          "pantry_name": "Onions, yellow, raw",
           "name": "Yellow onion, finely chopped (for sauce)",
           "group": "Skillet (meatballs and tomato sauce)",
           "raw_g": 127.0
         },
         {
-          "pantry_id": "1783349372256642",
-          "pantry_name": "Minced California Garlic (Kirkland)",
           "name": "Minced garlic (for meatballs)",
           "barcode": "096619581870",
           "group": "Skillet (meatballs and tomato sauce)",
           "raw_g": 17.0
         },
         {
-          "pantry_id": "1783349372256642",
-          "pantry_name": "Minced California Garlic (Kirkland)",
           "name": "Minced garlic (for meatballs)",
           "barcode": "096619581870",
           "group": "Skillet (meatballs and tomato sauce)",
           "raw_g": 12.0
         },
         {
-          "pantry_id": "1783349372256642",
-          "pantry_name": "Minced California Garlic (Kirkland)",
           "name": "Minced garlic (for meatballs)",
           "barcode": "096619581870",
           "group": "Skillet (meatballs and tomato sauce)",
           "raw_g": 14.8
         },
         {
-          "pantry_id": "1783349372256642",
-          "pantry_name": "Minced California Garlic (Kirkland)",
           "name": "Minced garlic (for sauce)",
           "barcode": "096619581870",
           "group": "Skillet (meatballs and tomato sauce)",
           "raw_g": 12.0
         },
         {
-          "pantry_id": "1788479679972461",
-          "pantry_name": "Tomatoes, raw",
           "name": "Tomatoes, raw, coarsely grated or chopped",
           "group": "Skillet (meatballs and tomato sauce)",
           "raw_g": 431.0
         },
         {
-          "pantry_id": "1789428800357720",
-          "pantry_name": "Vinegar, red wine",
           "name": "Red wine vinegar",
           "group": "Skillet (meatballs and tomato sauce)",
           "raw_g": 12.3
         },
         {
-          "pantry_id": "1790034946247821",
-          "pantry_name": "Extra Virgin Olive Oil (Sunny Select)",
           "name": "Extra virgin olive oil (for browning meatballs)",
           "barcode": "717544118916",
           "group": "Rice cooker",
           "raw_g": 6.6
         },
         {
-          "pantry_id": "1790034946247821",
-          "pantry_name": "Extra Virgin Olive Oil (Sunny Select)",
           "name": "Extra virgin olive oil (for browning meatballs)",
           "barcode": "717544118916",
           "group": "Rice cooker",
           "raw_g": 10.0
         },
         {
-          "pantry_id": "1790034946247821",
-          "pantry_name": "Extra Virgin Olive Oil (Sunny Select)",
           "name": "Extra virgin olive oil (for browning meatballs)",
           "barcode": "717544118916",
           "group": "Rice cooker",
           "raw_g": 15.0
         },
         {
-          "pantry_id": "1790034946247821",
-          "pantry_name": "Extra Virgin Olive Oil (Sunny Select)",
           "name": "Extra virgin olive oil (for browning meatballs)",
           "barcode": "717544118916",
           "group": "Rice cooker",
           "raw_g": 10.1
         },
         {
-          "pantry_id": "1790034946247821",
-          "pantry_name": "Extra Virgin Olive Oil (Sunny Select)",
           "name": "Extra virgin olive oil (for browning meatballs)",
           "barcode": "717544118916",
           "group": "Rice cooker",
           "raw_g": 34.0
         },
         {
-          "pantry_id": "1790034946247821",
-          "pantry_name": "Extra Virgin Olive Oil (Sunny Select)",
           "name": "Extra virgin olive oil (for sauce)",
           "barcode": "717544118916",
           "group": "Rice cooker",
           "raw_g": 15.0
         },
         {
-          "pantry_id": "1790034946247821",
-          "pantry_name": "Extra Virgin Olive Oil (Sunny Select)",
           "name": "Extra virgin olive oil (for rice)",
           "barcode": "717544118916",
           "group": "Rice cooker",
           "raw_g": 5.0
         },
         {
-          "pantry_id": "1790635213199697",
-          "pantry_name": "Cilantro, raw",
           "name": "Cilantro, raw, chopped",
           "raw_g": 20.0
         }
