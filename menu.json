@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1791577876757,
+  "updated_at_ms": 1791577881345,
   "meals": [
     {
       "createdAtMs": 1790282052095,
@@ -143,10 +143,10 @@
         true,
         true,
         true,
+        false,
+        false,
         true,
-        false,
-        false,
-        false
+        true
       ],
       "recipe": {
         "title": "Pesto Bison Burger with Melty Mozzarella",
