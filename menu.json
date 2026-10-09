@@ -1,5 +1,5 @@
 {
-  "updated_at_ms": 1791577866390,
+  "updated_at_ms": 1791577867524,
   "meals": [
     {
       "createdAtMs": 1790282052095,
@@ -136,7 +136,7 @@
       "checked": [
         false,
         true,
-        false,
+        true,
         false,
         false,
         false,
