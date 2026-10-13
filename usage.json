@@ -2463,6 +2463,28 @@
       "unit_price": 0.0016,
       "cost": 3.21,
       "source": "manual"
+    },
+    {
+      "id": "1788479848814544-1791859443803-1",
+      "ts": 1791859443803,
+      "item_id": "1788479848814544",
+      "name": "Egg (Costco)",
+      "amount": 310.0,
+      "unit": "g",
+      "unit_price": 0.0013,
+      "cost": 0.4,
+      "source": "bodycomp"
+    },
+    {
+      "id": "1790378372784870-1791859443803-4",
+      "ts": 1791859443803,
+      "item_id": "1790378372784870",
+      "name": "MEDIUM CHEDDAR (Tillamook)",
+      "amount": 63.0,
+      "unit": "g",
+      "unit_price": 0.0101,
+      "cost": 0.64,
+      "source": "bodycomp"
     }
   ]
 }
